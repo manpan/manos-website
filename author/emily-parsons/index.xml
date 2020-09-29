@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Parsons | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/emily-parsons/</link>
+      <atom:link href="http://manospanaousis.com/author/emily-parsons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Parsons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Emily Parsons</title>
+      <link>http://manospanaousis.com/author/emily-parsons/</link>
+    </image>
+    
+    <item>
+      <title>SECONDO: a Security ECONomics service platform for smart security investments and cyber insurance pricing in the beyonD 2020 netwOrking era</title>
+      <link>http://manospanaousis.com/project/secondo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/secondo/</guid>
+      <description>&lt;p&gt;SECONDO addresses the question “How can decisions about &lt;strong&gt;cyber security investments&lt;/strong&gt; and &lt;strong&gt;cyber insurance&lt;/strong&gt; pricing be optimised?” SECONDO will support professionals who seek cyber security investments, developed to support human decision making, and a complete well-founded security strategy. This is a timely research problem, as the rapid growth of cyber-attacks is expected to continue its upwards trajectory. Such growth presents a prominent threat to normal business operations and the EU society itself. On the other hand, an interesting, well-known, finding is that an organisation&amp;rsquo;s computer systems may be less secure than a competitor&amp;rsquo;s, despite having spent more money in securing them. Budget setting, cyber security investment choices and cyber insurance, in the face of uncertainties, are highly challenging tasks with massive business implications. SECONDO aims to make impact on the operation of EU businesses who often: (i) have a limited cyber security budget; and (ii) ignore the importance of cyber insurance. Cyber insurance can play a critical role to the mitigation of cyber risk. This can be done by imposing a cost on firms&amp;rsquo; cyber risk through a premium that they have to pay and the potential for paying a smaller premium should they reduce their current cyber security risk. SECONDO has a cross-disciplinary nature, combining mathematical and engineering insights to empower innovative software. Apart from the novel research results, the project will offer a software platform to narrow the gap between theoretical understanding and practice. To achieve this, the four industrial project partners will (i) lead the part of the project where industrial needs will be entered as input to the requirements collection phase, and, (ii) provide their innovative software for risk assessment. The three academic partners will work together to (i) design and thoroughly describe the proposed methodologies, but also (ii) contribute to their software development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €1.6M (University of Greenwich share €238k).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/823997&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research in cybersecurity economics, digital asset pricing, optimal cyber insurance premiums and coverage, extending OST for an IoT cybersecurity use case (Work Package leader: Dissemination, Standardisation and Exploitation).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Usman | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/muhammad-usman/</link>
+      <atom:link href="http://manospanaousis.com/author/muhammad-usman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muhammad Usman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Muhammad Usman</title>
+      <link>http://manospanaousis.com/author/muhammad-usman/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Pohl | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/johannes-pohl/</link>
+      <atom:link href="http://manospanaousis.com/author/johannes-pohl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Pohl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Johannes Pohl</title>
+      <link>http://manospanaousis.com/author/johannes-pohl/</link>
+    </image>
+    
+    <item>
+      <title>Game-Theoretic Model of Incentivizing Privacy-Aware Users to Consent to Location Tracking</title>
+      <link>http://manospanaousis.com/publication/panaousis2015game/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2015game/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

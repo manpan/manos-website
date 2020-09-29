@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Remagnino | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/paolo-remagnino/</link>
+      <atom:link href="http://manospanaousis.com/author/paolo-remagnino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paolo Remagnino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Paolo Remagnino</title>
+      <link>http://manospanaousis.com/author/paolo-remagnino/</link>
+    </image>
+    
+    <item>
+      <title>PROACTIVE: PRedictive reasOning and multi-source fusion empowering AntiCipation of attacks and Terrorist actions In Urban EnVironmEnts</title>
+      <link>http://manospanaousis.com/project2/proactive/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/proactive/</guid>
+      <description>&lt;p&gt;The main goal of PROACTIVE is to research a holistic citizen-friendly multi sensor fusion and intelligent reasoning framework enabling the prediction, detection, understanding and efficient response to terrorist interests, goals and courses of actions in an urban environment. To this end, PROACTIVE will rely on the fusion of both static knowledge (i.e. intelligence information) and dynamic information (i.e. data observed from sensors deployed in the urban environment). The framework will be user-driven, given that the project is supported by a rich set of end-users, which are either members of the consortium or members of a special end-user advisory board.
+From a technological perspective, PROACTIVE will integrate a host of novel technologies enabling the fusion of multi-sensor data with contextual information (notably 3D digital terrain data), while also resolving the ambiguities of the fusion process. Moreover, the PROACTIVE framework will incorporate advanced reasoning techniques (such as adversarial reasoning) in order to intelligently process and derive high level terroristic semantics from a multitude of source streams. The later techniques will be adapted to the terrorist domain, in order to facilitate prediction and anticipation of actions and goals of the terroristic entities.
+Overall, PROACTIVE will leverage cutting-edge technologies such as the Net-centric Enable Capability (NEC) approach and the emerging “Internet-of-Things” concept, which are key enablers of new capabilities associated with real-time awareness of the physical environment, as well as with tracking and analyzing human behaviour. PROACTIVE will address the technological challenges that inhibit the wider deployment of NEC/ IoT in anti-terrorist applications.
+Following the deployment and evaluation of the framework, PROACTIVE will produce a set of best practices and blueprints, which will contribute to a common EU approach to terrorist prevention in an urban environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Contributing to proposal preparation, Kingston University.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

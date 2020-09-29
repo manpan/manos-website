@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manos Panaousis</title>
+    <link>http://manospanaousis.com/</link>
+      <atom:link href="http://manospanaousis.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manos Panaousis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Manos Panaousis</title>
+      <link>http://manospanaousis.com/</link>
+    </image>
+    
+    <item>
+      <title>CHAI: Cyber Hygiene in AI enabled domestic life</title>
+      <link>http://manospanaousis.com/project/chai/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/chai/</guid>
+      <description>&lt;p&gt;Artificial Intelligence (AI) is rapidly becoming part of people&amp;rsquo;s lives at home. Smart speakers, smart thermostats, security cameras with face recognition, and in the near future, brain-computer interfaces and elderly care companion robots can have considerable benefits to energy efficiency, comfort, and even health. However, &lt;strong&gt;AI also introduces new cyber security risks&lt;/strong&gt;, which users are not prepared for. When a user faces a security threat such as receiving a phishing email or visiting a watering hole website, there are often visual and behavioural cues that can raise their suspicion, and there are known cyber hygiene measures they can follow. In contrast, for AI enabled devices, such as those found in a smart home, this is rarely the case, because they are designed to be minimalist and seamless. Also, there are no equivalent cyber hygiene measures for AI security risks to advise users given the emerging nature of this technology.&lt;/p&gt;
+&lt;p&gt;The aim of CHAI is to help the individual protect themselves against security risks in AI enabled environments. CHAI argues that in AI enabled domestic life, new cyber hygiene measures need supporting by diagnostic tools that allow users to identify security attacks and appropriate training. This will be achieved through the following goals: (i) to identify and demonstrate the novel security breaches introduced by AI in the home; and to assess the social, psychological and neuroscientific factors that may influence an individual&amp;rsquo;s susceptibility in the context of these breaches; (ii) to employ and improve the use of methods already proposed in AI for improving the explainability of AI decisions in order to provide diagnostic information that allows users to identify AI security breaches; (iii) to develop new cyber hygiene measures, i.e. diagnostic and actionable steps that users may take to address a breach, optimised to the user and situation in terms of their cost (in usability, difficulty in implementing, mental effort, and even monetary if needing further software/hardware to be installed) using mathematical techniques; (iv) to co-design a novel cyber hygiene training programme with users of home technology that supports the use of Explainable AI while personalising and optimising the training to match each individual. Empirical research will be carried out in participating households to evaluate the effectiveness of this training approach.&lt;/p&gt;
+&lt;p&gt;CHAI focuses on the social housing sector, which is introducing several AI initiatives, such as housing management chatbots, building maintenance bots, and smart thermostats to tackle fuel poverty. While these initiatives can result in cost cuts and facilitate property management (e.g. temperature and humidity controllers), residents have no control over these changes and often do not have the digital literacy to respond to security risks and breaches. If an AI system&amp;rsquo;s integrity or availability is breached this could affect the physical privacy of tenants (e.g. life patterns of behaviour), as well as their emotional and physical safety (e.g. temperature, electrical appliances&amp;rsquo; control). CHAI has chosen to focus on this population because of its heightened vulnerability with respect to security.&lt;/p&gt;
+&lt;p&gt;With a view to deeply integrating CHAI in real-life settings, we approached leading industrial partners: (i) Gas Tag, AI developers for gas supply smart appliances in social housing, will support the examination of realistic AI applications that are currently in place or expected to be introduced in the near future in the home; (ii) Security awareness training providers, Bob&amp;rsquo;s Business, whose current clients include over 70,000 employees in the UK Government, will co-design cyber hygiene training programmes and webinars; and (iii) Housing technology sector representative, Housing Technology, will help recruit participant households and social housing associations for experiments and offer its dissemination channels in the housing sector.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €2.4M (University of Greenwich share €453k).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: George Loukas, &lt;strong&gt;Co-Investigator&lt;/strong&gt;: Manos Panaousis, Vasalou, A (UCL), 	Nemorin, S (UCL)&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: UCL, Queen Mary Univ. of London, Univ. of Bristol, Univ. of Reading.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research on optimisation of cybersecurity controls to mitigate threats against AI applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARIES: A Novel Multivariate Intrusion Detection System for Smart Grid</title>
+      <link>http://manospanaousis.com/publication/radoglou2020aries/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/radoglou2020aries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus: A Framework for Security Analysis in Internet of Things Systems</title>
+      <link>http://manospanaousis.com/publication/mavropoulos2019apparatus/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/mavropoulos2019apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache-Based Privacy Preserving Solution for Location and Content Protection in Location-Based Services</title>
+      <link>http://manospanaousis.com/publication/cui2020cache/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/cui2020cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TT-SVD: an Efficient Sparse Decision Making Model with Two-way Trust Recommendation in the AI Enabled IoT Systems</title>
+      <link>http://manospanaousis.com/publication/xu2020ttsvd/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/xu2020ttsvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Attribute-based Multi-Keyword Search Scheme in Encrypted Keyword Generation</title>
+      <link>http://manospanaousis.com/publication/cui2020efficient/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/cui2020efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Decision Support for Resource Offloading in Heterogeneous Internet of Things environments</title>
+      <link>http://manospanaousis.com/publication/jaddoa2019dynamic/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/jaddoa2019dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post quantum proxy signature scheme based on the multivariate public key cryptographic signature</title>
+      <link>http://manospanaousis.com/publication/chen2020post/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/chen2020post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MERIT: A fraMEwoRk to Model and IncenTivise Cyber Security Investment Decisions</title>
+      <link>http://manospanaousis.com/project/merit/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/merit/</guid>
+      <description>&lt;p&gt;The MERIT addresses the challenge of &lt;strong&gt;how to take better cyber security investment decisions&lt;/strong&gt;. It aims at minimising cyber security risks by optimally investing its budget for cyber controls. In a multi-disciplinary approach, it utilises both &lt;strong&gt;economics and cybersecurity engineering&lt;/strong&gt; insights to significantly extend the state-of-the-art in decision support for cybersecurity spending. It combines econometrics, game theory, mathematical optimisation and cyber security engineering concepts.&lt;/p&gt;
+&lt;p&gt;MERIT is addressing the complete cyber security management lifecycle, including asset pricing, threat-based risk assessment and optimal risk control constrained by a financial budget. The value of MERIT to practitioners is to &lt;strong&gt;increase the effectiveness of cyber security budget spending&lt;/strong&gt; as decided by Chief Information Security Officers (CISOs) and boards of directors. This effectiveness refers to both time to make a decision as well as financial savings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: £60k (University of Greenwich share £48k).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis, &lt;strong&gt;co-Investigator&lt;/strong&gt;: Michail Chronopoulos (City University London, Cass Business School).&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research and development on optimisation cyber security investments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On-the-fly Privacy for Location Histograms</title>
+      <link>http://manospanaousis.com/publication/theodorakopoulos2020fly/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/theodorakopoulos2020fly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Key Management in Microgrids</title>
+      <link>http://manospanaousis.com/publication/bolgouras2019distributed/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/bolgouras2019distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DT-CP: a double-TTPs based contract-signing protocol with lower computational cost</title>
+      <link>http://manospanaousis.com/publication/xu2019dt/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/xu2019dt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Taxonomy and Survey of Attacks Against Machine Learning</title>
+      <link>http://manospanaousis.com/publication/pitropakis2019taxonomy/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/pitropakis2019taxonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Incident Audits on Cyber Insurance Discounts</title>
+      <link>http://manospanaousis.com/publication/panda2019post/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panda2019post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Protection Framework Against Advanced Persistent Threats in 5G Networks.</title>
+      <link>http://manospanaousis.com/project/phdncsc/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/phdncsc/</guid>
+      <description>&lt;p&gt;The goal of this PhD is to contribute to situational awareness and alert security manager to suspicious behaviour by monitoring the virtualised and cross-correlating traffic events across different parts of the network, different network slices and different points in time on an individual user/function basis. Here, the multiple steps followed by Roaming Wildcat over the several weeks of attempts to breach their target’s security, will be leaving different traces and in different parts of the network. First, a Threat Detection Engine (TDE) will collect information from the vast range of sources involved in a 5G infrastructure and being exploitable by an APT, data collected near the edge will be processed there making use of the power of the MEC paradigm and flagging suspicious events. Then, a Dynamic Response Recommendation Engine (DRRE) will in the process be suggesting defence strategies that are commensurate to the risk perceived at each point in time and to the degree of trust in the threat data collected.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: £114,402 (University of Surrey, P.I. at application, currently external advisor).\&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Sparse Representation to Detect Anomalies in Complex WSNs</title>
+      <link>http://manospanaousis.com/publication/li2019using/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/li2019using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Encrypted Data Switching Protocol: Bridging IBE and ABE Without Loss of Data Confidentiality</title>
+      <link>http://manospanaousis.com/publication/he2019new/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/he2019new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAW: Cost-Effective Threshold Authentication with Weights for Internet of Things</title>
+      <link>http://manospanaousis.com/publication/ning2019taw/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ning2019taw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Taxonomy and Survey of Cyber-Physical Intrusion Detection Approaches for Vehicles</title>
+      <link>http://manospanaousis.com/publication/loukas2019taxonomy/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/loukas2019taxonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Resistant Identity-Based Signature with Message Recovery and Proxy Delegation</title>
+      <link>http://manospanaousis.com/publication/lu2019quantum/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/lu2019quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SECONDO: a Security ECONomics service platform for smart security investments and cyber insurance pricing in the beyonD 2020 netwOrking era</title>
+      <link>http://manospanaousis.com/project/secondo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/secondo/</guid>
+      <description>&lt;p&gt;SECONDO addresses the question “How can decisions about &lt;strong&gt;cyber security investments&lt;/strong&gt; and &lt;strong&gt;cyber insurance&lt;/strong&gt; pricing be optimised?” SECONDO will support professionals who seek cyber security investments, developed to support human decision making, and a complete well-founded security strategy. This is a timely research problem, as the rapid growth of cyber-attacks is expected to continue its upwards trajectory. Such growth presents a prominent threat to normal business operations and the EU society itself. On the other hand, an interesting, well-known, finding is that an organisation&amp;rsquo;s computer systems may be less secure than a competitor&amp;rsquo;s, despite having spent more money in securing them. Budget setting, cyber security investment choices and cyber insurance, in the face of uncertainties, are highly challenging tasks with massive business implications. SECONDO aims to make impact on the operation of EU businesses who often: (i) have a limited cyber security budget; and (ii) ignore the importance of cyber insurance. Cyber insurance can play a critical role to the mitigation of cyber risk. This can be done by imposing a cost on firms&amp;rsquo; cyber risk through a premium that they have to pay and the potential for paying a smaller premium should they reduce their current cyber security risk. SECONDO has a cross-disciplinary nature, combining mathematical and engineering insights to empower innovative software. Apart from the novel research results, the project will offer a software platform to narrow the gap between theoretical understanding and practice. To achieve this, the four industrial project partners will (i) lead the part of the project where industrial needs will be entered as input to the requirements collection phase, and, (ii) provide their innovative software for risk assessment. The three academic partners will work together to (i) design and thoroughly describe the proposed methodologies, but also (ii) contribute to their software development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €1.6M (University of Greenwich share €238k).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/823997&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research in cybersecurity economics, digital asset pricing, optimal cyber insurance premiums and coverage, extending OST for an IoT cybersecurity use case (Work Package leader: Dissemination, Standardisation and Exploitation).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CUREX: seCUre and pRivate hEalth data eXchange</title>
+      <link>http://manospanaousis.com/project/curex/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/curex/</guid>
+      <description>&lt;p&gt;The Health sector’s increasing dependence on digital information and communication infrastructures renders it vulnerable to threats to privacy and cybersecurity, especially as the theft of health data has become particularly lucrative for cyber criminals. At the same time, a breach of integrity of health data can have &lt;strong&gt;dramatic consequences for the patients affected&lt;/strong&gt;. CUREX addresses comprehensively the protection of the confidentiality and integrity of health data by producing a novel, flexible and scalable situational awareness-oriented platform. It allows a healthcare provider to assess the realistic cybersecurity and privacy risks they are exposed to and &lt;strong&gt;suggest mathematically optimal strategies for addressing these risks with safeguards tailored specifically for each business case and application&lt;/strong&gt;. CUREX is fully GDPR compliant by design. At its core, a decentralised architecture enhanced with a private blockchain infrastructure ensures the integrity of the risk assessment process and of all data transactions that occur between the diverse range of stakeholders involved. Crucially, CUREX expands beyond technical measures and places emphasis also on improving cyber hygiene through training and raising awareness activities for a healthcare institution’s personnel. Its validation focuses on the highly challenging condition of (cross-border) health data exchange, spanning &lt;strong&gt;patient cross-border mobility&lt;/strong&gt;, &lt;strong&gt;remote healthcare&lt;/strong&gt;, and &lt;strong&gt;data exchange for research&lt;/strong&gt;. CUREX consortium will also utilise the outcomes of the well-known MyHealthMyData project in a dedicated demonstration that will use their blockchain-enabled platform which will control the actual data exchange. We envisage that CUREX will impact the European market developing one of the first blockchain platform for risk assessment management under the GDPR.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €4,987,825 (University of Greenwich share €311,097, University of Surrey €39,478).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/826404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Acceptance Rate&lt;/strong&gt;: 6/46.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research in optimisation of cyber controls and lead the development of the Optimal Safeguards Tool (OST) for a healthcare cybersecurity use case (Work Package leader: Risk Management for Health Data Exchange).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyber-Insurance as a Signaling Game: Self-Reporting and External Security Audits</title>
+      <link>http://manospanaousis.com/publication/laszka2018cyber/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/laszka2018cyber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment Uncertainties in Cybersecurity Investments</title>
+      <link>http://manospanaousis.com/publication/fielder2018risk/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/fielder2018risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPEAR: Secure and PrivatE smArt gRid</title>
+      <link>http://manospanaousis.com/project/spear/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/spear/</guid>
+      <description>&lt;p&gt;Over the last decade, cyber-attacks have become increasingly sophisticated, stealthy, targeted and multi-faceted which may leverage zero-day exploits and highly creative interdisciplinary attack methods. As our society is becoming increasingly dependent on Critical INfrastructures (CIN), new technologies are needed to increase our detection and response capabilities. Detecting and responding to such attacks by a highly motivated, skilled and well-funded attacker has however been proven highly challenging. One of the most vulnerable and high-impact CIN is the Smart Grid. Smart Grid is considered as the next-generation power system, which promises self-healing, resilience, sustainability and efficiency to the energy Critical Infrastructures (CIN). However, securing smart grids against cyber-attacks is of vital importance for National Security and Public Safety, since the collapse of an energy production utility may cause human lives, millions of euros, denial of a very important and common good such as energy and days or even months of recovering. To this end, the SPEAR proposal aims at a) detecting and responding to cyber-attacks using new technologies and capabilities, b) detecting threat and anomalies timely, c) developing all-in-one security detection solutions, d) leveraging advanced forensics subject to privacy-preserving, e) confronting Advanced Persistent Threat (APT) and targeted attacks in smart grids, f) increasing the resilience of the smart grid innovation, g) alleviating the lack of trust in smart grid operators and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €2,965,597 (University of Surrey share €283,760).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis, &lt;strong&gt;Co-Investigators&lt;/strong&gt;: Kaitai Liang, Steve Schneider.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/787011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Acceptance Rate&lt;/strong&gt;: 4/63.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research on intrusion detection and reputation management (Work package 3 leader: Cyber Attack Detection in Smart Grid).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Options Approach to Cybersecurity Investment</title>
+      <link>http://manospanaousis.com/publication/chronopoulos2017options/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/chronopoulos2017options/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COALA: A Protocol for the Avoidance and Alleviation of Congestion in Wireless Sensor Networks</title>
+      <link>http://manospanaousis.com/publication/kandris2017coala/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/kandris2017coala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Conceptual Model to Support Security Analysis in the Internet of Things</title>
+      <link>http://manospanaousis.com/publication/mavropoulos2017conceptual/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/mavropoulos2017conceptual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Theoretic Path Selection to Support security in Device-to-Device Communications</title>
+      <link>http://manospanaousis.com/publication/panaousis2017game/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2017game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Support Approaches for Cyber Security Investment</title>
+      <link>http://manospanaousis.com/publication/fielder2016decision/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/fielder2016decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game-Theoretic Model of Incentivizing Privacy-Aware Users to Consent to Location Tracking</title>
+      <link>http://manospanaousis.com/publication/panaousis2015game/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2015game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games and Abstraction: The Science of Cyber Security</title>
+      <link>http://manospanaousis.com/project2/gamesandabstraction/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/gamesandabstraction/</guid>
+      <description>&lt;p&gt;This proposal addresses the challenge &amp;ldquo;How do we make better security decisions?&amp;rdquo;. Specifically we propose to develop new approaches to decision support based on mathematical game theory. Our work will support professionals who are designing secure systems and also those charged with determining if systems have an appropriate level of security &amp;ndash; in particular, systems administrators. We will develop techniques to support human decision making and techniques which enable well-founded security design decisions to be made.&lt;/p&gt;
+&lt;p&gt;We recognise that the emerging trend away from corporate IT systems towards a Bring-Your-Own-Device (BYOD) culture will bring new challenges and changes to the role of systems administrator. However, even in this brave new world, companies will continue to have core assets such as the network infrastructure and the corporate database which will need the same kind of protection. It is certainly to be expected that some of the attacks will now originate from inside the corporate&lt;/p&gt;
+&lt;p&gt;firewall rather than from outside. Our team will include researchers from the Imperial College Business School who will help us to ensure that our models are properly reflecting these new threats.&lt;/p&gt;
+&lt;p&gt;Whilst others have used game theoretic approaches to answer these questions, much of the previous work has been more or less ad hoc. As such the resulting&lt;/p&gt;
+&lt;p&gt;security decisions may be based on unsound principles. In particular, it is common to use abstractions without giving much consideration to the relationship between properties of the abstract model and the real system. We will develop a new game theoretic framework which enables a precise analysis of these relationships and hence provides a more robust decision support tool.rs and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Postdoctoral fellowship at Queen Mary University of London; visiting researcher at Imperial College London, PIs: Pasquale Malacaria, Chris Hankin&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SESAME: Small cEllS coordinAtion for Multi-tenancy and Edge services</title>
+      <link>http://manospanaousis.com/project/sesame/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/sesame/</guid>
+      <description>&lt;p&gt;Over the last decade, cyber-attacks have become increasingly sophisticated, stealthy, targeted and multi-faceted which may leverage zero-day exploits and highly creative interdisciplinary attack methods. As our society is becoming increasingly dependent on Critical INfrastructures (CIN), new technologies are needed to increase our detection and response capabilities. Detecting and responding to such attacks by a highly motivated, skilled and well-funded attacker has however been proven highly challenging. One of the most vulnerable and high-impact CIN is the Smart Grid. Smart Grid is considered as the next-generation power system, which promises self-healing, resilience, sustainability and efficiency to the energy Critical Infrastructures (CIN). However, securing smart grids against cyber-attacks is of vital importance for National Security and Public Safety, since the collapse of an energy production utility may cause human lives, millions of euros, denial of a very important and common good such as energy and days or even months of recovering. To this end, the SPEAR proposal aims at a) detecting and responding to cyber-attacks using new technologies and capabilities, b) detecting threat and anomalies timely, c) developing all-in-one security detection solutions, d) leveraging advanced forensics subject to privacy-preserving, e) confronting Advanced Persistent Threat (APT) and targeted attacks in smart grids, f) increasing the resilience of the smart grid innovation, g) alleviating the lack of trust in smart grid operators and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €8,266,932.76 (University of Brighton share €331,639).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Haris Mouratidis, &lt;strong&gt;Co-Investigator&lt;/strong&gt;: Manos Panaousis.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/671596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Acceptance Rate&lt;/strong&gt;: 14/70.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research on threat modelling for 5G networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VISION: Visual Privacy Management in User Centric Open Environments</title>
+      <link>http://manospanaousis.com/project/vision/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/vision/</guid>
+      <description>&lt;p&gt;Public Administration (PA) authorities are working towards upgrading the level of their online services through new governance models such as the Open Government. This pushes for greater transparency, accountability and innovation aiming at increasing citizen levels of confidence and trust in PA online services. In this context, user data privacy is an important issue. VisiOn will deliver a high Technology Readiness Level (TRL) Visual Privacy Management Platform, which empowers any citizen to achieve desired levels of privacy by creating and monitoring a personal Privacy Level Agreement. The platform will provide clear visualisation of privacy preferences, relevant threats and trust issues along with an insight into the economic value of user data. The platform will equip PAs with the right tools to improve the transparency and accountability of their operations, by supporting visual analysis of (i) privacy issues at different levels (e.g. design, run-time) and perspectives (i.e. citizen, PA); (ii) regulation compliance; and (iii) business/operational processes. The VisiOn consortium will leverage existing software, tools and methodologies, which partners have developed in previous projects, towards the implementation of the privacy platform software components. The latter will be tested in an operational environment (i.e. TRL 7), in three different pilot scenarios across two different scenario types (i.e. citizen/PA &amp;amp; PA/cross-border PA). Pilots will involve users from three European countries. Driven by the lack of appropriate products in the market, as identified by the relevant market analysis, the VisiOn exploitation strategy is based on commercialisation of the project results at three levels: platform-as-a-whole, fragments of the platform, and partner individual exploitation. This strategy will enable partners to integrate the project results into their existing commercial offerings, thus exploring and establishing new business opportunities and ventures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €3,161,000 (University of Brighton share €392,000).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Haris Mouratidis, &lt;strong&gt;Co-Investigators&lt;/strong&gt;: Michalis Pavlidis, Manos Panaousis.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/653642&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Acceptance Rate&lt;/strong&gt;: 6/50.\&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Game-Theoretic Approach for Minimizing Security Risks in the Internet-of-Things</title>
+      <link>http://manospanaousis.com/publication/rontidis2015game/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/rontidis2015game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SALUS: Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS</title>
+      <link>http://manospanaousis.com/project2/salus/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/salus/</guid>
+      <description>&lt;p&gt;The main goal of PROACTIVE is to research a holistic citizen-friendly multi sensor fusion and intelligent reasoning framework enabling the prediction, detection, understanding and efficient response to terrorist interests, goals and courses of actions in an urban environment. To this end, PROACTIVE will rely on the fusion of both static knowledge (i.e. intelligence information) and dynamic information (i.e. data observed from sensors deployed in the urban environment). The framework will be user-driven, given that the project is supported by a rich set of end-users, which are either members of the consortium or members of a special end-user advisory board.
+From a technological perspective, PROACTIVE will integrate a host of novel technologies enabling the fusion of multi-sensor data with contextual information (notably 3D digital terrain data), while also resolving the ambiguities of the fusion process. Moreover, the PROACTIVE framework will incorporate advanced reasoning techniques (such as adversarial reasoning) in order to intelligently process and derive high level terroristic semantics from a multitude of source streams. The later techniques will be adapted to the terrorist domain, in order to facilitate prediction and anticipation of actions and goals of the terroristic entities.
+Overall, PROACTIVE will leverage cutting-edge technologies such as the Net-centric Enable Capability (NEC) approach and the emerging “Internet-of-Things” concept, which are key enablers of new capabilities associated with real-time awareness of the physical environment, as well as with tracking and analyzing human behaviour. PROACTIVE will address the technological challenges that inhibit the wider deployment of NEC/ IoT in anti-terrorist applications.
+Following the deployment and evaluation of the framework, PROACTIVE will produce a set of best practices and blueprints, which will contribute to a common EU approach to terrorist prevention in an urban environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Contributing to proposal preparation, Kingston University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Standardisation Advancements in the Area of Routing for Mobile Ad-Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/ramrekha2013standardisation/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ramrekha2013standardisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Model for Emergency Real-Time Communications in Autonomous Networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2012security/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2012security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROACTIVE: PRedictive reasOning and multi-source fusion empowering AntiCipation of attacks and Terrorist actions In Urban EnVironmEnts</title>
+      <link>http://manospanaousis.com/project2/proactive/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/proactive/</guid>
+      <description>&lt;p&gt;The main goal of PROACTIVE is to research a holistic citizen-friendly multi sensor fusion and intelligent reasoning framework enabling the prediction, detection, understanding and efficient response to terrorist interests, goals and courses of actions in an urban environment. To this end, PROACTIVE will rely on the fusion of both static knowledge (i.e. intelligence information) and dynamic information (i.e. data observed from sensors deployed in the urban environment). The framework will be user-driven, given that the project is supported by a rich set of end-users, which are either members of the consortium or members of a special end-user advisory board.
+From a technological perspective, PROACTIVE will integrate a host of novel technologies enabling the fusion of multi-sensor data with contextual information (notably 3D digital terrain data), while also resolving the ambiguities of the fusion process. Moreover, the PROACTIVE framework will incorporate advanced reasoning techniques (such as adversarial reasoning) in order to intelligently process and derive high level terroristic semantics from a multitude of source streams. The later techniques will be adapted to the terrorist domain, in order to facilitate prediction and anticipation of actions and goals of the terroristic entities.
+Overall, PROACTIVE will leverage cutting-edge technologies such as the Net-centric Enable Capability (NEC) approach and the emerging “Internet-of-Things” concept, which are key enablers of new capabilities associated with real-time awareness of the physical environment, as well as with tracking and analyzing human behaviour. PROACTIVE will address the technological challenges that inhibit the wider deployment of NEC/ IoT in anti-terrorist applications.
+Following the deployment and evaluation of the framework, PROACTIVE will produce a set of best practices and blueprints, which will contribute to a common EU approach to terrorist prevention in an urban environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Contributing to proposal preparation, Kingston University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://manospanaousis.com/publication/example/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Hash Tables for Peer-to-Peer Mobile Ad-hoc Networks with Security Extensions</title>
+      <link>http://manospanaousis.com/publication/millar2012distributed/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/millar2012distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipients&#39; Anonymity in Multihop Ad-Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/rifa2012recipients/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/rifa2012recipients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Performance evaluation of secure video transmission over WIMAX</title>
+      <link>http://manospanaousis.com/publication/ehtisham2011performance/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ehtisham2011performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A test-bed implementation for securing OLSR in mobile ad-hoc networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2010testbed/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2010testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive and Secure Routing Protocol for Emergency Mobile Ad Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2010adaptive/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2010adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Security Protection</title>
+      <link>http://manospanaousis.com/publication/nazaryan2010end/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/nazaryan2010end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game Theoretic Approach for Securing AODV in Emergency Mobile Ad Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2009game/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2009game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing AODV Against Wormhole Attacks in Emergency MANET Multimedia Communications</title>
+      <link>http://manospanaousis.com/publication/panaousis2009securing/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2009securing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximizing Network Throughput</title>
+      <link>http://manospanaousis.com/publication/panaousis2009maximizing/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2009maximizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PEACE: IP-Based Emergency Applications and ServiCes for NExt Generation Networks</title>
+      <link>http://manospanaousis.com/project2/peace/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/peace/</guid>
+      <description>&lt;p&gt;The transition to next generation networks is often coupled with the vision of innovative services providing personalized and customisable services over an all-IP infrastructure. To enable a smooth transition, next generation all-IP networks need not only support more services but also support current vital services, namely emergency services. In the PEACE project we will provide a general emergency management framework addressing extreme emergency situations such as terrorist attacks and natural catastrophes as well as day-to-day emergency cases based on the IP Multimedia Subsystem (IMS). To achieve this goal the PEACE project will be addressing two major technological challenges. First a general solution for secure multimedia communication in extreme emergency situations will be provided. Such emergency services in cases of natural disasters or catastrophes will often involve the establishment of an ad-hoc networking environment. In this context, the PEACE project will be devising mechanisms for fast and lightweight establishment of trust relations between ad-hoc members of an emergency team and ensuring the security of their communication. Further, to enable multimedia communication in such environments an architecture will be provided for supporting the distribution of currently centralized services such as VoIP and name translation and supporting those services in a reliable manner withstanding any failures and changes of the network. Additionally, the PEACE project will investigate the provisioning of day-to-day emergency communication. Due to the different structure of IP and PSTN networks it is not possible to simply reuse current standards and solutions for realizing such communication in IP networks. This involves location management and identification solutions as well as providing reliable VoIP service infrastructure. To be able to support emergency services over an all-IP infrastructure further work is required in the area of highly reliable IP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Research fellowship working on security protocols for mobile ad-hoc networks, Kingston University, Principal investigator: Christos Politis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

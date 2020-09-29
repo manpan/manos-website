@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christos Kalloniatis | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/christos-kalloniatis/</link>
+      <atom:link href="http://manospanaousis.com/author/christos-kalloniatis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christos Kalloniatis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Christos Kalloniatis</title>
+      <link>http://manospanaousis.com/author/christos-kalloniatis/</link>
+    </image>
+    
+    <item>
+      <title>A Conceptual Model to Support Security Analysis in the Internet of Things</title>
+      <link>http://manospanaousis.com/publication/mavropoulos2017conceptual/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/mavropoulos2017conceptual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

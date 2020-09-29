@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Economics | Manos Panaousis</title>
+    <link>http://manospanaousis.com/tag/security-economics/</link>
+      <atom:link href="http://manospanaousis.com/tag/security-economics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security Economics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Security Economics</title>
+      <link>http://manospanaousis.com/tag/security-economics/</link>
+    </image>
+    
+    <item>
+      <title>MERIT: A fraMEwoRk to Model and IncenTivise Cyber Security Investment Decisions</title>
+      <link>http://manospanaousis.com/project/merit/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/merit/</guid>
+      <description>&lt;p&gt;The MERIT addresses the challenge of &lt;strong&gt;how to take better cyber security investment decisions&lt;/strong&gt;. It aims at minimising cyber security risks by optimally investing its budget for cyber controls. In a multi-disciplinary approach, it utilises both &lt;strong&gt;economics and cybersecurity engineering&lt;/strong&gt; insights to significantly extend the state-of-the-art in decision support for cybersecurity spending. It combines econometrics, game theory, mathematical optimisation and cyber security engineering concepts.&lt;/p&gt;
+&lt;p&gt;MERIT is addressing the complete cyber security management lifecycle, including asset pricing, threat-based risk assessment and optimal risk control constrained by a financial budget. The value of MERIT to practitioners is to &lt;strong&gt;increase the effectiveness of cyber security budget spending&lt;/strong&gt; as decided by Chief Information Security Officers (CISOs) and boards of directors. This effectiveness refers to both time to make a decision as well as financial savings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: £60k (University of Greenwich share £48k).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis, &lt;strong&gt;co-Investigator&lt;/strong&gt;: Michail Chronopoulos (City University London, Cass Business School).&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research and development on optimisation cyber security investments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SECONDO: a Security ECONomics service platform for smart security investments and cyber insurance pricing in the beyonD 2020 netwOrking era</title>
+      <link>http://manospanaousis.com/project/secondo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project/secondo/</guid>
+      <description>&lt;p&gt;SECONDO addresses the question “How can decisions about &lt;strong&gt;cyber security investments&lt;/strong&gt; and &lt;strong&gt;cyber insurance&lt;/strong&gt; pricing be optimised?” SECONDO will support professionals who seek cyber security investments, developed to support human decision making, and a complete well-founded security strategy. This is a timely research problem, as the rapid growth of cyber-attacks is expected to continue its upwards trajectory. Such growth presents a prominent threat to normal business operations and the EU society itself. On the other hand, an interesting, well-known, finding is that an organisation&amp;rsquo;s computer systems may be less secure than a competitor&amp;rsquo;s, despite having spent more money in securing them. Budget setting, cyber security investment choices and cyber insurance, in the face of uncertainties, are highly challenging tasks with massive business implications. SECONDO aims to make impact on the operation of EU businesses who often: (i) have a limited cyber security budget; and (ii) ignore the importance of cyber insurance. Cyber insurance can play a critical role to the mitigation of cyber risk. This can be done by imposing a cost on firms&amp;rsquo; cyber risk through a premium that they have to pay and the potential for paying a smaller premium should they reduce their current cyber security risk. SECONDO has a cross-disciplinary nature, combining mathematical and engineering insights to empower innovative software. Apart from the novel research results, the project will offer a software platform to narrow the gap between theoretical understanding and practice. To achieve this, the four industrial project partners will (i) lead the part of the project where industrial needs will be entered as input to the requirements collection phase, and, (ii) provide their innovative software for risk assessment. The three academic partners will work together to (i) design and thoroughly describe the proposed methodologies, but also (ii) contribute to their software development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budget&lt;/strong&gt;: €1.6M (University of Greenwich share €238k).&lt;br&gt;
+&lt;strong&gt;Principal Investigator&lt;/strong&gt;: Manos Panaousis.&lt;br&gt;
+&lt;strong&gt;Partners&lt;/strong&gt;: Can be found 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/823997&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Role&lt;/strong&gt;: Leading research in cybersecurity economics, digital asset pricing, optimal cyber insurance premiums and coverage, extending OST for an IoT cybersecurity use case (Work Package leader: Dissemination, Standardisation and Exploitation).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Games and Abstraction: The Science of Cyber Security</title>
+      <link>http://manospanaousis.com/project2/gamesandabstraction/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/gamesandabstraction/</guid>
+      <description>&lt;p&gt;This proposal addresses the challenge &amp;ldquo;How do we make better security decisions?&amp;rdquo;. Specifically we propose to develop new approaches to decision support based on mathematical game theory. Our work will support professionals who are designing secure systems and also those charged with determining if systems have an appropriate level of security &amp;ndash; in particular, systems administrators. We will develop techniques to support human decision making and techniques which enable well-founded security design decisions to be made.&lt;/p&gt;
+&lt;p&gt;We recognise that the emerging trend away from corporate IT systems towards a Bring-Your-Own-Device (BYOD) culture will bring new challenges and changes to the role of systems administrator. However, even in this brave new world, companies will continue to have core assets such as the network infrastructure and the corporate database which will need the same kind of protection. It is certainly to be expected that some of the attacks will now originate from inside the corporate&lt;/p&gt;
+&lt;p&gt;firewall rather than from outside. Our team will include researchers from the Imperial College Business School who will help us to ensure that our models are properly reflecting these new threats.&lt;/p&gt;
+&lt;p&gt;Whilst others have used game theoretic approaches to answer these questions, much of the previous work has been more or less ad hoc. As such the resulting&lt;/p&gt;
+&lt;p&gt;security decisions may be based on unsound principles. In particular, it is common to use abstractions without giving much consideration to the relationship between properties of the abstract model and the real system. We will develop a new game theoretic framework which enables a precise analysis of these relationships and hence provides a more robust decision support tool.rs and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Postdoctoral fellowship at Queen Mary University of London; visiting researcher at Imperial College London, PIs: Pasquale Malacaria, Chris Hankin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

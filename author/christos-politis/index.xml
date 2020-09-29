@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christos Politis | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/christos-politis/</link>
+      <atom:link href="http://manospanaousis.com/author/christos-politis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christos Politis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Christos Politis</title>
+      <link>http://manospanaousis.com/author/christos-politis/</link>
+    </image>
+    
+    <item>
+      <title>SALUS: Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS</title>
+      <link>http://manospanaousis.com/project2/salus/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/salus/</guid>
+      <description>&lt;p&gt;The main goal of PROACTIVE is to research a holistic citizen-friendly multi sensor fusion and intelligent reasoning framework enabling the prediction, detection, understanding and efficient response to terrorist interests, goals and courses of actions in an urban environment. To this end, PROACTIVE will rely on the fusion of both static knowledge (i.e. intelligence information) and dynamic information (i.e. data observed from sensors deployed in the urban environment). The framework will be user-driven, given that the project is supported by a rich set of end-users, which are either members of the consortium or members of a special end-user advisory board.
+From a technological perspective, PROACTIVE will integrate a host of novel technologies enabling the fusion of multi-sensor data with contextual information (notably 3D digital terrain data), while also resolving the ambiguities of the fusion process. Moreover, the PROACTIVE framework will incorporate advanced reasoning techniques (such as adversarial reasoning) in order to intelligently process and derive high level terroristic semantics from a multitude of source streams. The later techniques will be adapted to the terrorist domain, in order to facilitate prediction and anticipation of actions and goals of the terroristic entities.
+Overall, PROACTIVE will leverage cutting-edge technologies such as the Net-centric Enable Capability (NEC) approach and the emerging “Internet-of-Things” concept, which are key enablers of new capabilities associated with real-time awareness of the physical environment, as well as with tracking and analyzing human behaviour. PROACTIVE will address the technological challenges that inhibit the wider deployment of NEC/ IoT in anti-terrorist applications.
+Following the deployment and evaluation of the framework, PROACTIVE will produce a set of best practices and blueprints, which will contribute to a common EU approach to terrorist prevention in an urban environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Contributing to proposal preparation, Kingston University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Standardisation Advancements in the Area of Routing for Mobile Ad-Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/ramrekha2013standardisation/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ramrekha2013standardisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Model for Emergency Real-Time Communications in Autonomous Networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2012security/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2012security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROACTIVE: PRedictive reasOning and multi-source fusion empowering AntiCipation of attacks and Terrorist actions In Urban EnVironmEnts</title>
+      <link>http://manospanaousis.com/project2/proactive/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/proactive/</guid>
+      <description>&lt;p&gt;The main goal of PROACTIVE is to research a holistic citizen-friendly multi sensor fusion and intelligent reasoning framework enabling the prediction, detection, understanding and efficient response to terrorist interests, goals and courses of actions in an urban environment. To this end, PROACTIVE will rely on the fusion of both static knowledge (i.e. intelligence information) and dynamic information (i.e. data observed from sensors deployed in the urban environment). The framework will be user-driven, given that the project is supported by a rich set of end-users, which are either members of the consortium or members of a special end-user advisory board.
+From a technological perspective, PROACTIVE will integrate a host of novel technologies enabling the fusion of multi-sensor data with contextual information (notably 3D digital terrain data), while also resolving the ambiguities of the fusion process. Moreover, the PROACTIVE framework will incorporate advanced reasoning techniques (such as adversarial reasoning) in order to intelligently process and derive high level terroristic semantics from a multitude of source streams. The later techniques will be adapted to the terrorist domain, in order to facilitate prediction and anticipation of actions and goals of the terroristic entities.
+Overall, PROACTIVE will leverage cutting-edge technologies such as the Net-centric Enable Capability (NEC) approach and the emerging “Internet-of-Things” concept, which are key enablers of new capabilities associated with real-time awareness of the physical environment, as well as with tracking and analyzing human behaviour. PROACTIVE will address the technological challenges that inhibit the wider deployment of NEC/ IoT in anti-terrorist applications.
+Following the deployment and evaluation of the framework, PROACTIVE will produce a set of best practices and blueprints, which will contribute to a common EU approach to terrorist prevention in an urban environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Contributing to proposal preparation, Kingston University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed Hash Tables for Peer-to-Peer Mobile Ad-hoc Networks with Security Extensions</title>
+      <link>http://manospanaousis.com/publication/millar2012distributed/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/millar2012distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipients&#39; Anonymity in Multihop Ad-Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/rifa2012recipients/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/rifa2012recipients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Performance evaluation of secure video transmission over WIMAX</title>
+      <link>http://manospanaousis.com/publication/ehtisham2011performance/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ehtisham2011performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A test-bed implementation for securing OLSR in mobile ad-hoc networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2010testbed/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2010testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive and Secure Routing Protocol for Emergency Mobile Ad Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2010adaptive/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2010adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Security Protection</title>
+      <link>http://manospanaousis.com/publication/nazaryan2010end/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/nazaryan2010end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game Theoretic Approach for Securing AODV in Emergency Mobile Ad Hoc Networks</title>
+      <link>http://manospanaousis.com/publication/panaousis2009game/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2009game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing AODV Against Wormhole Attacks in Emergency MANET Multimedia Communications</title>
+      <link>http://manospanaousis.com/publication/panaousis2009securing/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2009securing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximizing Network Throughput</title>
+      <link>http://manospanaousis.com/publication/panaousis2009maximizing/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/panaousis2009maximizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PEACE: IP-Based Emergency Applications and ServiCes for NExt Generation Networks</title>
+      <link>http://manospanaousis.com/project2/peace/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/project2/peace/</guid>
+      <description>&lt;p&gt;The transition to next generation networks is often coupled with the vision of innovative services providing personalized and customisable services over an all-IP infrastructure. To enable a smooth transition, next generation all-IP networks need not only support more services but also support current vital services, namely emergency services. In the PEACE project we will provide a general emergency management framework addressing extreme emergency situations such as terrorist attacks and natural catastrophes as well as day-to-day emergency cases based on the IP Multimedia Subsystem (IMS). To achieve this goal the PEACE project will be addressing two major technological challenges. First a general solution for secure multimedia communication in extreme emergency situations will be provided. Such emergency services in cases of natural disasters or catastrophes will often involve the establishment of an ad-hoc networking environment. In this context, the PEACE project will be devising mechanisms for fast and lightweight establishment of trust relations between ad-hoc members of an emergency team and ensuring the security of their communication. Further, to enable multimedia communication in such environments an architecture will be provided for supporting the distribution of currently centralized services such as VoIP and name translation and supporting those services in a reliable manner withstanding any failures and changes of the network. Additionally, the PEACE project will investigate the provisioning of day-to-day emergency communication. Due to the different structure of IP and PSTN networks it is not possible to simply reuse current standards and solutions for realizing such communication in IP networks. This involves location management and identification solutions as well as providing reliable VoIP service infrastructure. To be able to support emergency services over an all-IP infrastructure further work is required in the area of highly reliable IP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Research fellowship working on security protocols for mobile ad-hoc networks, Kingston University, Principal investigator: Christos Politis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

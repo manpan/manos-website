@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangquan Xu | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/guangquan-xu/</link>
+      <atom:link href="http://manospanaousis.com/author/guangquan-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangquan Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Guangquan Xu</title>
+      <link>http://manospanaousis.com/author/guangquan-xu/</link>
+    </image>
+    
+    <item>
+      <title>TT-SVD: an Efficient Sparse Decision Making Model with Two-way Trust Recommendation in the AI Enabled IoT Systems</title>
+      <link>http://manospanaousis.com/publication/xu2020ttsvd/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/xu2020ttsvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DT-CP: a double-TTPs based contract-signing protocol with lower computational cost</title>
+      <link>http://manospanaousis.com/publication/xu2019dt/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/xu2019dt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Sparse Representation to Detect Anomalies in Complex WSNs</title>
+      <link>http://manospanaousis.com/publication/li2019using/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/li2019using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAW: Cost-Effective Threshold Authentication with Weights for Internet of Things</title>
+      <link>http://manospanaousis.com/publication/ning2019taw/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ning2019taw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

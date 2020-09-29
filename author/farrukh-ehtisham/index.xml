@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farrukh Ehtisham | Manos Panaousis</title>
+    <link>http://manospanaousis.com/author/farrukh-ehtisham/</link>
+      <atom:link href="http://manospanaousis.com/author/farrukh-ehtisham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Farrukh Ehtisham</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://manospanaousis.com/images/icon_hu74af10c7cd92758fcd76dc0e85abbbae_20356_512x512_fill_lanczos_center_2.png</url>
+      <title>Farrukh Ehtisham</title>
+      <link>http://manospanaousis.com/author/farrukh-ehtisham/</link>
+    </image>
+    
+    <item>
+      <title>“Performance evaluation of secure video transmission over WIMAX</title>
+      <link>http://manospanaousis.com/publication/ehtisham2011performance/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://manospanaousis.com/publication/ehtisham2011performance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
