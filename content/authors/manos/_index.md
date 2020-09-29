@@ -14,7 +14,7 @@ role: Associate Professor of Cyber Security # Professor of Artificial Intelligen
 
 # Organizations/Affiliations
 organizations:
-- name: University of Greenwich # Stanford University
+- name: University of Greenwich 2 # Stanford University
   url: "https://www.gre.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
