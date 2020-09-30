@@ -26,17 +26,17 @@ interests:
 - Attack Reconstruction
 - Data-driven Cyber Security
 
-#education:
-#  courses:
-#  - course: PhD in Computing
-#    institution: University of Greenwich
-#    year: 2021
-#  - course: MEng in Electronic and Computer Engineering
-#    institution: Department of Electrical and Computing Engineering, Democritus University of Thrace, Greece
-#    year: 2015
-#  - course: BSc in Electronic and Computer Engineering
-#    institution: Department of Electrical and Computing Engineering, Democritus University of Thrace, Greece
-#    year: 2015
+education:
+courses:
+- course: PhD in Computer Science (Digital Forensic for Multi-Stage Attacks)
+    institution: University of Greenwich
+    year: 2021
+  - course: MEng in Electronic and Computer Engineering
+    institution: Department of Electrical and Computing Engineering, Democritus University of Thrace, Greece
+    year: 2015
+  - course: BSc in Electronic and Computer Engineering
+    institution: Department of Electrical and Computing Engineering, Democritus University of Thrace, Greece
+    year: 2015
 
 # Social/Academic Networking
 social:
@@ -54,4 +54,4 @@ user_groups:
 - Current Researchers
 ---
 
-Antonia Nisioti is a Ph.D. student at the University of Greenwich and member of the Internet of Things and Security (ISEC) Research Centre since June 2019. Her research interest is in Cyber Security, including and not limited to cyber forensics, incident response, data-driven solutions and multi-stage attack reconstruction. She earned her BSc and MEng degrees in Electronic and Computer Engineering from Democritus University of Thrace, Greece. Currently, her research focuses on the data-driven decision support of cyber forensic investigations for advanced multi-stage cyber attscks.
+Antonia Nisioti is a Ph.D. student at the University of Greenwich and member of the Internet of Things and Security (ISEC) Research Centre since June 2019. Her research interest is in Cyber Security, including and not limited to cyber forensics, incident response, data-driven solutions and multi-stage attack reconstruction. She earned her BSc and MEng degrees in Electronic and Computer Engineering from Democritus University of Thrace, Greece. Currently, her research focuses on the data-driven decision support of cyber forensic investigations for advanced multi-stage cyber attacks.
