@@ -26,7 +26,6 @@ interests:
 - Attack Reconstruction
 - Data-driven Cyber Security
 
-education:
 courses:
 - course: PhD in Computer Science (Digital Forensic for Multi-Stage Attacks)
     institution: University of Greenwich
