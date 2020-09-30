@@ -34,10 +34,10 @@ subtitle = ""
 [design]
   # Toggle between the various page layout types.
   #   1 = List
-  #   2 = Compact
+  #   2 = Compact - gives a bit of abstract
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
 
 [design.background]
   # Apply a background color, gradient, or image.
