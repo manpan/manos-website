@@ -14,7 +14,7 @@ role: Associate Professor of Cyber Security # Professor of Artificial Intelligen
 
 # Organizations/Affiliations
 organizations:
-- name: University of Greenwich 
+- name: University of Greenwich
   url: "https://www.gre.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,6 +27,7 @@ interests:
 - Optimisation of Cyber Security Controls
 - Cyber Investments
 - Intrusion Detection and Response
+- Statistics
 
 education:
   courses:
