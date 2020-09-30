@@ -12,8 +12,7 @@ abstract: "Homomorphic encryption provides a way to perform deep learning over e
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/zhou2020deep.pdf"
-# url_slides: "http://aronlaszka.com/presentations/abbas2015scheduling-slides.pdf"
+url_pdf: "http://manospanaousis.com/papers/zhou2020deep.pdf"
 image:
   caption: ""
   focal_point: ""
