@@ -26,18 +26,6 @@ interests:
 - Attack Reconstruction
 - Data-driven Cyber Security
 
-# Social/Academic Networking
-social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:a.nisioti@greenwich.ac.uk'  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=A2EfnygAAAAJ&hl=en
-
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Current Researchers
 ---
