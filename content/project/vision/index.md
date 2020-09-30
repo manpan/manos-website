@@ -45,4 +45,4 @@ Public Administration (PA) authorities are working towards upgrading the level o
 **Budget**: €3,161,000 (University of Brighton share €392,000).\
 **Principal Investigator**: Haris Mouratidis, **Co-Investigators**: Michalis Pavlidis, Manos Panaousis.\
 **Partners**: Can be found [here](https://cordis.europa.eu/project/id/653642).\
-**Acceptance Rate**: 6/50.\
+**Acceptance Rate**: 6/50.
