@@ -48,7 +48,7 @@ CHAI focuses on the social housing sector, which is introducing several AI initi
 
 With a view to deeply integrating CHAI in real-life settings, we approached leading industrial partners: (i) Gas Tag, AI developers for gas supply smart appliances in social housing, will support the examination of realistic AI applications that are currently in place or expected to be introduced in the near future in the home; (ii) Security awareness training providers, Bob's Business, whose current clients include over 70,000 employees in the UK Government, will co-design cyber hygiene training programmes and webinars; and (iii) Housing technology sector representative, Housing Technology, will help recruit participant households and social housing associations for experiments and offer its dissemination channels in the housing sector.
 
-**Budget**: €2.4M (University of Greenwich share €453k).\
+**Budget**: £2.4M (University of Greenwich share £453k).\
 **Principal Investigator**: George Loukas, **Co-Investigator**: Manos Panaousis, Vasalou, A (UCL), 	Nemorin, S (UCL)\
 **Partners**: UCL, Queen Mary Univ. of London, Univ. of Bristol, Univ. of Reading.\
 **Role**: Leading research on optimisation of cybersecurity controls to mitigate threats against AI applications.
