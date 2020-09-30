@@ -26,8 +26,14 @@ interests:
 - Attack Reconstruction
 - Data-driven Cyber Security
 
+<<<<<<< HEAD
 courses:
 - course: PhD in Computer Science (Digital Forensic for Multi-Stage Attacks)
+=======
+education:
+  courses:
+  - course: PhD in Computer Science (Digital Forensic for Multi-Stage Attacks)
+>>>>>>> parent of 7679e76... Update _index.md
     institution: University of Greenwich
     year: 2021
   - course: MEng in Electronic and Computer Engineering
