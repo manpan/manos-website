@@ -77,10 +77,10 @@ user_groups:
 ---
 I am an Associate Professor (Reader) in the School of Computing and Mathematical Sciences at the [University of Greenwich](https://www.gre.ac.uk/). I am also a member of the Internet of Things and Security (ISEC) Group and its Industry Liaison Lead.
 
-My main research interests involve cyber security risk management, economics of security (cyber investments and cyber insurance), game theory as applied to security, applied cryptography, intrusion detection (machine learning).
-My work within enterprise environments aims at improving cyber security of small-medium enterprises and healthcare organisations. Based on my expertise and software developed within research projects I have been funded, I am seeking to solve real-world problems and advise interested end users.
+My main research interests include cyber security risk management, economics of security (cyber investments and cyber insurance), game theory as applied to security, applied cryptography, intrusion detection (machine learning).
+Most of my work aims at improving cyber security of organisations such as SMEs and healthcare organisations. Based on my expertise and software developed within my research projects, my target is to solve real-world cyber security problems and advise interested end users.
 
 My research is funded by the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/),
-the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), and the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/). I am also a member of the EPSRC Associate Peer Review College and Associate Editor of the IET Information Security.
+the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), and the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/). I am also a member of the EPSRC Associate Peer Review College and Associate Editor of the IET Information Security journal.
 
 <!-- I was a Senior Lecturer at the [University of Surrey](https://www.surrey.ac.uk/), Senior Lecturer at the [University of Brighton](https://www.brighton.ac.uk/index.aspx), Visiting Researcher at the [Imperial College London](https://www.imperial.ac.uk/), Postdoctoral Researcher at [Queen University of London](https://www.qmul.ac.uk/), and a Research and development consultant at Ubitech Technologies Ltd at the Surrey Research Park. -->
