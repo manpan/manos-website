@@ -12,7 +12,7 @@ abstract: "With the growing threat of cyber and cyber-physical attacks against a
 tags: [Intrusion Detection, Machine Learning, IoT/CPS]
 categories: [Journal]
 featured: false
-url_pdf: "http://epubs.surrey.ac.uk/849627/1/A%20taxonomy%20and%20survey%20of%20cyber-physical%20intrusion%20detection%20approaches%20for%20vehicles.pdf"
+url_pdf: "papers/loukas2018taxonomy.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
