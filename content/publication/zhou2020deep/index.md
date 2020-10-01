@@ -13,7 +13,7 @@ abstract: "Homomorphic encryption provides a way to perform deep learning over e
 tags: [Cryptography, Learning]
 categories: [Conference]
 featured: false
-#url_pdf: ""
+url_pdf: "papers/zhou2020deep"
 image:
   caption: ""
   focal_point: ""
