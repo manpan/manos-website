@@ -12,7 +12,7 @@ abstract: "With the growing threat of cyber and cyber-physical attacks against a
 tags: [Intrusion Detection, Machine Learning, IoT/CPS]
 categories: [Journal]
 featured: false
-url_pdf: "papers/loukas2018taxonomy.pdf"
+url_pdf: "papers/loukas2019taxonomy.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
