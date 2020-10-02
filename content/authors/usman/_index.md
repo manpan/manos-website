@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher (currently Senior Lecturer, University of South Wales)
 
 # Organizations/Affiliations
 organizations:

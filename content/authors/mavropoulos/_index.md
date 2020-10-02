@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (currently Head of Engineering)
+role: PhD student (currently Head of Engineering, Cyberlens)
 
 # Organizations/Affiliations
 organizations:
