@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Co-investigators
 ---
 Asimina's short bio can be found [here](https://iris.ucl.ac.uk/iris/browse/profile?upi=MVASA31).
