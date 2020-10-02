@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Researchers
+- Current
 ---
 
 Sakshyam Panda is a PhD student in the Department of Computer Science at the University of Surrey, UK. He received B.Sc. degree in Computer Science and Engineering from Institute of Technical Education and Research, India, in 2013 and M.Sc. degree in Human-Computer Interaction and Design from KTH Royal Institute of Technology, Sweden and Aalto University, Finland in 2018. His research interest includes the application of game theory to support decision-making in cyber security. Sakshyam has worked, on a part-time basis for three European funded projects, H2020 [CUREX](https://cordis.europa.eu/project/id/826404) and H202O [SPEAR](https://cordis.europa.eu/project/id/787011) projects. He has also been seconded to work for the Marie Curie Research and Innovation Staff Exchange (RISE) called [SECONDO](https://cordis.europa.eu/project/id/823997) with the cyber-insurance brokers [CROMAR](https://www.cromar.gr/index.php?lang=en).

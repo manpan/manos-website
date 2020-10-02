@@ -16,5 +16,5 @@ interests:
 - Game Theory
 
 user_groups:
-- example
+- Previous
 ---
