@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Muhammad Usman
+title: Irina Coutsoftides
 
 # Username (this should match the folder name)
 authors:
-- usman
+- coutsoftides
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (Senior Lecturer, University of South Wales)
+role: Research Engineer (Data Scientist, Enteromics)
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Adversarial Machine Learning
 - Intrusion Detection
-- Reputation Management
 
 #education:
 #  courses:
@@ -65,5 +65,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Previous
+- Current
 ---
