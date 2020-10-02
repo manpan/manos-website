@@ -65,6 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Co-investigators
 ---
 Christos's webpage can be found [here](http://cgi.di.uoa.gr/~xenakis/).

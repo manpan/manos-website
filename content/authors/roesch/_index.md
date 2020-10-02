@@ -64,6 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Co-investigators
 ---
 Etienne's homepage can be found [here](https://www.reading.ac.uk/Psychology/About/staff/e-b-roesch.aspx).

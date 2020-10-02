@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Previous
+- Co-investigators
 ---
 Haris's short biography can be found [here](https://research.brighton.ac.uk/en/persons/haris-mouratidis).

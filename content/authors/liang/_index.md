@@ -67,6 +67,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Co-investigators
 ---
 Kaitai's publications can be found [here](https://scholar.google.com/citations?user=_qHKRH4AAAAJ&hl).
