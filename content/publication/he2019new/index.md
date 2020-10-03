@@ -12,7 +12,7 @@ abstract: "Encryption technologies have become one of the most prevalent solutio
 tags: [Cryptography]
 categories: [Journal]
 featured: false
-url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678912"
+#url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678912"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

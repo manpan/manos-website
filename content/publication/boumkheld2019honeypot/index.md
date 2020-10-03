@@ -1,6 +1,6 @@
 ---
 title: "Honeypot Type Selection Games for Smart Grid Networks"
-authors: [Nadia BoumkheldSakshyam PandaStefan RassEmmanouil Panaousis]
+authors: [Nadia Boumkheld, Sakshyam Panda, Stefan Rass, Emmanouil Panaousis]
 date: 2019-10-23
 publishDate: 2019-10-23
 publication_types: ["1"]
@@ -12,7 +12,7 @@ abstract: "In this paper, we define a cyber deception game between the Advanced 
 tags: [Game theory, Honeypots, Smart grid, Cyber security ]
 categories: []
 featured: false
-url_pdf: "papers/boumkheld2019honeypot.pdf"
+#url_pdf: "papers/boumkheld2019honeypot.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

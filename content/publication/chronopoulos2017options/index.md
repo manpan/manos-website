@@ -12,7 +12,7 @@ abstract: "Cybersecurity has become a key factor that determines the success or 
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8110826"
+#url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8110826"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

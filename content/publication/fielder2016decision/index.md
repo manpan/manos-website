@@ -12,7 +12,7 @@ abstract: "When investing in cyber security resources, information security mana
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/fielder2016decision.pdf"
+#url_pdf: "https://www.manospanaousis.com/papers/fielder2016decision.pdf"
 url_slides: "https://www.manospanaousis.com/presentations/FPMH15_slides.pdf"
 image:
   caption: ""

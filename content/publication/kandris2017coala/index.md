@@ -12,7 +12,7 @@ abstract: "The occurrence of congestion has an extremely deleterious impact on t
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "http://epubs.surrey.ac.uk/844805/1/COALA.pdf"
+#url_pdf: "http://epubs.surrey.ac.uk/844805/1/COALA.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

@@ -12,7 +12,7 @@ abstract: "When undertaking cybersecurity risk assessments, it is important to b
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "http://epubs.surrey.ac.uk/847049/1/Risk%20Assessment%20Uncertainties%20in%20Cybersecurity%20Investments.pdf"
+#url_pdf: "http://epubs.surrey.ac.uk/847049/1/Risk%20Assessment%20Uncertainties%20in%20Cybersecurity%20Investments.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

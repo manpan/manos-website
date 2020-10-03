@@ -12,7 +12,7 @@ abstract: "A major characteristic of Advanced Persistent Threats (APTs) is their
 tags: [Advanced persistent threats, Cyber physical systems, Attack graph, Game Theory]
 categories: []
 featured: false
-url_pdf: "papers/rass2019cut.pdf"
+#url_pdf: "papers/rass2019cut.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
