@@ -12,7 +12,7 @@ abstract: "This paper characterizes a contract signing protocol with high effici
 tags: [Cryptography, IoT]
 categories: [Journal]
 featured: false
-url_pdf: "https://gala.gre.ac.uk/id/eprint/26129/1/26129%20PANAOUSIS_DT-CP_Double-TTPs_Based_Contract-signing_Protocol_%28OA%29_2019.pdf"
+#url_pdf: "https://gala.gre.ac.uk/id/eprint/26129/1/26129%20PANAOUSIS_DT-CP_Double-TTPs_Based_Contract-signing_Protocol_%28OA%29_2019.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
