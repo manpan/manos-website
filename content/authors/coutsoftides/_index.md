@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Irina Coutsoftides
+title: Adrian Coutsoftides
 
 # Username (this should match the folder name)
 authors:
@@ -21,8 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Adversarial Machine Learning
-- Intrusion Detection
+- Blockchain
+- Optimisation
 
 #education:
 #  courses:
@@ -65,5 +65,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Previous
 ---
