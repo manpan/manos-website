@@ -12,7 +12,7 @@ abstract: "Security for smart industrial systems is prominent due to the prolife
 tags: [Key Management, Peer-to-Peer]
 categories: [Journal]
 featured: false
-url_pdf: "https://gala.gre.ac.uk/id/eprint/25588/7/25588%20PANAOUSIS_Distributed_Key_Mangement_In_Microgrids_%28AAM%29_2019.pdf"
+#url_pdf: "https://gala.gre.ac.uk/id/eprint/25588/7/25588%20PANAOUSIS_Distributed_Key_Mangement_In_Microgrids_%28AAM%29_2019.pdf"
 image:
   caption: ""
   focal_point: ""
