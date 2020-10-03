@@ -12,7 +12,7 @@ summary: ""
 tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "http://aronlaszka.com/papers/rontidis2015game.pdf"
+#url_pdf: "http://aronlaszka.com/papers/rontidis2015game.pdf"
 image:
   caption: ""
   focal_point: ""

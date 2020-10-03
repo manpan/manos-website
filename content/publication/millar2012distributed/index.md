@@ -19,7 +19,7 @@ mobility and network sizes by building a custom DHT module for the network simul
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/millar2012distributed.pdf"
+#url_pdf: "https://www.manospanaousis.com/papers/millar2012distributed.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
