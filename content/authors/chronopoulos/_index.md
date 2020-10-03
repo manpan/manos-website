@@ -2,6 +2,8 @@
 # Display name
 title: Michail Chronopoulos
 
+weight = 60  # Order that this section will appear.
+
 # Username (this should match the folder name)
 authors:
 - chronopoulos

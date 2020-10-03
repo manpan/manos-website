@@ -2,6 +2,8 @@
 # Display name
 title: Sakshyam Panda
 
+weight = 50  # Order that this section will appear.
+
 # Username (this should match the folder name)
 authors:
 - panda
