@@ -5,8 +5,8 @@ Nikolaos Episkopos, George Kalatzantonakis, Farnaz Mohammadi,
 Nikolaos Georgopoulos, Michael Sirivianos, Nikos Salamanos, Spyros Loizou,
 Michalis Pingos, John Polley, Andrew Fielder, Emmanouil Panaousis,
 Christos Xenakis]
-date: 2017-11-15
-publishDate: 2017-11-15
+date: 2020-09-14
+publishDate: 2020-09-14
 publication_types: ["1"]
 publication: "_International Conference on Trust and Privacy in Digital Business_"
 publication_short: "_TrustBus 2020: Trust, Privacy and Security in Digital Business_"
