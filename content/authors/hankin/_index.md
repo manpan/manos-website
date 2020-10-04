@@ -68,3 +68,4 @@ email: "c.hankin@imperial.ac.uk"
 user_groups:
 - Co-investigators
 ---
+Chris's short biography can be found [here](https://www.imperial.ac.uk/people/c.hankin).
