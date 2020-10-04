@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/security-institute/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Chris's short biography can be found [here](https://www.imperial.ac.uk/people/c.hankin)." # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Security
@@ -68,3 +68,4 @@ email: "c.hankin@imperial.ac.uk"
 user_groups:
 - Co-investigators
 ---
+Chris's short biography can be found [here](https://www.imperial.ac.uk/people/c.hankin).
