@@ -18,7 +18,7 @@ organizations:
   url: "https://www.unipi.gr/unipi/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Christos's webpage can be found [here](http://cgi.di.uoa.gr/~xenakis/)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Network Security
