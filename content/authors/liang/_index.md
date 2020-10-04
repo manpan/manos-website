@@ -18,7 +18,7 @@ organizations:
   url: "https://www.tudelft.nl/cybersecurity/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Kaitai's publications can be found [here](https://scholar.google.com/citations?user=_qHKRH4AAAAJ&hl)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Applied cryptography
