@@ -154,14 +154,14 @@ date_end = "2015-06-30"
 description = "module leader"
 semester = "2014 Fall & 2015 Spring (BSc, level 6)"
 
-[[item]]
+<!-- [[item]]
 organization = "University of Brighton"
 title = "Distributed System Principles"
 url = ""
 date_start = "2014-09-01"
-date_end = "2015-06-30"
+date_end = "2015-01-30"
 description = ""
-semester = "2014 Fall (MSc, level 6)"
+semester = "2014 Fall (MSc, level 6)" -->
 
 <!-- [[item]]
 organization = "Queen Mary University of London"
@@ -176,8 +176,8 @@ semester = "2013 Fall (MSc, level 7)" -->
 organization = "Queen Mary University of London"
 title = "Distributed Systems and Security"
 url = ""
-date_start = "2014-09-01"
-date_end = "2015-06-30"
+date_start = "2013-09-01"
+date_end = "2013-12-15"
 description = "teaching assistant"
 semester = "2013 Fall (BSc, level 6)"
 
