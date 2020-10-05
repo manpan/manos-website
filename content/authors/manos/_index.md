@@ -27,7 +27,6 @@ interests:
 - Optimisation of Cyber Security Controls
 - Cyber Investments
 - Intrusion Detection and Response
-- Statistics
 
 education:
   courses:
