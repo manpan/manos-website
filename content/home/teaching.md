@@ -108,6 +108,108 @@ date_end = "2017-01-30"
 description = ""
 semester = "2016 Fall (BSc, level 5)"
 
+[[item]]
+organization = "University of Brighton"
+title = "Mathematics"
+url = ""
+date_start = "2016-01-01"
+date_end = "2016-06-30"
+description = ""
+semester = "2016 Spring (BSc, level 4)"
+
+[[item]]
+organization = "University of Brighton"
+title = "Network Management and Security"
+url = ""
+date_start = "2015-09-01"
+date_end = "2016-06-30"
+description = ""
+semester = "2015 Fall & 2016 Spring (BSc, level 6)"
+
+[[item]]
+organization = "University of Brighton"
+title = "Network Technologies"
+url = ""
+date_start = "2015-09-01"
+date_end = "2016-01-30"
+description = ""
+semester = "2015 Fall (BSc, level 5)"
+
+
+[[item]]
+organization = "University of Brighton"
+title = "Mathematics"
+url = ""
+date_start = "2015-01-01"
+date_end = "2015-06-30"
+description = ""
+semester = "2015 Spring (BSc, level 4)"
+
+[[item]]
+organization = "University of Brighton"
+title = "Network Design and Technologies"
+url = ""
+date_start = "2014-09-01"
+date_end = "2015-06-30"
+description = "module leader"
+semester = "2014 Fall & 2015 Spring (BSc, level 6)"
+
+[[item]]
+organization = "University of Brighton"
+title = "Distributed System Principles"
+url = ""
+date_start = "2014-09-01"
+date_end = "2015-06-30"
+description = ""
+semester = "2014 Fall (MSc, level 6)"
+
+<!-- [[item]]
+organization = "Queen Mary University of London"
+title = "Program Specifications"
+url = ""
+date_start = "2014-09-01"
+date_end = "2015-06-30"
+description = "teaching assistant"
+semester = "2013 Fall (MSc, level 7)" -->
+
+[[item]]
+organization = "Queen Mary University of London"
+title = "Distributed Systems and Security"
+url = ""
+date_start = "2014-09-01"
+date_end = "2015-06-30"
+description = "teaching assistant"
+semester = "2013 Fall (BSc, level 6)"
+
+
+
+<!-- <h5>2011/12</h5>
+
+<ul>
+  <li>Spring 2012, Network Security (MSc, level 7) [lecturer, Kingston University]</li>
+  <li>Spring 2012, Secure and Dependable Computing (MSc, level 7) [lecturer, Kingston University]</li>
+  <li>Spring 2012, Internet Security (BSc, level 6) [lecturer, Kingston University]</li>
+  <li>Spring 2012, Internet Wireless Networks (MSc, level 7) [lecturer, Kingston University]</li>
+  <li>Spring 2012, Health Information Governance: Privacy and Security Issues (MSc, level 7) [teaching assistant, Kingston University]
+  </li>
+  <li>Fall 2011, Internet Protocols and Services (BSc, level 6) [teaching assistant, Kingston University]</li>
+</ul>
+
+<h5>2010/11</h5>
+<ul>
+  <li>Spring 2011, Internet Wireless Networks (MSc, level 7) [lecturer, Kingston University]</li>
+  <li>Spring 2011, Multimedia Communications (MSc, level 7) [teaching assistant, Kingston University]</li>
+  <li>Fall 2010, Internet Protocols and Services (BSc, level 6) [teaching assistant, Kingston University]</li>
+  <li>Fall 2010, Networking Concepts (BSc, level 5) [teaching assistant, Kingston University]</li>
+</ul>
+
+<h5>2009/10</h5>
+<ul>
+  <li>Spring 2010, Internet Wireless Networks (MSc, level 7) [lecturer, Kingston University]</li>
+  <li>Spring 2010, Multimedia Communications (MSc, level 7) [teaching assistant, Kingston University]</li>
+</ul>
+</div> -->
+
 
 #[[item]]
 #  organization = "edX"
