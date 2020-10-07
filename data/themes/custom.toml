@@ -5,13 +5,12 @@ name = "Custom"
 light = true
 
 # Primary
-# primary = "#002d72"
-primary = "#280067"
+primary = "#002d72"
 
 # Menu
-menu_primary = "#280067" # 500
-menu_text = "#80bfff"
-menu_text_active = "#C4BBD2" # A100
+menu_primary = "#002d72" # 500
+menu_text = "#fff"
+menu_text_active = "#68ace5" # A100
 menu_title = "#fff"
 
 # Home sections
