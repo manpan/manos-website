@@ -9,7 +9,7 @@ light = true
 primary = "#9900ff"
 
 # Menu
-menu_primary = "#9900ff" # 500
+menu_primary = "#280067" # 500
 menu_text = "#80bfff"
 menu_text_active = "#C4BBD2" # A100
 menu_title = "#fff"
