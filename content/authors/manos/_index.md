@@ -23,10 +23,10 @@ bio: ""
 
 interests:
 - Defender vs Attacker Modelling
+- Sociotechnical Security
 - IoT Security
 - Optimisation of Cyber Security Controls
 - Cyber Investments
-- Intrusion Detection and Response
 
 education:
   courses:
