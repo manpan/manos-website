@@ -12,7 +12,7 @@ abstract: "The nature of Mobile Ad hoc NETworks (MANETs) makes them suitable to 
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-#url_pdf: "https://www.manospanaousis.com/papers/panaousis2010adaptive.pdf"
+url_pdf: "papers/panaousis2010adaptive.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
