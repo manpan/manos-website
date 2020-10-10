@@ -12,7 +12,7 @@ abstract: "Nowadays, mobile users have a vast number of applications and service
 #tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-#url_pdf: "http://aronlaszka.com/papers/panaousis2015game.pdf"
+url_pdf: "papers/panaousis2015game.pdf"
 image:
   caption: ""
   focal_point: ""
