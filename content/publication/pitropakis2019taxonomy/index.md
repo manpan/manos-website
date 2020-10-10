@@ -12,7 +12,7 @@ abstract: "The majority of machine learning methodologies operate with the assum
 tags: [Cybersecurity, Machine Learning]
 categories: [Journal]
 featured: false
-url_pdf: "papers/pitropakis2019taxonomy"
+url_pdf: "papers/pitropakis2019taxonomy.pdf"
 # url_slides: "http://aronlaszka.com/presentations/abbas2015scheduling-slides.pdf"
 image:
   caption: ""

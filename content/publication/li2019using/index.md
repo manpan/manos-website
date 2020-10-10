@@ -12,7 +12,7 @@ abstract: "In recent years, wireless sensor networks (WSNs) have become an activ
 tags: [Intrusion Detection, IoT]
 categories: [Journal]
 featured: false
-url_pdf: "papers/li2019using"
+url_pdf: "papers/li2019using.pdf"
 # url_slides: "http://aronlaszka.com/presentations/abbas2015scheduling-slides.pdf"
 image:
   caption: ""
