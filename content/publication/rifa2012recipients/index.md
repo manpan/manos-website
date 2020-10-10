@@ -12,7 +12,7 @@ abstract: "Multihop ad-hoc networks have a dynamic topology. Retrieving a route 
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-#url_pdf: "https://www.manospanaousis.com/papers/rifa2012recipients.pdf"
+url_pdf: "https://www.manospanaousis.com/papers/rifa2012recipients.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

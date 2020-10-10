@@ -12,7 +12,7 @@ abstract: "The IEEE 802.16 standard (mobile broadband wireless access system), w
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-#url_pdf: "https://www.manospanaousis.com/papers/nazaryan2010ipsec.pdf"
+url_pdf: "https://www.manospanaousis.com/papers/nazaryan2010ipsec.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

@@ -14,7 +14,7 @@ We evaluate OST in a healthcare domain use case. In particular, on the Critical 
 tags: [Cryptography]
 categories: [Journal]
 featured: false
-#url_pdf: "papers/panda2020optimizing.pdf"
+url_pdf: "papers/panda2020optimizing.pdf"
 image:
   caption: ""
   focal_point: ""

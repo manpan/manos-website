@@ -12,7 +12,7 @@ abstract: "In the Internet of Things, based on the collaboration of sensing node
 tags: [Cryptography, IoT]
 categories: [Journal]
 featured: false
-#url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8661487"
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8661487"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

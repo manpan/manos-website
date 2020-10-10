@@ -12,7 +12,7 @@ summary: ""
 tags: [Security Economics, Cyber Insurance]
 categories: [Conference]
 featured: false
-#url_pdf: "http://epubs.surrey.ac.uk/849078/1/Cyber-Insurance%20as%20a%20Signaling%20Game.pdf"
+url_pdf: "http://epubs.surrey.ac.uk/849078/1/Cyber-Insurance%20as%20a%20Signaling%20Game.pdf"
 image:
   caption: ""
   focal_point: ""

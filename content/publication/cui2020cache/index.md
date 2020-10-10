@@ -12,7 +12,7 @@ abstract: "Location-Based Services (LBSs) are playing an increasingly important 
 tags: [Privacy]
 categories: [Journal]
 featured: false
-#url_pdf: "http://www.manospanaousis.com/papers/cui2020cache.pdf"
+url_pdf: "http://www.manospanaousis.com/papers/cui2020cache.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

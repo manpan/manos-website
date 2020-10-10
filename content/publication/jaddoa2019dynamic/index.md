@@ -12,7 +12,7 @@ abstract: "Computation offloading is one of the primary technological enablers o
 tags: [IoT, Optimisation]
 categories: [Journal]
 featured: false
-#url_pdf: "https://www.manospanaousis.com/papers/jaddoa2019dynamic.pdf"
+url_pdf: "https://www.manospanaousis.com/papers/jaddoa2019dynamic.pdf"
 # url_slides: "http://aronlaszka.com/presentations/abbas2015scheduling-slides.pdf"
 image:
   caption: ""

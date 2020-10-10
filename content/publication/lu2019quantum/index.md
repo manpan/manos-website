@@ -12,7 +12,7 @@ abstract: "Digital signature with proxy delegation, which is a secure ownership 
 tags: [Cryptography]
 categories: [Journal]
 featured: false
-#url_pdf: "http://epubs.surrey.ac.uk/850673/1/Quantum-Resistant%20Identity-Based%20Signature%20with%20Message%20Recovery%20and%20Proxy%20Delegation.pdf"
+url_pdf: "http://epubs.surrey.ac.uk/850673/1/Quantum-Resistant%20Identity-Based%20Signature%20with%20Message%20Recovery%20and%20Proxy%20Delegation.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

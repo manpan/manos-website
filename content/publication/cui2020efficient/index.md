@@ -12,7 +12,7 @@ abstract: "With the growing popularity of cloud computing in recent years, data 
 tags: [Cryptography]
 categories: [Journal]
 featured: false
-#url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099301"
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099301"
 image:
   caption: ""
   focal_point: ""

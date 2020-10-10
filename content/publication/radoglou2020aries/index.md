@@ -12,7 +12,7 @@ abstract: "The advent of the Smart Grid (SG) raises severe cybersecurity risks t
 tags: [Intrusion Detection, Machine Learning]
 categories: [Journal]
 featured: false
-#url_pdf: "https://www.manospanaousis.com/papers/radoglou2020aries.pdf"
+url_pdf: "https://www.manospanaousis.com/papers/radoglou2020aries.pdf"
 image:
   caption: ""
   focal_point: ""

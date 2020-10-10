@@ -12,7 +12,7 @@ abstract: "Mobile Ad hoc Networks (MANETs) are self-organized and fully distribu
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-#url_pdf: "https://www.manospanaousis.com/papers/ramrekha2013standardisation.pdf"
+url_pdf: "https://www.manospanaousis.com/papers/ramrekha2013standardisation.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

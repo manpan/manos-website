@@ -14,7 +14,7 @@ summary: ""
 tags: [Security Economics, Cyber Insurance]
 categories: [Journal]
 featured: false
-#url_pdf: "https://gala.gre.ac.uk/id/eprint/25836/7/25836%20PANAOUSIS_Post-incident_Audits_On_Cyber_Insurance_Discounts_%28AAM%29_2019.pdf"
+url_pdf: "https://gala.gre.ac.uk/id/eprint/25836/7/25836%20PANAOUSIS_Post-incident_Audits_On_Cyber_Insurance_Discounts_%28AAM%29_2019.pdf"
 image:
   caption: ""
   focal_point: ""

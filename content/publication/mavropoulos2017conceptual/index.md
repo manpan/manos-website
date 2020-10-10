@@ -12,7 +12,7 @@ abstract: "This paper proposes a conceptual model to support decision makers dur
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-#url_pdf: "https://cris.brighton.ac.uk/ws/portalfiles/portal/494403/mavropoulos2017conceptual.pdf"
+url_pdf: "https://cris.brighton.ac.uk/ws/portalfiles/portal/494403/mavropoulos2017conceptual.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

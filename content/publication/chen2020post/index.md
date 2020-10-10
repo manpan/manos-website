@@ -12,7 +12,7 @@ abstract: "Proxy signature is a very useful technique which allows the original 
 tags: [Cryptography]
 categories: [Journal]
 featured: false
-#url_pdf: "https://gala.gre.ac.uk/id/eprint/27723/7/27723%20PANAOUSIS_Post_Quantum_Proxy_Signature_Scheme_%28OA%29_2020.pdf"
+url_pdf: "https://gala.gre.ac.uk/id/eprint/27723/7/27723%20PANAOUSIS_Post_Quantum_Proxy_Signature_Scheme_%28OA%29_2020.pdf"
 image:
   caption: ""
   focal_point: ""
