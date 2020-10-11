@@ -1,8 +1,8 @@
 ---
 title: "Secure Routing for Supporting Ad-hoc Extreme Emergency Infrastructures"
 authors: [Emmanouil Panaousis, Tipu Arvind Ramrekha, Politis, Christos]
-date: 2020-03-01
-publishDate: 2020-03-01
+date: 2010-06-16
+publishDate: 2020-06-18
 publication_types: ["1"]
 publication: "_2010 Future Network & Mobile Summit_"
 publication_short: "__"
