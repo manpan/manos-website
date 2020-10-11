@@ -12,7 +12,6 @@ tags: [Network Security, Peer-to-Peer]
 categories: [Conference]
 featured: false
 url_pdf: "papers/panaousis2010secure.pdf"
-url: "https://ieeexplore.ieee.org/document/5722467"
 image:
   caption: ""
   focal_point: ""
