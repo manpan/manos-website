@@ -1,8 +1,8 @@
 ---
 title: "Secure Routing for Supporting Ad-hoc Extreme Emergency Infrastructures"
-authors: [Emmanouil Panaousis, Tipu Arvind Ramrekha, Politis, Christos]
+authors: [Emmanouil Panaousis, Tipu Arvind Ramrekha, Christos Politis]
 date: 2010-06-16
-publishDate: 2020-06-18
+publishDate: 2010-06-18
 publication_types: ["1"]
 publication: "_2010 Future Network & Mobile Summit_"
 publication_short: "__"
@@ -11,7 +11,7 @@ abstract: "The importance of emergency services has lead to an indispensable nee
 tags: [Network Security, Peer-to-Peer]
 categories: [Conference]
 featured: false
-#url_pdf: "https://ieeexplore.ieee.org/document/5722467"
+url_pdf: "papers/panaousis2010secure.pdf"
 image:
   caption: ""
   focal_point: ""
