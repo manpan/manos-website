@@ -1,6 +1,6 @@
 ---
 title: "A Game-Theoretic Approach for Minimizing Security Risks in the Internet-of-Things"
-authors: [George Rontidis, Emmanouil Panaousis, aron, Tasos Dagiuklas, Pasquale Malacaria, Tansu Alpcan]
+authors: [George Rontidis, Emmanouil Panaousis, Aron Laszka, Tasos Dagiuklas, Pasquale Malacaria, Tansu Alpcan]
 date: 2015-06-01
 publishDate: 2015-06-01
 publication_types: ["1"]
