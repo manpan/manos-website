@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Cyber Security # Professor of Artificial Intelligence
+role: Associate Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
