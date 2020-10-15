@@ -12,7 +12,7 @@ abstract: "The Health sector's increasing dependence on digital information and 
 tags: [Cyber Risk Control, Privacy]
 categories: []
 featured: false
-url_pdf: "papers/mohammadi2019curex.pdf""
+url_pdf: "papers/mohammadi2019curex.pdf"
 image:
   caption: ""
   focal_point: ""
