@@ -4,7 +4,7 @@ authors: [Grant Millar, Emmanouil Panaousis, Christos Politis]
 date: 2012-02-01
 publishDate: 2012-02-01
 publication_types: ["2"]
-publication: "_Journal of Networks_, (February 2012)"
+publication: "_Journal of Networks_"
 publication_short: "_Journal of Networks_"
 #doi: ""
 abstract: "Serverless distributed computing, especially Mobile Ad-hoc NETworks (MANETs) have received significant attention from the research community. Peer-to-peer

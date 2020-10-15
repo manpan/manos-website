@@ -4,7 +4,7 @@ authors: [Emmanouil Panaousis, George Drew, Grant Millar, Tipu A Ramrekha, Chris
 date: 2010-10-01
 publishDate: 2010-10-01
 publication_types: ["2"]
-publication: "_International Journal of Network Security & Its Applications_ (October 2010)"
+publication: "_International Journal of Network Security & Its Applications_"
 publication_short: "_International Journal of Network Security & Its Applications_"
 #doi: ""
 abstract: "Contemporary personal computing devices are increasingly required to be portable and mobile
@@ -16,8 +16,8 @@ A practical solution is to use mobile devices interconnected via a wireless medi
 network, known as a Mobile Ad-hoc Network (MANET), and provide the services normally found in
 wired networks. Security in MANETs is an issue of paramount importance due to the wireless nature
 of the communication links. Additionally due to the lack of central administration security issues are
-different from conventional networks. For the purposes of this article we have used the “WMN testbed” to enable secure routing in MANETs. The use of cryptography is an efficient proven way of
-securing data in communications, but some cryptographic algorithms are not as efficient as others
+different from conventional networks. For the purposes of this article we have used the “WMN testbed” to enable secure routing in MANETs.
+The use of cryptography is an efficient proven way of securing data in communications, but some cryptographic algorithms are not as efficient as others
 and require more processing power, which is detrimental to MANETs. In this article we have
 assessed different cryptographic approaches to securing the OLSR (Optimised Link State Routing)
 protocol to provide a basis for research. We conclude the paper with a series of performance
