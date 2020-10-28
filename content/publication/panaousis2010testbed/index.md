@@ -1,5 +1,5 @@
 ---
-title: "A test-bed implementation for securing OLSR in mobile ad-hoc networks"
+title: "A Testbed Implementation for Securing OLSR in Mobile Ad-hoc Networks"
 authors: [Emmanouil Panaousis, George Drew, Grant Millar, Tipu A Ramrekha, Christos Politis]
 date: 2010-10-01
 publishDate: 2010-10-01
