@@ -33,7 +33,7 @@ different heuristic selection algorithms. The former is proven to
 be approximately 38% more effective in terms of security-risk
 mitigation."
 summary: ""
-tags: [IoT Security, Cyber-Physical Systems]
+tags: [IoT Security, Game Theory, Cyber Risk Management]
 categories: []
 featured: false
 url_pdf: "papers/rontidis2015game.pdf"
