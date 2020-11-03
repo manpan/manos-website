@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (Senior Lecturer, University of South Wales)
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University of Surrey # Stanford University
-  url: ""
+  url: "https://www.linkedin.com/in/dr-muhammad-usman-947b9b30/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
