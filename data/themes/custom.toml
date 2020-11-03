@@ -5,10 +5,10 @@ name = "Custom"
 light = true
 
 # Primary
-primary = "#483D8B"
+primary = "#1bac91"
 
 # Menu
-menu_primary = "#483D8B" # 500
+menu_primary = "#483D8B" # 500, header
 menu_text = "#fff"
 menu_text_active = "#FFB300" # A100
 menu_title = "#fff"
