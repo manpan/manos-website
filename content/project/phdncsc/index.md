@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dynamic Protection Framework Against Advanced Persistent Threats in 5G Networks."
+title: "Dynamic Protection Framework Against Advanced Persistent Threats in 5G Networks"
 subtitle: "Funded by the **National Cyber Security Centre** (NCSC), PhD studentship, 2019-2022."
 summary: #""
 authors: [manos, pell, moschoyiannis, schneider]
