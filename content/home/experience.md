@@ -69,7 +69,7 @@ date_format = "2006" # "Jan 2006"
   date_end = "2014-08-30"
 
 [[experience]]
-  title = "R&D Consultant"
+  title = "Head of Cyber Security Research"
   company = "Ubitech Limited"
   date_start = "2011-06-01"
   date_end = "2013-01-30"
