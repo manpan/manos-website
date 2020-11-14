@@ -2,7 +2,7 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "IBM Plex:400,700|IBM Plex:400,400italic,700|IBM Plex+Mono"
+# google_fonts = "IBM Plex:400,700|IBM Plex:400,400italic,700|IBM Plex+Mono"
 
 # Font families
 # heading_font = "IBM Plex"
@@ -10,7 +10,7 @@ google_fonts = "IBM Plex:400,700|IBM Plex:400,400italic,700|IBM Plex+Mono"
 # nav_font = "IBM Plex"
 # mono_font = "IBM Plex Mono"
 
-heading_font = "Montserrat"
-body_font = "Montserrat"
-nav_font = "Montserrat"
-mono_font = "Montserrat"
+heading_font = "Leelawadee"
+body_font = "Leelawadee"
+nav_font = "Leelawadee"
+mono_font = "Leelawadee"
