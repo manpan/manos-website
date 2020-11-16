@@ -16,6 +16,7 @@ categories: [Journal]
 featured: false
 url_pdf: "papers/panda2020optimizing.pdf"
 url_dataset: "https://github.com/shinington/AlertPrioritization"
+url_presentation: "https://github.com/shinington/AlertPrioritization"
 image:
   caption: ""
   focal_point: ""
