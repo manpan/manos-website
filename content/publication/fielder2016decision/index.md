@@ -13,7 +13,7 @@ abstract: "When investing in cyber security resources, information security mana
 categories: []
 featured: false
 url_pdf: "https://www.manospanaousis.com/papers/fielder2016decision.pdf"
-url_slides: "https://www.manospanaousis.com/presentations/bristol2015games.pdf"
+url_slides: "https://www.manospanaousis.com/slides/bristol2015games.pdf"
 image:
   caption: ""
   focal_point: ""
