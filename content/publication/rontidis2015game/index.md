@@ -32,13 +32,13 @@ have also performed simulations to compare NPS against two
 different heuristic selection algorithms. The former is proven to
 be approximately 38% more effective in terms of security-risk
 mitigation.
-
-  Github project: https://github.com/manpan/strong"
+Github project: https://github.com/manpan/strong"
 summary: ""
 tags: [IoT Security, Game Theory, Cyber Risk Management]
 categories: []
 featured: false
-url_pdf: "papers/rontidis2015game.pdf"
+url_pdf: "http://manospanaousis.com/papers/rontidis2015game.pdf"
+url_slides: "http://manospanaousis.com/slides/rontidis2015game.pdf"
 image:
   caption: ""
   focal_point: ""
