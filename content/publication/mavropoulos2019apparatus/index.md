@@ -12,7 +12,7 @@ tags: [IoT Security, Requirements Engineering]
 categories: [Journal]
 featured: false
 url_pdf: "https://www.manospanaousis.com/papers/mavropoulos2019apparatus.pdf"
-# url_slides: "http://aronlaszka.com/presentations/abbas2015scheduling-slides.pdf"
+url_slides: "https://www.manospanaousis.com/slides/mavropoulos2019apparatus.pdf"
 image:
   caption: ""
   focal_point: ""
