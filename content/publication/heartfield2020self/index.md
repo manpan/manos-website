@@ -13,7 +13,7 @@ We present MAGPIE, the first smart home intrusion detection system that is able 
 tags: [Privacy]
 categories: [Journal]
 featured: false
-#url_pdf: ""
+url_pdf: "https://www.manospanaousis.com/papers/heartfield2020self.pdf"
 url_code: "https://github.com/isec-greenwich/magpie"
 image:
   caption: ""
