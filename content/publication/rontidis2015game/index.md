@@ -31,8 +31,7 @@ secure one, is selected with some non-zero probability. We
 have also performed simulations to compare NPS against two
 different heuristic selection algorithms. The former is proven to
 be approximately 38% more effective in terms of security-risk
-mitigation.
-summary: ""
+mitigation."
 tags: [IoT Security, Game Theory, Cyber Risk Management]
 categories: []
 featured: false
