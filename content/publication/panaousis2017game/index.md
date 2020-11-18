@@ -14,6 +14,7 @@ categories: []
 featured: false
 url_pdf: "papers/panaousis2017game.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
+url_code: "https://github.com/manpan/game_theoretic_routing"
 image:
   caption: ""
   focal_point: ""
