@@ -1,5 +1,5 @@
 ---
-title: "Self-configurable cyber-physical intrusion detection for smart homes using reinforcement learning"
+title: "Self-Configurable Cyber-Physical Intrusion Detection for Smart Homes Using Reinforcement Learning"
 authors: [Ryan Heartfield, George Loukas, Anatolij Bezemskij, Emmanouil Panaousis]
 date: 2020-11-14
 publishDate: 2020-11-14
