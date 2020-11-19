@@ -13,7 +13,8 @@ tags: [Advanced persistent threats, Cyber physical systems, Attack graph, Game T
 categories: []
 featured: false
 url_pdf: "papers/rass2019cut.pdf"
-# url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
+url_slides: "https://www.manospanaousis.com/slides/rass2019cut-slides.pdf"
+url_code: "https://www.syssec.at/en/publikationen/description/cuttherope"
 image:
   caption: ""
   focal_point: ""
