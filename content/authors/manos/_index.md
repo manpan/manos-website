@@ -22,12 +22,12 @@ bio: ""
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Optimisation, Game Theory, Machine Learning applied to Security
 - Defender vs Attacker Modelling
-- Sociotechnical Security
+- Sociotechnical Security and Security Economics
 - IoT Security
-- Optimisation of Cyber Security Controls
-- Cyber Investments
-- Game Theory
+- Intrusion Detection
+- Cryptography
 
 education:
   courses:
