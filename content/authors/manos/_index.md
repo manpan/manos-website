@@ -23,10 +23,8 @@ bio: ""
 
 interests:
 - Optimisation, Game Theory, Machine Learning applied to Security
-- Defender vs Attacker Modelling
 - Sociotechnical Security and Security Economics
-- IoT Security
-- Intrusion Detection
+- IoT Security and Intrusion Detection
 - Cryptography
 
 education:
