@@ -7,7 +7,7 @@ light = true
 # Primary
 # primary = "#483d8b" #purple
 
-primary = "#2a2938" #purple
+primary = "#483d8b" #purple
 
 # Menu
 menu_primary = "#2a2938" # header, purple
