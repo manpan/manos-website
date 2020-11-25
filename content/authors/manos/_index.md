@@ -56,9 +56,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Emmanouil_Panaousis
-- icon: linkedin
+<!-- - icon: linkedin
   icon_pack: ai
-  link: https://www.linkedin.com/in/manospanaousis/
+  link: https://www.linkedin.com/in/manospanaousis/ -->
 
 #- icon: github
 #  icon_pack: fab
