@@ -17,6 +17,6 @@ autolink = true
 email_form = 0
 
 # Netlify form settings.
-<!-- [netlify]
+[netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
-+++ -->
++++
