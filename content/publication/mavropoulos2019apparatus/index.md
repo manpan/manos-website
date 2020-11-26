@@ -21,5 +21,3 @@ image:
 projects: []
 slides: ""
 note: "(JCR 2019: 3.643)"
-
----
