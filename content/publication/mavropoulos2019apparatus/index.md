@@ -1,6 +1,6 @@
 ---
-title: "Apparatus: A Framework for Security Analysis in Internet of Things Systems"
-authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis]
+title: "Quantum-Resistant Identity-Based Signature with Message Recovery and Proxy Delegation"
+authors: [Xiuhua Lu, Qiaoyan Wen, Wei Yin, Kaitai Liang, Zhengping Jin, Emmanouil Panaousis, Jiageng Chen]
 date: 2019-09-01
 publishDate: 2019-09-01
 publication_types: ["2"]
