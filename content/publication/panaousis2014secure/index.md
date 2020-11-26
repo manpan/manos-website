@@ -13,7 +13,7 @@ abstract: "Device-to-Device (D2D) communication is expected to be a key feature 
 categories: []
 featured: false
 url_pdf: "papers/panaousis2014secure.pdf"
-url_slides: "papers/panaousis2014secure-slides.pdf"
+url_slides: "slides/panaousis2014secure-slides.pdf"
 image:
   caption: ""
   focal_point: ""
