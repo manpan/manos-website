@@ -11,7 +11,7 @@ The implementation integrates the networking capabilities of a WSN, a wireless l
 tags: [IoT]
 categories: []
 featured: false
-url_pdf: "http://manospanaousis.com/papers/tsitsigkos2012case"
+url_pdf: "http://manospanaousis.com/papers/tsitsigkos2012case.pdf"
 image:
   caption: ""
   focal_point: ""
