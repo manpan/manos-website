@@ -12,7 +12,7 @@ abstract: "Internet of Things (IoT) systems are ubiquitous, highly complex and d
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8110826"
+url_pdf: "papers/mavropoulos2019apparatus.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
