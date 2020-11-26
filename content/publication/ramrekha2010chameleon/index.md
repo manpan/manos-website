@@ -25,10 +25,9 @@ abstract: " This document describes the ChaMeLeon (CML) routing protocol
    overall routing performance is improved. These transitions occur via
    the CML oscillation phase. This document focuses on the description
    of the processes involved in the CML Cognitive and Adaptive Module
-   (CAM), CML Oscillation phase and transition between phases."
+   (CAM), CML Oscillation phase and transition between phases. https://tools.ietf.org/html/draft-ramrekha-manet-cml-01"
 categories: []
 featured: false
-url_online: "https://tools.ietf.org/html/draft-ramrekha-manet-cml-01"
 image:
   caption: ""
   focal_point: ""
