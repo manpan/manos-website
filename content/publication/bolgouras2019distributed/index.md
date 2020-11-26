@@ -1,8 +1,8 @@
 ---
 title: "Distributed Key Management in Microgrids"
 authors: [Vaios Bolgouras, Christoforos Ntantogian, Emmanouil Panaousis, Christos Xenakis]
-date: 2020-03-01
-publishDate: 2020-03-01
+date: 2019-09-16
+publishDate: 2019-09-16
 publication_types: ["2"]
 publication: "_IEEE Transactions on Industrial Informatics_"
 publication_short: "_IEEE Transactions on Industrial Informatics_"
