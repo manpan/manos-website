@@ -13,6 +13,7 @@ tags: [IoT Security, Machine Learning]
 categories: []
 featured: false
 url_pdf: "papers/banerjee2018unsupervised.pdf"
+url_slides: "slides/banerjee2018unsupervised-slides.pdf"
 image:
   caption: ""
   focal_point: ""
