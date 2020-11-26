@@ -6,7 +6,7 @@ publishDate: 2011-11-01
 publication_types: ["2"]
 publication: "_International Journal of Computer Networks & Communications_"
 publication_short: "_International Journal of Computer Networks & Communications_"
-#doi: ""
+doi: "https://doi.org/10.1007/978-3-642-35155-6_3"
 abstract: "WiMAX is a wireless digital communication system based on the IEEE 802.16 standard which provides
 broadband wireless Internet access at very high rates that is up to 70 Mbps or a data rate of about 3
 Mbps within a radius of 30-mile (data rate increases as the distance decreases). With the rapid increase
