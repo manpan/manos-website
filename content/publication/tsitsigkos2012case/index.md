@@ -1,6 +1,6 @@
 ---
-title: "Apparatus: A Framework for Security Analysis in Internet of Things Systems"
-authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis]
+title: "A Case Study of Internet of Things Based on Wireless Sensor Networks and Smart Phones"
+authors: [Alkiviadis Tsitsigkos, Fariborz Entezami, Arvind Ramrekha, Christos Politis, Emmanouil Panaousis]
 date: 2012-05-01
 publishDate: 2012-05-01
 publication_types: ["1"]
