@@ -12,8 +12,8 @@ abstract: "In many extreme emergency cases such as forest fires or tube terroris
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/panaousis2009game.pdf"
-# url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
+url_pdf: "papers/panaousis2009game.pdf"
+url_slides: "slids/panaousis2009game-slides.pdf"
 image:
   caption: ""
   focal_point: ""
