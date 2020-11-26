@@ -13,6 +13,7 @@ tags: [Attack attribution]
 categories: [Conference]
 featured: false
 url_pdf: "papers/pitropakis2018enhanced.pdf"
+url_slides: "slides/pitropakis2018enhanced-slides.pdf"
 image:
   caption: ""
   focal_point: ""
