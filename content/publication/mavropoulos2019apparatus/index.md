@@ -13,7 +13,7 @@ abstract: "Internet of Things (IoT) systems are ubiquitous, highly complex and d
 categories: []
 featured: false
 url_pdf: "papers/mavropoulos2019apparatus.pdf"
-# url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
+url_slides: "slides/mavropoulos2019apparatus-slides.pdf"
 image:
   caption: ""
   focal_point: ""
