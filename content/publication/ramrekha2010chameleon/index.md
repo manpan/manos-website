@@ -6,7 +6,6 @@ publishDate: 2009-08-28
 publication_types: ["1"]
 publication: "_IETF MANET Working Group_"
 publication_short: "_IETF MANET WG_"
-doi: "https://tools.ietf.org/html/draft-ramrekha-manet-cml-01"
 abstract: " This document describes the ChaMeLeon (CML) routing protocol
    designed for Mobile Ad hoc NETworks (MANETs) supporting emergency
    communications. CML is a hybrid and adaptive routing protocol
@@ -29,6 +28,7 @@ abstract: " This document describes the ChaMeLeon (CML) routing protocol
    (CAM), CML Oscillation phase and transition between phases."
 categories: []
 featured: false
+url_online: "https://tools.ietf.org/html/draft-ramrekha-manet-cml-01"
 image:
   caption: ""
   focal_point: ""
