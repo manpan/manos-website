@@ -24,7 +24,7 @@ categories: []
 featured: false
 url_pdf: "http://manospanaousis.com/papers/rontidis2015game.pdf"
 url_slides: "http://manospanaousis.com/slides/rontidis2015game.pdf"
-url_code: "https://github.com/manpan/strong"
+url_github: "https://github.com/manpan/strong"
 image:
   caption: ""
   focal_point: ""
