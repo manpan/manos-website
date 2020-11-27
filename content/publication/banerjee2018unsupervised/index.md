@@ -14,7 +14,7 @@ categories: []
 featured: false
 url_pdf: "papers/banerjee2018unsupervised.pdf"
 url_slides: "slides/banerjee2018unsupervised-slides.pdf"
-url_github: "https://github.com/nikbanerjee/unsupervised-learning-trustworthy-iot"
+url_code: "https://github.com/nikbanerjee/unsupervised-learning-trustworthy-iot"
 image:
   caption: ""
   focal_point: ""
