@@ -12,6 +12,7 @@ tags: [Security Requirements Engineering, Optimisation]
 categories: [Conference]
 featured: false
 url_pdf: "papers/shepherd2017applicability.pdf"
+url_code: "https://github.com/AmbientSensorsEvaluation/Ambient-Sensors-Proximity-Evaluation"
 image:
   caption: ""
   focal_point: ""
