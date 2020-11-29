@@ -7,7 +7,7 @@ publication_types: ["1"]
 publication: "_ICCBR Workshops_"
 publication_short: "_ICCBR Workshops"
 #doi: "10.1109/ICT.2017.7998269"
-abstract: The volume of banking transaction has increased considerably in the recent years with advancement in financial transactions payment methods.
+abstract: "The volume of banking transaction has increased considerably in the recent years with advancement in financial transactions payment methods.
 Consequently, the number of fraud cases has also increased, causing billion of dollar losses each year worldwide, although
 from Literature, there has been substantial work in the domain of fraud
 detection by both the industry and academia's. Despite the substantial
@@ -21,7 +21,7 @@ increase in precision, sensitivity and specificity as the percentage ratio
 for the training and test data were varied. This was due to the linearity,
 fuzziness and presence of uncertainty in the sampling dataset. Therefore, we can reach a conclusion that part of the possible reasons why
 there are few research in applying CBR to the context of detecting financial fraud patterns may be due to incomplete information, fuzziness
-and uncertainty in the available data sets used for experimentation.
+and uncertainty in the available data sets used for experimentation.""
 tags: [Case-based Reasoning, Fraud detection]
 categories: [Conference]
 featured: false
