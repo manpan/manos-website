@@ -7,9 +7,10 @@ publication_types: ["1"]
 publication: "_ICCBR Workshops_"
 publication_short: "_ICCBR Workshops"
 #doi: "10.1109/ICT.2017.7998269"
-abstract: The volume of banking transaction has increased considerably in the recent years with advancement in financial transactions payment methods. Consequently, the number of fraud cases has also increased, causing billion of dollar losses each year worldwide, although
+abstract: The volume of banking transaction has increased considerably in the recent years with advancement in financial transactions payment methods.
+Consequently, the number of fraud cases has also increased, causing billion of dollar losses each year worldwide, although
 from Literature, there has been substantial work in the domain of fraud
-detection by both the industry and academia’s. Despite the substantial
+detection by both the industry and academia's. Despite the substantial
 work, there are few researches in applying case-based reasoning (CBR)
 approach in the context of detecting Financial Fraud. In this paper we
 aim at evaluating the performance of CBR in Identifying fraudulent patterns among financial transaction by comparing it with logistic regression
