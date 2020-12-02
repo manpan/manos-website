@@ -1,5 +1,5 @@
 ---
-title: "“Performance evaluation of secure video transmission over WIMAX"
+title: "Performance evaluation of secure video transmission over WIMAX"
 authors: [Farrukh Ehtisham, Emmanouil Panaousis, Christos Politis]
 date: 2011-11-01
 publishDate: 2011-11-01
@@ -27,7 +27,7 @@ giving credence to their application in security sensitive scenarios."
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/ehtisham2011performance.pdf"
+url_pdf: "papers/ehtisham2011performance.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""

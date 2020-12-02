@@ -13,7 +13,7 @@ abstract: "In many extreme emergency cases such as forest fires or tube terroris
 categories: []
 featured: false
 url_pdf: "papers/panaousis2009game.pdf"
-url_slides: "slids/panaousis2009game-slides.pdf"
+url_slides: "slides/panaousis2009game-slides.pdf"
 image:
   caption: ""
   focal_point: ""
