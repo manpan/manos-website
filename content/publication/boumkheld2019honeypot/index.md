@@ -13,6 +13,8 @@ tags: [Game theory, Honeypots, Smart grid, Cyber security ]
 categories: []
 featured: false
 url_pdf: "papers/boumkheld2019honeypot.pdf"
+url_slides: "slides/boumkheld2019honeypot-poster-slides.pdf"
+url_poster: "slides/boumkheld2019honeypot-poster-poster.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
