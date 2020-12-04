@@ -4,16 +4,21 @@ authors: [Orestis Mavropoulos, Haralambos MouratidisAndrew Fish, Emmanouil Panao
 date: 2017-06-07
 publishDate: 2017-06-07
 publication_types: ["2"]
-publication: "_2017 IEEE 15th International Conference on Software Engineering Research, Management and Applications_"
-publication_short: "_SERA 2017_"
-doi: "10.1109/SERA.2017.7965757"
-abstract: "In this paper, a software tool for security analysis of IoT systems is presented. The tool, named ASTo (Apparatus Software Tool) enables the visualization of IoT systems using a domain-specific modeling language. The modeling language provides constructs to express the hardware, software and social concepts of an IoT system along with security concepts. Security issues of IoT systems are identified based on the attributes of the constructs and their relationships. Security analysis is facilitated using the visualization mechanisms of the tool to recognize the secure posture of an IoT system."
+publication: "_2016 International Conference on Advanced Information Systems Engineering_"
+doi: "10.1007/978-3-319-39564-7_21"
+abstract: "Internet of Things (IoT) can be seen as the main driver towards an era of ubiquitous computing. Taking into account the scale of
+IoT, the number of security issues that emerge are unprecedented, therefore the need for proposing new methodologies for elaborating about
+security in IoT systems is undoubtedly crucial and this is recognised by both academia and the industry alike.
+In this work we present Apparatus, a conceptual model for reasoning about security in IoT systems through the lens of
+Security Requirements Engineering. Apparatus is architecture-oriented and describes an IoT system as a cluster of nodes
+that share network connections. The information of the system is documented in a textual manner, using Javascript Notation Object (JSON)
+format, in order to elicit security requirements. To demonstrate its usage the security requirements of a temperature monitor system are identified
+and a first application of Apparatus is exhibited."
 # summary: ""
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "papers/mavropoulos2017asto.pdf"
-url_slides: "slides/mavropoulos2017asto-slides.pdf"
+url_pdf: "papers/mavropoulos2016apparatus.pdf"
 url_code: "https://github.com/Or3stis/apparatus"
 image:
   caption: ""
