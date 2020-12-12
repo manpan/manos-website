@@ -97,7 +97,7 @@ address = {street = "Old Royal Naval College, Room 524", city = "Greenwich", reg
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.4844", longitude = "0.0039"}
+#coordinates = {latitude = "51.4844", longitude = "0.0039"}
 
 # Directions for visitors to locate you.
 directions = "" # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -184,7 +184,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  #shape = "circle"
+  shape = "circle"
 
 # Available address formats.
 [address_formats]
@@ -274,7 +274,7 @@ plugins_js  = []
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   engine = 2
-  #api_key = ""
+  api_key = ""
   zoom = 15
 
 ############################
