@@ -24,7 +24,7 @@ bio: ""
 interests:
 - Cyber Risk Management
 - Optimisation, Game Theory, Machine Learning applied to Security
-- Sociotechnical Security and Security Economics
+- Security Economics
 - IoT Security
 - Intrusion Detection
 - Cryptography
