@@ -14,7 +14,7 @@ summary: ""
 tags: [Security Economics, Cyber Insurance]
 categories: [Journal]
 featured: false
-url_pdf: "panda2019post.pdf"
+url_pdf: "papers/panda2019post.pdf"
 image:
   caption: ""
   focal_point: ""
