@@ -12,7 +12,7 @@ abstract: "When undertaking cybersecurity risk assessments, it is important to b
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "fielder2018risk.pdf"
+url_pdf: "papers/fielder2018risk.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
