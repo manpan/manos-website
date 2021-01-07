@@ -80,8 +80,16 @@ user_groups:
 ---
 I am an Associate Professor (Reader) in the School of Computing and Mathematical Sciences at the [University of Greenwich](https://www.gre.ac.uk/). I am also a member of the Internet of Things and Security Centre [(ISEC)](https://www.isec.group/) and its Industry Liaison Lead.
 
-My main research interests include cyber security risk management, economics of security (cyber investments and cyber insurance), game theory as applied to security, applied cryptography, intrusion detection (machine learning).
-Most of my work aims at improving cyber security of organisations such as SMEs and healthcare organisations. Based on my expertise and software developed within my research projects, one of my targets is to solve real-world cyber security problems and advise interested end users.
+By modelling important network and system security and privacy challenges; analysing the requirements of various stakeholders; performing technical risk assessments; and solving mathematically formulated problems using game theoretic tools, I aim at improving cyber security and privacy of systems and networks.
+To address cyber risk management decisions, my research initially seeks modelling security requirements and performing cyber risk assessment (threat, control and vulnerability-based) of the underlying use cases.
+Then, I employ mathematical modelling, optimisation and game theory to investigate the behaviours of defenders and attackers.
+Very often, I combine cyber security science with economics and then applying mathematical methods to derive optimal ways to manage cyber risk.
+As a result, my work derives optimal responses and develops decision support tools in cyber security case studies.
+The above are achieved by combining cyber security engineering, mathematical optimisation, game theory complemented by machine learning capabilities.
+
+Towards the identification of robust defences against adversarial behaviour, my research also focuses on identifying current security levels, cyber security and privacy threats and vulnerabilities, as well as costs and benefits of different defending strategies (cyber controls, configurations and decisions).
+By using robust mathematical optimisation and game theoretic approaches, my work computes optimal combinations of the available defending strategies to maximise the Utility of the Defender, which is the entity that manages risk in an underlying use case of my projects and publications.
+My research expertise expands to systems and network security innovating in areas of IoT security, anomaly-based intrusion detection, defending against malicious AI apps, and to the field of cryptography.
 
 My research is funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), and the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en). I am also a member of the EPSRC Associate Peer Review College and an Associate Editor of the IET Information Security journal.
 <!-- nd Associate Editor of the IET Information Security journal. -->
