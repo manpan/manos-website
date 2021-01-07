@@ -78,7 +78,7 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am an Associate Professor (Reader) in the School of Computing and Mathematical Sciences at the [University of Greenwich](https://www.gre.ac.uk/). I am also a member of the Internet of Things and Security Centre [(ISEC)](https://www.isec.group/) and its Industry Liaison Lead.
+I am an Associate Professor (Reader) in the School of Computing and Mathematical Sciences at the [University of Greenwich](https://www.gre.ac.uk/). I am also a member of the Internet of Things and Security Centre [(ISEC)](https://www.isec.group/), its Cyber Risk Lead and Industry Liaison.
 
 By modelling important network and system security and privacy challenges; analysing the requirements of various stakeholders; performing technical risk assessments; and solving mathematically formulated problems using game theoretic tools, I aim at improving cyber security and privacy of systems and networks.
 To address cyber risk management decisions, my research initially seeks modelling security requirements and performing cyber risk assessment (threat, control and vulnerability-based) of the underlying use cases.
