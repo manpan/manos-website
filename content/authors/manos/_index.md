@@ -87,10 +87,6 @@ Very often, I combine cyber security science with economics and then applying ma
 As a result, my work derives optimal responses and develops decision support tools in cyber security case studies.
 The above are achieved by combining cyber security engineering, mathematical optimisation, game theory complemented by machine learning capabilities.
 
-Towards the identification of robust defences against adversarial behaviour, my research also focuses on identifying current security levels, cyber security and privacy threats and vulnerabilities, as well as costs and benefits of different defending strategies (cyber controls, configurations and decisions).
-By using robust mathematical optimisation and game theoretic approaches, my work computes optimal combinations of the available defending strategies to maximise the Utility of the Defender, which is the entity that manages risk in an underlying use case of my projects and publications.
-My research expertise expands to systems and network security innovating in areas of IoT security, anomaly-based intrusion detection, defending against malicious AI apps, and to the field of cryptography.
-
 My research is funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), and the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en). I am also a member of the EPSRC Associate Peer Review College and an Associate Editor of the IET Information Security journal.
 <!-- nd Associate Editor of the IET Information Security journal. -->
 
