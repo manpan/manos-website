@@ -68,4 +68,4 @@ email: ""
 user_groups:
 - Co-investigators
 ---
-George's short bio can be found [here](https://www.gre.ac.uk/people/rep/fach/george-loukas).
+George's short bio can be found [here](http://www.georgeloukas.com/).
