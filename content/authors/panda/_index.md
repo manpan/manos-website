@@ -14,8 +14,8 @@ role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Surrey # Stanford University
-  url: ""
+- name: University of Surrey and University of Greenwich # Stanford University
+  url: "https://sakshyampanda.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.

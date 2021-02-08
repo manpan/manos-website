@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact - gives a bit of abstract
   #   3 = Card - an entire box with the abstract
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.
