@@ -17,7 +17,7 @@ organizations:
 - name: University of Greenwich # Stanford University
 
 # Short bio (displayed in user profile at end of posts)
-bio: "George's short bio can be found [here](http://www.georgeloukas.com/)." # My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Cyber-physical system and IoT security
@@ -67,3 +67,4 @@ email: ""
 user_groups:
 - Co-investigators
 ---
+George's short bio can be found [here](http://www.georgeloukas.com/).
