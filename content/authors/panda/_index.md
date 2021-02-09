@@ -12,10 +12,8 @@ superuser: false
 # Role/position
 role: Doctoral Researcher
 
-# Organizations/Affiliations
 organizations:
-- name: University of Surrey and University of Greenwich # Stanford University
-  url: "https://sakshyampanda.com/"
+- name: University of Surrey and University of Greenwich
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,4 +68,4 @@ user_groups:
 - Current
 ---
 
-Sakshyam Panda is a PhD student in the Department of Computer Science at the University of Surrey, UK. He received B.Sc. degree in Computer Science and Engineering from Institute of Technical Education and Research, India, in 2013 and M.Sc. degree in Human-Computer Interaction and Design from KTH Royal Institute of Technology, Sweden and Aalto University, Finland in 2018. His research interest includes the application of game theory to support decision-making in cyber security. Sakshyam has worked, on a part-time basis for three European funded projects, H2020 [CUREX](https://cordis.europa.eu/project/id/826404) and H202O [SPEAR](https://cordis.europa.eu/project/id/787011) projects. He has also been seconded to work for the Marie Curie Research and Innovation Staff Exchange (RISE) called [SECONDO](https://cordis.europa.eu/project/id/823997) with the cyber-insurance brokers [CROMAR](https://www.cromar.gr/index.php?lang=en).
+Sakshyam's bio can be found [here](https://sakshyampanda.com/).
