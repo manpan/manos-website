@@ -15,7 +15,7 @@ role: Head of the IoT and Security Centre (ISEC), Professor of Cyber Security
 # Organizations/Affiliations
 organizations:
 - name: University of Greenwich # Stanford University
-  url: "https://www.isec.group/"
+  url: "http://www.georgeloukas.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
