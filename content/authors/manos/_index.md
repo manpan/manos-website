@@ -78,16 +78,17 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am an Associate Professor (Reader) in the School of Computing and Mathematical Sciences at the [University of Greenwich](https://www.gre.ac.uk/). I am also a member of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec), its Cyber Risk Lead.
+I am an Associate Professor at the School of Computing and Mathematical Sciences, [University of Greenwich](https://www.gre.ac.uk/), since 2019. I am also the Cyber Risk Lead of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec), IEEE Senior Member, member of the EPSRC Associate Peer Review College, and Associate Editor of the IET Information Security journal. Before, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
 
-By modelling important network and system security and privacy challenges; analysing the requirements of various stakeholders; performing technical risk assessments; and solving mathematically formulated problems using game theoretic tools, I aim at improving cyber security and privacy of systems and networks.
+My research interests are in cybersecurity, including IoT security, security economics, and intrusion detection, using mathematical optimisation, game theory, and machine learning. My core expertise is in designing and implementing robust defences against adversarial behaviour.
+
+My research is funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), and the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE).
+
+My most recent project roles include principal investigator in the (GRE funded) SecurityBudget project (a web portal for cyber risk auditing and investment advice); principal investigator of the (NCSC funded) MERIT project (cybersecurity investments for SMEs); principal investigator, for Greenwich, and work package leader in the H2020 CUREX project researching (cyber risk management for secure health data exchange); principal investigator, for Greenwich, and work package leader in the H2020 SECONDO project (security economics with use cases in AI-enabled smart environments); and co-investigator of the (EPSRC funded) CHAI project.
+
+<!-- By modelling important network and system security and privacy challenges; analysing the requirements of various stakeholders; performing technical risk assessments; and solving mathematically formulated problems using game theoretic tools, I aim at improving cyber security and privacy of systems and networks.
 To address cyber risk management decisions, my research initially seeks modelling security requirements and performing cyber risk assessment (threat, control and vulnerability-based) of the underlying use cases.
 Then, I employ mathematical modelling, optimisation and game theory to investigate the behaviours of defenders and attackers.
 Very often, I combine cyber security science with economics and then applying mathematical methods to derive optimal ways to manage cyber risk.
 As a result, my work derives optimal responses and develops decision support tools in cyber security case studies.
-The above are achieved by combining cyber security engineering, mathematical optimisation, game theory complemented by machine learning capabilities.
-
-My research is funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), and the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en). I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College and an Associate Editor of the IET Information Security journal.
-<!-- nd Associate Editor of the IET Information Security journal. -->
-
-<!-- I was a Senior Lecturer at the [University of Surrey](https://www.surrey.ac.uk/), Senior Lecturer at the [University of Brighton](https://www.brighton.ac.uk/index.aspx), Visiting Researcher at the [Imperial College London](https://www.imperial.ac.uk/), Postdoctoral Researcher at [Queen University of London](https://www.qmul.ac.uk/), and a Research and development consultant at Ubitech Technologies Ltd at the Surrey Research Park. -->
+The above are achieved by combining cyber security engineering, mathematical optimisation, game theory complemented by machine learning capabilities. -->
