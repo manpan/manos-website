@@ -14,6 +14,7 @@ categories: []
 featured: false
 url_pdf: "papers/fielder2016decision.pdf"
 url_slides: "slides/bristol2015games.pdf"
+case_study: "papers/fielder2016decision_case_study.pdf"
 image:
   caption: ""
   focal_point: ""

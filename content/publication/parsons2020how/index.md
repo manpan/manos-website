@@ -6,7 +6,7 @@ publishDate: 2020-11-01
 publication_types: ["1"]
 publication: "24th Pan-Hellenic Conference on Informatics"
 publication_short: "_PCI 2020_"
-#doi: "10.1109/FUZZ-IEEE.2018.8491672"
+doi: "https://doi.org/10.1145/3437120.3437277"
 abstract: ""
 summary: ""
 tags: [IoT Security, Risk Modelling]
@@ -20,5 +20,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
+
 
 ---
