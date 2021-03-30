@@ -26,8 +26,6 @@ interests:
 - Optimisation, Game Theory, Machine Learning applied to Security
 - Security Economics
 - IoT Security
-- Intrusion Detection
-- Cryptography
 
 education:
   courses:
