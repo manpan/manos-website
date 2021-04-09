@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Academic Experience"
 subtitle = ""
@@ -73,14 +73,5 @@ date_format = "2006" # "Jan 2006"
   company = "Ubitech Limited"
   date_start = "2011-06-01"
   date_end = "2013-01-30"
-
-#[[experience]]
-#  title = "Professor"
-#  company = "University X"
-#  company_url = ""
-#  location = "California"
-#  date_start = "2016-01-01"
-#  date_end = "2016-12-31"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
