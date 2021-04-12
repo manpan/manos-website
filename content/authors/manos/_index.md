@@ -21,10 +21,13 @@ organizations:
 bio: ""
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+<!-- interests:
+- Cyber Risk Management
+- Optimisation, Game Theory, Machine Learning applied to Security
+- Security Economics
+- IoT Security -->
 
-
-education:
+<!-- education:
   courses:
   - course: PhD in Computer Science (Security for Mobile Ad Hoc Networks)
     institution: Kingston University
@@ -34,7 +37,7 @@ education:
     year: 2008
   - course: BSc in Informatics and Telecommunications
     institution: National and Kapodistrian University of Athens
-    year: 2006
+    year: 2006 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
