@@ -76,7 +76,7 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am an Associate Professor at the School of Computing and Mathematical Sciences, [University of Greenwich](https://www.gre.ac.uk/), since 2019. I am also the Cyber Risk Lead of the Internet of Things and Security Centre [(ISEC)](https://www.isec.group/), IEEE Senior Member, member of the EPSRC Associate Peer Review College, and Associate Editor of the IET Information Security journal. Before, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
+I am an Associate Professor at the School of Computing and Mathematical Sciences, [University of Greenwich](https://www.gre.ac.uk/), since 2019. I am also the Cyber Risk Lead of the Internet of Things and Security Centre (ISEC), IEEE Senior Member, member of the EPSRC Associate Peer Review College, and Associate Editor of the IET Information Security journal. Before, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
 
 My research interests are in cybersecurity, including IoT security, security economics, and intrusion detection, using mathematical optimisation, game theory, and machine learning. My core expertise is in designing and implementing robust defences against adversarial behaviour.
 
