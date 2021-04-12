@@ -18,19 +18,19 @@ subtitle = ""
   icon = "shield-alt"
   icon_pack = "fas"
   name = "Cyber Security"
-  description = "Risk Assessment, Prevention, Mitigation"
+  description = "Risk Management, Security Economics, IoT Security"
 
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "IoT Security"
-  description = "Architectures, Network Protocols, Crypto"
+  name = "Applications Domains"
+  description = "Healthcare, SMEs, Domestic Life"
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Artificial Intelligence"
-  description = "Game Theory, Machine Learning, Optimisation"
+  description = "Game Theory, Machine Learning"
 
 # Uncomment to use emoji icons.
 # [[feature]]
