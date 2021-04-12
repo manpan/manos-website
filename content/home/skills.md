@@ -21,7 +21,7 @@ subtitle = ""
   description = "Risk Management, Security Economics, IoT Security"
 
 [[feature]]
-  icon = "cogs"
+  icon = "business-time"
   icon_pack = "fas"
   name = "Applications Domains"
   description = "Healthcare, SMEs, Domestic Life"
