@@ -1,29 +1,28 @@
 ---
 # Display name
-title: Muhammad Usman
+title: Adeyinka Adedoyin
 
 # Username (this should match the folder name)
 authors:
-- usman
+- adedoyin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (Senior Lecturer, University of South Wales)
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Surrey # Stanford University
-  url: "https://www.linkedin.com/in/dr-muhammad-usman-947b9b30/"
+- name: University of Brighton # Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Intrusion Detection
-- Reputation Management
-
+- Business Intelligence
+- Case-based Reasoning
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -65,5 +64,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Previous
 ---
