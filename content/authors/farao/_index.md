@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Researcher
 ---
 
 Aristeidis Farao is a Ph.D. candidate in the School of Information and Communication Technologies at the Department of Digital Systems of the University of Piraeus, Greece, since 2018. He received his BSc degree in “Digital Systems” in 2016 and his MSc degree in "Digital Systems Security" in 2018, both from the Department of Digital Systems of the University of Piraeus. From 2016 he is a member of the Security System Laboratory of the University of Piraeus. He has participated and contributed in research projects in the context of European Union Programmes. Moreover, he has experience as Cyber Security Analyst by working in the private sector, where he involved in the design and development of advanced critical infrastructures with high security measures. His research interests are in the field of security of digital systems, network security, applications security, authentication, and cryptography (Supervised with Prof Christos Xenakis).
