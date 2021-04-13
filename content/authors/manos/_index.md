@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Science
+role: Head of Cyber Risk Lab, Associate Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
