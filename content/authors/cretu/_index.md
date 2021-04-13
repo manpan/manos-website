@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Dmitry Fedorenko
+title: Irina Cretu
 
 # Username (this should match the folder name)
 authors:
-- fedorenko
+- cretu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Engineer (Software Developer, Hawk-Eye Innovations)
+role: Final Year Project Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Surrey # Stanford University
+- name: University of Greenwich # Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Trust Management
+- Adversarial Machine Learning
 - Intrusion Detection
 
 #education:
@@ -65,5 +65,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Developer
+- Current
 ---

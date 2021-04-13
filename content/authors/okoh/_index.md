@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Researcher
 ---
 
 Caxton Okoh is a postdoctoral research fellow in in the School of Computing and Mathematical Sciences at the University of Greenwich.

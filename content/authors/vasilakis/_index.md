@@ -16,5 +16,5 @@ interests:
 - Security Requirements Engineering
 
 user_groups:
-- Researchers
+- Researcher
 ---
