@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Researcher
 ---
 
 Emily K. Parsons is currently a PhD candidate in cybersecurity for IoT, at the University of Greenwich, Faculty of Liberal Arts and Sciences, Department of Computing and Information Systems. She is also working towards her PhD within the realm of cybersecurity and risk management for the Smart Home. She works within ISEC, an internet of things and security research group within the university and assists teaching undergraduate students within the department (Supervised with George Loukas and Ivana Tomic).
