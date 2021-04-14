@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of the IoT and Security Centre, Professor of Cyber Security
+role: Head of the IoT and Security Centre (ISEC), Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
