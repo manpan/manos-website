@@ -24,7 +24,8 @@ bio: ""
 interests:
 - Cyber Risk Management
 - Security Economics
-- Optimisation, Game Theory, and Machine Learning
+- IoT Security
+- Optimisation, Game Theory, Machine Learning
 
 <!-- education:
   courses:

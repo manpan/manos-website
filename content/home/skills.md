@@ -30,7 +30,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Artificial Intelligence"
-  description = "Game Theory, Machine Learning"
+  description = "Optimisation, Game Theory, Machine Learning"
 
 # Uncomment to use emoji icons.
 # [[feature]]
