@@ -37,11 +37,11 @@
 }
 
 .contact-widget a i {
-  transition: all 100ms ease-in-out;  
+  transition: all 100ms ease-in-out;
 }
 
 .contact-widget a:hover i{
-  transform: scale(1.25);  
+  transform: scale(1.25);
   color: $sta-menu-text-active !important;
 }
 
@@ -76,4 +76,3 @@ ul.share li i:hover {
 .article-metadata span {
   font-size: 1.0rem;
 }
-

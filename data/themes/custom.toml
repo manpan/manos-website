@@ -10,10 +10,13 @@ light = true
 primary = "#3f3579" #purple
 
 # Menu
-menu_primary = "#3f3579" # header, purple
+#menu_primary = "#3f3579" # header, purple
+menu_primary = "#fff"" # header, UoG colour
 menu_text = "#fff"
 menu_text_active = "#FFB300" # A100, orange
-menu_title = "#fff"
+
+
+#2E3E80
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
