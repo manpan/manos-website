@@ -7,12 +7,12 @@ light = true
 # Primary
 # primary = "#483d8b" #purple
 
-#primary = "#3f3579" #purple
-primary = "#2E3E80" #purple
+primary = "#3f3579" #purple
+#primary = "#2E3E80" #purple
 
 # Menu
-#menu_primary = "#3f3579" # header, purple
-menu_primary = "#2E3E80" # header, UoG colour
+menu_primary = "#3f3579" # header, purple
+#menu_primary = "#2E3E80" # header, UoG colour
 menu_text = "#fff"
 menu_text_active = "#FFB300" # A100, orange
 
