@@ -9,18 +9,12 @@ light = true
 
 primary = "#3f3579" #purple
 
-# Menu
-#menu_primary = "#3f3579" # header, purple
-<<<<<<< HEAD
-menu_primary = "#2E3E80" # header, UoG colour
-=======
-menu_primary = "#fff"" # header, UoG colour
->>>>>>> parent of 27c6494 (#2E3E80)
+menu_primary = "#2E3E80"
+menu_primary = "#3f3579" # header, purple
+>>>>>>> parent of 8673af7 (menu_primary = "#fff"" # header, purple)
 menu_text = "#fff"
 menu_text_active = "#FFB300" # A100, orange
-
-
-#2E3E80
+menu_title = "#fff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
