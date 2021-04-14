@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Science, Head of the Cyber Risk Lab
+role: Head of the Cyber Risk Lab, Associate Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ bio: ""
 interests:
 - Cyber Risk Management
 - Security Economics
-- Optimisation, Game Theory, and Machine Learning 
+- Optimisation, Game Theory, and Machine Learning
 
 <!-- education:
   courses:
