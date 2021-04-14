@@ -21,11 +21,11 @@ organizations:
 bio: ""
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Cyber Risk Management
-- Security Economics
-- IoT Security
-- Optimisation, Game Theory, Machine Learning
+#interests:
+#- Cyber Risk Management
+#- Security Economics
+#- IoT Security
+#- Optimisation, Game Theory, Machine Learning
 
 <!-- education:
   courses:
