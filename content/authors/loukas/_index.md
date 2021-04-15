@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of the IoT and Security Centre (ISEC), Professor of Cyber Security
+role: Head of the IoT and Security Centre, Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Co-investigators
 ---
 George's short bio can be found [here](http://www.georgeloukas.com/).
