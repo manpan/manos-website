@@ -8,10 +8,8 @@ light = true
 # primary = "#483d8b" #purple
 
 primary = "#3f3579" #purple
-
 menu_primary = "#2E3E80"
 menu_primary = "#3f3579" # header, purple
->>>>>>> parent of 8673af7 (menu_primary = "#fff"" # header, purple)
 menu_text = "#fff"
 menu_text_active = "#FFB300" # A100, orange
 menu_title = "#fff"
