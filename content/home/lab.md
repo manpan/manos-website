@@ -18,6 +18,9 @@ subtitle = ""
                  "Previous"
                 ]
 
+  # Page type to display. E.g. project.
+  page_type = "lab"
+
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
