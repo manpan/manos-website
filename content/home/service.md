@@ -14,7 +14,7 @@ title = "Service and memberships"
 
 * **IET Information Security**, Associate Editor
 * **Games, ISSN2073-4336, MDPI**, Guest Editor for Special Issue "Game Theory for Security"
-* **Wireless Communications and Mobile Computing.**, Guest Editor for Special Issue "Multi-Objective Optimization Algorithms for Wireless Sensor Networks"
+* **Wireless Communications and Mobile Computing**, Guest Editor for Special Issue "Multi-Objective Optimization Algorithms for Wireless Sensor Networks"
 
 ## Memberships
 
