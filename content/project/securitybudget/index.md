@@ -43,4 +43,4 @@ slides: ""
 SecurityBudget will be a cyber security dashboard to support SMEs on how to protect their systems subject to a limited available budget.
 
 **Budget**: £12.5k.\
-**Principal Investigator**: Manos Panaousis, **co-Investigator**: George Loukas.\
+**Principal Investigator**: Manos Panaousis, **co-Investigator**: George Loukas.

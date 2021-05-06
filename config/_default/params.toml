@@ -97,7 +97,7 @@ address = {street = "Old Royal Naval College, Room 524", city = "Greenwich", reg
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.4844", longitude = "0.0039"}
+coordinates = {latitude = "51.483339505800814", longitude = "-0.0059154011313635605"}
 
 # Directions for visitors to locate you.
 directions = "" # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
