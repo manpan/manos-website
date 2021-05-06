@@ -34,6 +34,7 @@ title = "Service and memberships"
 
 ## Program Committee Member
 
+ * **Gamesec 2021** (12th Conference on Decision and Game Theory for Security, fully online conference, October 25-27, 2021)
  * **Inscrypt 2021** (17th Internation Conference on Information Security and Cryptology)
  * **ESORICS 2020** (25th European Symposium on Research in Computer Security, Guildford, UK, September 14–18, 2020)
  * **Gamesec 2020** (11th Conference on Decision and Game Theory for Security, University of Maryland - College Park, October 26-30, 2020)
