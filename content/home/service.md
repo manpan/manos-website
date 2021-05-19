@@ -18,6 +18,7 @@ title = "Service and memberships"
 
 ## Memberships
 
+* **SPRITE Expect Fellow**, Academic Expert Fellow, "The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB"
 * **Gamesec**, Advisory Committee Member for the Conference on Decision and Game Theory for Security
 * **EPSRC**, Member of the Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council
 * **RISCS**, Member and Fellow of the Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021)
