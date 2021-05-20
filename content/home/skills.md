@@ -18,13 +18,13 @@ subtitle = ""
   icon = "shield-alt"
   icon_pack = "fas"
   name = "Cyber Security"
-  description = "Risk Management, Security Economics, IoT Security"
+  description = "Cyber Risk Management, IoT Security, Security Economics"
 
 [[feature]]
   icon = "business-time"
   icon_pack = "fas"
   name = "Applications Domains"
-  description = "Healthcare, SMEs, Domestic Life"
+  description = "Healthcare, SMEs, Domestic Life, 5G"
 
 [[feature]]
   icon = "brain"
