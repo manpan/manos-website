@@ -46,4 +46,3 @@ Over the last decade, cyber-attacks have become increasingly sophisticated, stea
 **Principal Investigator**: Manos Panaousis, **Co-Investigators**: Kaitai Liang, Steve Schneider.\
 **Partners**: Can be found [here](https://cordis.europa.eu/project/id/787011).\
 **Acceptance Rate**: 4/63.\
-**Role**: Leading research on intrusion detection and reputation management (Work package 3 leader: Cyber Attack Detection in Smart Grid).
