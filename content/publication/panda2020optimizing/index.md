@@ -1,5 +1,5 @@
 ---
-title: "Optimizing investments in Cyber Hygiene for Protecting Healthcare Users"
+title: "Optimizing Investments in Cyber Hygiene for Protecting Healthcare Users"
 authors: [Sakshyam Panda, Emmanouil Panaousis, George Loukas, Christos Laoudias]
 date: 2020-02-15
 publishDate: 2020-02-15
