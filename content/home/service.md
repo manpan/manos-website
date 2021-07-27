@@ -33,6 +33,26 @@ title = "Service and memberships"
 
   * **Gamesec 2016** (7th Conference on Decision and Game Theory for Security, New York, NY, USA, November 2-4, 2016)
 
+## Reviewer for Journals
+
+   * ACM Transactions on Internet of Things
+   * ACM Computing Surveys
+   * ACM Transactions on Internet Technology
+   * Ad Hoc Networks
+   * Computers & Security
+   * Computers Networks
+   * Decision Support Systems
+   * European Journal of Operational Research
+   * Journal of Cybersecurity
+   * IEEE Access
+   * IEEE Transactions on Parallel and Distributed Systems
+   * IEEE Communication Letters
+   * IEEE Internet of Things Journal
+   * IEEE Transactions on Dependable and Secure Computing
+   * IEEE Transactions on Industrial Informatics
+   * IEEE Transactions on Information Forensics and Security
+   * Royal Society Open Science
+
 ## Program Committee Member
 
  * **Gamesec 2021** (12th Conference on Decision and Game Theory for Security, fully online conference, October 25-27, 2021)
@@ -49,22 +69,3 @@ title = "Service and memberships"
  * **FiCloud 2015** (3rd International Conference on Future Internet of Things and Cloud, Rome, Italy, August 2015)
  * **ICC 2015** (First Workshop on Security and Privacy for Internet of Things and Cyber-Physical Systems, London, UK, June 2015)
  * **Gamesec 2014** (7th Conference on Decision and Game Theory for Security, Los Angeles, CA, USA, November 2014)
-
-## Reviewer for Journals
-
- * ACM Computing Surveys
- * ACM Transactions on Internet Technology
- * Ad Hoc Networks
- * Computers & Security
- * Computers Networks
- * Decision Support Systems
- * European Journal of Operational Research
- * Journal of Cybersecurity
- * IEEE Access
- * IEEE Transactions on Parallel and Distributed Systems
- * IEEE Communication Letters
- * IEEE Internet of Things Journal
- * IEEE Transactions on Dependable and Secure Computing
- * IEEE Transactions on Industrial Informatics
- * IEEE Transactions on Information Forensics and Security
- * Royal Society Open Science
