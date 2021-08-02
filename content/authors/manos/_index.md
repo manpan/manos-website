@@ -83,4 +83,3 @@ I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review Colle
 My core expertise is in designing and implementing robust defences against adversarial behaviour and my research interests are at the intersection of applied maths and cyber security.  
 
 My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE).
----
