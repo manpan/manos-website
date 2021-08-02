@@ -1,10 +1,8 @@
 
 +++
 widget = "accomplishments"  
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
-
+headless = true  
+active = true  
 title = "Service and memberships"
 
 ## Editorial
