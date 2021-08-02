@@ -76,23 +76,10 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-<<<<<<< HEAD
-I am an Associate Professor at the School of Computing and Mathematical Sciences, [University of Greenwich](https://www.gre.ac.uk/people/rep/las/mr-manos-panaousis), since 2019. I have founded the [Cyber Risk Lab](https://www.cyberrisklab.co.uk/) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre (ISEC). Before Greenwich, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
-=======
 I am an Associate Professor at the School of Computing and Mathematical Sciences, [(University of Greenwich)](https://www.gre.ac.uk/people/rep/las/mr-manos-panaousis), since 2019. I have founded the [(Cyber Risk Lab (CRL))](https://www.cyberrisklab.co.uk/) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre (ISEC). Before Greenwich, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
->>>>>>> parent of 10dc7b9 (Update _index.md)
 
 I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College, Associate Editor of the IET Information Security journal, Advisory Committee Member for the Conference on Decision and Game Theory for Security (GameSec), Advisory Board member of the H2020 SPIDER project, and Member of the College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online, Bristol Cyber Security Research Group, University of Bristol.
 
 My core expertise is in designing and implementing robust defences against adversarial behaviour and my research interests are at the intersection of applied maths and cyber security.  
 
 My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE).
-
-<!-- My most recent project roles include principal investigator of the (GRE funded) SecurityBudget project (a web portal for cyber risk auditing and investment advice); principal investigator of the (NCSC funded) MERIT project (cybersecurity investments for SMEs); principal investigator, for Greenwich, and work package leader in the H2020 CUREX project researching (cyber risk management for secure health data exchange); principal investigator, for Greenwich, and work package leader in the H2020 SECONDO project (security economics with use cases in AI-enabled smart environments); and co-investigator of the (EPSRC funded) CHAI project. -->
-
-<!-- By modelling important network and system security and privacy challenges; analysing the requirements of various stakeholders; performing technical risk assessments; and solving mathematically formulated problems using game theoretic tools, I aim at improving cyber security and privacy of systems and networks.
-To address cyber risk management decisions, my research initially seeks modelling security requirements and performing cyber risk assessment (threat, control and vulnerability-based) of the underlying use cases.
-Then, I employ mathematical modelling, optimisation and game theory to investigate the behaviours of defenders and attackers.
-Very often, I combine cyber security science with economics and then applying mathematical methods to derive optimal ways to manage cyber risk.
-As a result, my work derives optimal responses and develops decision support tools in cyber security case studies.
-The above are achieved by combining cyber security engineering, mathematical optimisation, game theory complemented by machine learning capabilities. -->
