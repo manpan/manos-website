@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Service"
-  url = "#experience"
+  url = "#service"
   weight = 45
 
 [[main]]
