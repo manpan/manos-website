@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Service and memberships"
-+++
 
 ## Editorial
 
@@ -67,3 +66,4 @@ title = "Service and memberships"
  * **FiCloud 2015** (3rd International Conference on Future Internet of Things and Cloud, Rome, Italy, August 2015)
  * **ICC 2015** (First Workshop on Security and Privacy for Internet of Things and Cyber-Physical Systems, London, UK, June 2015)
  * **Gamesec 2014** (7th Conference on Decision and Game Theory for Security, Los Angeles, CA, USA, November 2014)
++++
