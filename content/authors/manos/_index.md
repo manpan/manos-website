@@ -76,9 +76,9 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am an Associate Professor at the School of Computing and Mathematical Sciences, [(University of Greenwich)](https://www.gre.ac.uk/people/rep/las/mr-manos-panaousis), since 2019. I have founded the [(Cyber Risk Lab (CRL))](https://www.cyberrisklab.co.uk/) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre (ISEC). Before Greenwich, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
+I am an Associate Professor at the School of Computing and Mathematical Sciences, [University of Greenwich](https://www.gre.ac.uk/people/rep/las/mr-manos-panaousis), since 2019. I have founded the [Cyber Risk Lab](https://www.cyberrisklab.co.uk/) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). Before Greenwich, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
 
-I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College, Associate Editor of the IET Information Security journal, Advisory Committee Member for the Conference on Decision and Game Theory for Security (GameSec), Advisory Board member of the H2020 SPIDER project, and Member of the College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online, Bristol Cyber Security Research Group, University of Bristol.
+I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College, Associate Editor of the IET Information Security journal, Advisory Committee Member for the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/), Advisory Board member of the H2020 [SPIDER](https://spider-h2020.eu/) project, and Member of the College of Peer Reviewers of the [REPHRAIN](https://www.rephrain.ac.uk/) (National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online).
 
 My core expertise is in designing and implementing robust defences against adversarial behaviour and my research interests are at the intersection of applied maths and cyber security.  
 
