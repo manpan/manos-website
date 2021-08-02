@@ -1,8 +1,10 @@
+
 +++
-widget = "accomplishments"
-headless = true
-active = true
-weight = 65
+# A Services section created with the Portfolio widget.
+widget = "accomplishments"  
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 45  # Order that this section will appear.
 
 title = "Service and memberships"
 
