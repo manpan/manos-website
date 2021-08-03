@@ -19,6 +19,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: ""
+note: "(IF 2020: 3.576)"
 
 ---
