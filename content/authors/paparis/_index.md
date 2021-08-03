@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aris Farao
+title: George Paparis
 
 # Username (this should match the folder name)
 authors:
-- farao
+- paparis
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Doctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: University of Piraeus
-  url: "https://ssl.ds.unipi.gr/aristeidisfarao/"
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.

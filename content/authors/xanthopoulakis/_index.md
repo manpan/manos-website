@@ -1,40 +1,39 @@
 ---
 # Display name
-title: Caxton Okoh
+title: Charalampos Xanthopoulakis
 
 # Username (this should match the folder name)
 authors:
-- okoh
+- stretch
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Senior Software Developer (SecurityBudget)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Greenwich
+- name: ASML # Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Information Security Management
-- Cyber Controls
+- Data visualisation
 
 #education:
-courses:
-- course: PhD in Production Engineering
-  institution: Cranfield University
-  year: 2018
-- course: MBA
-  institution: University of Northampton
-  year: 2017
-- course: BSc in Computing
-  institution: University of Greenwich
-  year: 2013
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,8 +66,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-Caxton Okoh is a postdoctoral research fellow in in the School of Computing and Mathematical Sciences at the University of Greenwich.
-He is also a member of the Internet of Things and Security (ISEC) Centre. Previous experiences include consulting, financial services, aerospace, manufacturing, transport, and charity.
-His main research interests involve Cybersecurity, Data and Business Analytics, Internet of Things analytics, and Through-life Engineering Services.
-He is currently working on a CUREX research project funded by the European Commission (H2020).
