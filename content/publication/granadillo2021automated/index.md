@@ -21,7 +21,7 @@ image:
   preview_only: false
 projects: []
 slides: ""
-doi: "https://www.mdpi.com/1424-8220/21/16/5493"
+doi: "https://doi.org/10.3390/s21165493"
 note: "(IF 2020: 3.576)"
 
 ---
