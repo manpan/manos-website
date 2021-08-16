@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Researcher
+role: Research Fellow
 
 organizations:
-- name: University of Surrey and University of Greenwich
+- name: University of Greenwich
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
