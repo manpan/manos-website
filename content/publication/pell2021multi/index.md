@@ -13,7 +13,7 @@ tags: [5G security, Risk management]
 categories: []
 featured: false
 url_pdf: "papers/pell2021multi.pdf"
-url: "https://www.routledge.com/Cybersecurity-Issues-in-Emerging-Technologies/Maglaras-Kantzavelou/p/book/9780367626174"
+# url: "https://www.routledge.com/Cybersecurity-Issues-in-Emerging-Technologies/Maglaras-Kantzavelou/p/book/9780367626174#"
 image:
   caption: ""
   focal_point: ""
