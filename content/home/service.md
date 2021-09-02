@@ -12,11 +12,13 @@ title = "Academic Service"
 +++
 
 ## Editorial
-  * **IET Information Security**, Associate Editor
-  * **Games, ISSN2073-4336, MDPI**, Guest Editor for Special Issue "Game Theory for Security"
-  * **Wireless Communications and Mobile Computing**, Guest Editor for Special Issue "Multi-Objective Optimization Algorithms for Wireless Sensor Networks"
+  * **Sensors**, Guest editor (2021) for Special Issue "Advances in Cybersecurity in Internet of Things"
+  * **IET Information Security**, Associate Editor (2020-present)
+  * **Wireless Communications and Mobile Computing**, Guest Editor (2019) for Special Issue "Multi-Objective Optimization Algorithms for Wireless Sensor Networks"
+  * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
-## Memberships
+## Expert/Memberships
+  * **H2020 SPIDER project**, Advisory Board Member.
   * **SPRITE Expect Fellow**, Academic Expert Fellow, "The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB"
   * **Gamesec**, Advisory Committee Member for the Conference on Decision and Game Theory for Security
   * **EPSRC**, Member of the Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council
