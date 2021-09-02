@@ -78,11 +78,11 @@ user_groups:
 ---
 I am the Founder and Head of the Cyber Risk Lab [(CRL)](https://www.cyberrisklab.co.uk/) at the University of Greenwich. CRL consists of PhD students (from PhD to BSc), Research fellows, as well as Visiting fellow academics and industrial experts. It works in the field of cyber risk with the goal to invent and develop new models and methods that can impact the UK society by making it more secure and resilient against cyber threats.
 
-I also direct the Cyber Risk R&D strategy of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). In addition, I am acting as its liaison with industrial partners.
+I also direct the Cyber Risk R&D strategy of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). In addition, I am acting as its liaison with industrial partners.
 
 I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small but highly specialised conference in the intersection of cybersecurity and decision support. It attracts high quality contributions and has been instrumental in building and maintaining the community around this topic.
 
-I am an Associate Editor of the IET Information Security journal as well as reviewer of numerous journals including IEEE TIFS and TDSC.
+I am an Associate Editor of the IET Information Security journal, reviewer of numerous journals including IEEE TIFS and TDSC, and Senior member of the IEEE.
 
 I am an Advisory Board member of the H2020 SPIDER project, member of the [(EPSRC)](https://epsrc.ukri.org) Associate Peer Review College, and Member of the College of Peer Reviewers of the [(REPHRAIN)](https://www.rephrain.ac.uk/) (National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online).
 
