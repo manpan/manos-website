@@ -18,7 +18,7 @@ title = "Academic Service"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
 ## Expert/Memberships
-  * **H2020 SPIDER project**, Advisory Board Member.
+  * **H2020 SPIDER project**, Advisory Board Member
   * **SPRITE Expect Fellow**, Academic Expert Fellow, "The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB"
   * **Gamesec**, Advisory Committee Member for the Conference on Decision and Game Theory for Security
   * **EPSRC**, Member of the Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council
