@@ -4,13 +4,7 @@ name = "Custom"
 # Optional Google font URL
 # google_fonts = "IBM Plex:400,700|IBM Plex:400,400italic,700|IBM Plex+Mono"
 
-# Font families
-# heading_font = "IBM Plex"
-# body_font = "IBM Plex"
-# nav_font = "IBM Plex"
-# mono_font = "IBM Plex Mono"
-
-heading_font = "Leelawadee"
-body_font = "Leelawadee"
-nav_font = "Leelawadee"
-mono_font = "Leelawadee"
+heading_font = "IBM Plex"
+body_font = "IBM Plex"
+nav_font = "IBM Plex"
+mono_font = "IBM Plex Mono"
