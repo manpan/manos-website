@@ -12,7 +12,7 @@ title = "Academic Service"
 +++
 
 ## Editorial
-  * **Sensors**, Guest editor (2021) for Special Issue "Advances in Cybersecurity in Internet of Things"
+  * **Sensors**, Lead Guest editor (2022) for Special Issue "Advances in Cybersecurity in Internet of Things"
   * **IET Information Security**, Associate Editor (2020-present)
   * **Wireless Communications and Mobile Computing**, Guest Editor (2019) for Special Issue "Multi-Objective Optimization Algorithms for Wireless Sensor Networks"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
@@ -52,6 +52,7 @@ title = "Academic Service"
   * Royal Society Open Science
 
 ## Program Committee Member
+  * **ICICS 2022** (12th International Conference on Information and Computer Security, August 16-17, 2022 in Tokyo, Japan)
   * **Gamesec 2021** (12th Conference on Decision and Game Theory for Security, fully online conference, October 25-27, 2021)
   * **Inscrypt 2021** (17th International Conference on Information Security and Cryptology)
   * **ESORICS 2020** (25th European Symposium on Research in Computer Security, Guildford, UK, September 14–18, 2020)
