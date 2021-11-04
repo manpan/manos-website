@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Founder and Head of the Cyber Risk Lab, Associate Professor (Reader) of Computer Science
+role: Head of the Cyber Risk Lab, Associate Professor (eq. Reader) of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -80,7 +80,7 @@ I am the Founder and Head of the Cyber Risk Lab [(CRL)](https://www.cyberrisklab
 
 I also direct the Cyber Risk R&D strategy of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). In addition, I am acting as its liaison with industrial partners.
 
-I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small but highly specialised conference in the intersection of cybersecurity and decision support. It attracts high quality contributions and has been instrumental in building and maintaining the community around this topic.
+I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small but highly specialised conference in the intersection of cybersecurity and decision support. It attracts high quality contributions and has been instrumental in building and maintaining the community around this topic. It is ranked 20th among all computer science conferences for computer security and cryptography, one position below the prestigious IEEE Computer Security Foundations Symposium (https://research.com/conference-rankings/computer-science/2021/computer-security-cryptography).
 
 I am an Associate Editor of the IET Information Security journal, reviewer of numerous journals including IEEE TIFS and TDSC, and Senior member of the IEEE.
 
