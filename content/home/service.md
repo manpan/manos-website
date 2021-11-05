@@ -18,13 +18,15 @@ title = "Academic Service"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
 ## Expert/Memberships
+  * **IEEE**, Senior Member
+  * **GameSec**, Advisory Committee Member for the Conference on Decision and Game Theory for Security
+  * External Evaluator for the **Romanian Agency for Quality Assurance** in Higher Education
   * **H2020 SPIDER project**, Advisory Board Member
-  * **SPRITE Expect Fellow**, Academic Expert Fellow, "The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB"
-  * **Gamesec**, Advisory Committee Member for the Conference on Decision and Game Theory for Security
+  * **REPHRAIN**, Member of the College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online, Bristol Cyber Security Research Group, University of Bristol
   * **EPSRC**, Member of the Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council
   * **RISCS**, Member and Fellow of the Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021)
-  * **REPHRAIN**, Member of the College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online, Bristol Cyber Security Research Group, University of Bristol
-  * **IEEE**, Senior Member
+  * **SPRITE Expect Fellow**, Academic Expert Fellow, "The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB"
+
 
 ## General Chair
   * **Gamesec 2015** (6th Conference on Decision and Game Theory for Security, London, UK, November 2015)
@@ -32,7 +34,7 @@ title = "Academic Service"
 ## Program Chair
   * **Gamesec 2016** (7th Conference on Decision and Game Theory for Security, New York, NY, USA, November 2-4, 2016)
 
-## Reviewer for Journals
+## Reviewer for High Impact Factor Journals
   * ACM Transactions on Internet of Things
   * ACM Computing Surveys
   * ACM Transactions on Internet Technology
@@ -41,15 +43,15 @@ title = "Academic Service"
   * Computers Networks
   * Decision Support Systems
   * European Journal of Operational Research
-  * Journal of Cybersecurity
+  <!-- * Journal of Cybersecurity -->
   * IEEE Access
-  * IEEE Transactions on Parallel and Distributed Systems
-  * IEEE Communication Letters
+  <!-- * IEEE Transactions on Parallel and Distributed Systems -->
+  <!-- * IEEE Communication Letters -->
   * IEEE Internet of Things Journal
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Industrial Informatics
   * IEEE Transactions on Information Forensics and Security
-  * Royal Society Open Science
+  <!-- * Royal Society Open Science -->
 
 ## Program Committee Member
   * **ICICS 2022** (12th International Conference on Information and Computer Security, August 16-17, 2022 in Tokyo, Japan)
