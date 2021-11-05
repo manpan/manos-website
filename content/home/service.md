@@ -27,13 +27,11 @@ title = "Academic Service"
   * **Member and Fellow**, Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021).
   * **Academic Expert Fellow**, The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB.
 
-## General Chair
+## General and Technical Program Chair
+  * **Gamesec 2016** (7th Conference on Decision and Game Theory for Security, New York, NY, USA, November 2-4, 2016).
   * **Gamesec 2015** (6th Conference on Decision and Game Theory for Security, London, UK, November 2015).
 
-## Program Chair
-  * **Gamesec 2016** (7th Conference on Decision and Game Theory for Security, New York, NY, USA, November 2-4, 2016).
-
-## Reviewer for High Impact Factor Journals
+## Reviewer
   * ACM Transactions on Internet of Things
   * ACM Computing Surveys
   * ACM Transactions on Internet Technology
@@ -48,7 +46,7 @@ title = "Academic Service"
   * IEEE Transactions on Industrial Informatics
   * IEEE Transactions on Information Forensics and Security
 
-## Program Committee Member
+<!-- ## Program Committee Member
   * **ICICS 2022** (12th International Conference on Information and Computer Security, August 16-17, 2022 in Tokyo, Japan)
   * **Gamesec 2021** (12th Conference on Decision and Game Theory for Security, fully online conference, October 25-27, 2021)
   * **Inscrypt 2021** (17th International Conference on Information Security and Cryptology)
@@ -63,4 +61,4 @@ title = "Academic Service"
   * **CRiSIS 2015** (10th International Conference on Risks and Security of Internet and Systems, Mytilene, Lesvos Island, Greece, July 2015)
   * **FiCloud 2015** (3rd International Conference on Future Internet of Things and Cloud, Rome, Italy, August 2015)
   * **ICC 2015** (First Workshop on Security and Privacy for Internet of Things and Cyber-Physical Systems, London, UK, June 2015)
-  * **Gamesec 2014** (7th Conference on Decision and Game Theory for Security, Los Angeles, CA, USA, November 2014)
+  * **Gamesec 2014** (7th Conference on Decision and Game Theory for Security, Los Angeles, CA, USA, November 2014) -->
