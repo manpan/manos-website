@@ -43,15 +43,11 @@ title = "Academic Service"
   * Computers Networks
   * Decision Support Systems
   * European Journal of Operational Research
-  <!-- * Journal of Cybersecurity -->
   * IEEE Access
-  <!-- * IEEE Transactions on Parallel and Distributed Systems -->
-  <!-- * IEEE Communication Letters -->
   * IEEE Internet of Things Journal
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Industrial Informatics
   * IEEE Transactions on Information Forensics and Security
-  <!-- * Royal Society Open Science -->
 
 ## Program Committee Member
   * **ICICS 2022** (12th International Conference on Information and Computer Security, August 16-17, 2022 in Tokyo, Japan)
