@@ -84,8 +84,8 @@ I am an Associate Editor of the IET Information Security journal, reviewer of nu
 
 My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE). I have been involved, as Principal and co-Investigator, in grants in worth in excess of £20m, leading tasks, work packages, and the preparation of their bids. In total, I have attracted £1.15M as P.I. and £1.08M as co-I.
 
-My research involves:
+<!-- My research involves:
 * Modelling cyber risk using threat modelling, vulnerability assessment, control-based risk assessment.
 * Studying the impact of cyber attacks in numerous use cases including healthcare, smart home, smart grid, and 5G infrastructure.
 * Designing and developing robust architectures as well as AI-powered decision-support methods to mitigate cyber risks.
-* Modelling cybersecurity decisions using Cost-Benefit Analysis and AI techniques based on game theory and optimisation to determine optimal cyber-related behaviours subject to limited resources.
+* Modelling cybersecurity decisions using Cost-Benefit Analysis and AI techniques based on game theory and optimisation to determine optimal cyber-related behaviours subject to limited resources. -->
