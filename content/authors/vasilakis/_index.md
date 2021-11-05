@@ -12,8 +12,8 @@ organizations:
 - name: University of Brighton
 
 interests:
-- 5G Security
-- Security Requirements Engineering
+- 5G security
+- Security requirements engineering
 
 user_groups:
 - Alumni

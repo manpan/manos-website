@@ -21,8 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Trust Management
-- Intrusion Detection
+- Trust management
+- Intrusion detection
 
 #education:
 #  courses:

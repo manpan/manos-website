@@ -1,30 +1,29 @@
 ---
 # Display name
-title: Steve Schneider
+title: Aron Laszka
 
 # Username (this should match the folder name)
 authors:
-- schneider
+- laszka
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Director of Surrey Centre for Cyber Security, Professor of Computing
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Surrey # Stanford University
-  url: ""
+- name: University of Houston
+  url: "https://www.uh.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Aron's webpage can be found [here](https://aronlaszka.com/)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Formal Modeling and Verification
-- Secure Electronic Voting
-- Distributed Ledger Technologies
-- Rail and Automotive Security
+- AI
+- Cyber-physical systems
+- Cybersecurity
 
 #education:
 #  courses:
@@ -62,11 +61,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "s.schneider@surrey.ac.uk"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-investigators
+- Visiting Researchers
 ---
-Steve's biography can be found [here](https://www.surrey.ac.uk/people/steve-schneider).
+Aron's webpage can be found [here](https://aronlaszka.com/).

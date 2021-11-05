@@ -1,28 +1,29 @@
 ---
 # Display name
-title: Sotiris Moschoyiannis
+title: Tansu Alpcan
 
 # Username (this should match the folder name)
 authors:
-- moschoyiannis
+- alpcan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Lecturer in Complex Systems
+role: Professor of Electrical and Electronic Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: University of Surrey # Stanford University
-  url: ""
+- name: The University of Melbourne
+  url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Tansu's webpage can be found [here](https://tansu.alpcan.org/)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Complex Networks
-- Control Theory
+- Cybersecurity
+- AI
+- IoT and Wireless Networks
 
 #education:
 #  courses:
@@ -65,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-investigators
+- Visiting Researchers
 ---
-Sotiris's biography can be found [here](https://www.surrey.ac.uk/people/sotiris-moschoyiannis).
+Tansu's webpage can be found [here](https://tansu.alpcan.org/).

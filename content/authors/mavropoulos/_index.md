@@ -21,8 +21,9 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT Security
-- Threat Modelling
+- IoT security
+- Threat modelling
+- Security requirements engineering
 
 #education:
 #  courses:

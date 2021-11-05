@@ -21,10 +21,9 @@ organizations:
 bio: "" # My research interests include cyber forensics, data-driven cyber security and multi-stage cyber attack reconstruction.
 
 interests:
-- Cyber Forensics
-- Incident Response
-- Attack Reconstruction
-- Data-driven Cyber Security
+- Cyber forensics
+- Attack reconstruction
+- Data-driven cyber security
 
 education:
   courses:

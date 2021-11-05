@@ -13,7 +13,7 @@ organizations:
 
 interests:
 - Honeypots
-- Game Theory
+- Game theory
 
 user_groups:
 - Alumni

@@ -22,8 +22,8 @@ bio: "Chris's short biography can be found [here](https://www.imperial.ac.uk/peo
 
 interests:
 - Security
-- Program Analysis
-- Programming Language Theory
+- Program analysis
+- Programming language theory
 
 #education:
 #  courses:

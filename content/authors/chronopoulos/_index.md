@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Lecturer in Actuarial Science and Insurance
+role: Senior Lecturer of Actuarial Science and Insurance
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,9 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Operations Research
-- Industrial Economics
-- Security Economics
-- Real Options
+- Operations research
+- Real options
+- Security economics
 
 #education:
 #  courses:
@@ -67,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-investigators
+- Visiting Researchers
 ---

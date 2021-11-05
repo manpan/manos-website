@@ -21,8 +21,7 @@ organizations:
 bio: "Christos's webpage can be found [here](http://cgi.di.uoa.gr/~xenakis/)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Network Security
-- Computer Security
+- Network and Computer Security
 
 #education:
 #  courses:
@@ -65,6 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-investigators
+- Visiting Researchers
 ---
 Christos's webpage can be found [here](http://cgi.di.uoa.gr/~xenakis/).

@@ -21,9 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Mathematical optimisation
-- Cyber security controls
-- Machine learning
+- Game theory
+- Optimisation
 
 <!-- education:
 courses:

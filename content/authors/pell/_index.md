@@ -21,9 +21,9 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 5G Security
+- 5G security
 - Threat Modelling
-- Decision support for risk management
+- Cyber risk management
 
 #education:
 #  courses:
