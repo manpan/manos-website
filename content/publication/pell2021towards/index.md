@@ -12,7 +12,7 @@ abstract: "This article discusses how the gap between early 5G network threat as
 tags: [5G security, Risk management]
 categories: []
 featured: false
-url: "https://arxiv.org/pdf/2108.11206.pdf"
+url: "arxiv.org/pdf/2108.11206.pdf"
 image:
   caption: ""
   focal_point: ""
