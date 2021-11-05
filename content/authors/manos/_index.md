@@ -87,5 +87,5 @@ My research has been funded by the National Cyber Security Centre [(NCSC)](https
 My research involves:
 * Modelling cyber risk using threat modelling, vulnerability assessment, control-based risk assessment.
 * Studying the impact of cyber attacks in numerous use cases including healthcare, smart home, smart grid, and 5G infrastructure.
-* Design and develop robust architectures as well as AI-powered decision-support methods to mitigate cyber risks.
+* Designing and developing robust architectures as well as AI-powered decision-support methods to mitigate cyber risks.
 * Modelling cybersecurity decisions using Cost-Benefit Analysis and AI techniques based on game theory and optimisation to determine optimal cyber-related behaviours subject to limited resources.
