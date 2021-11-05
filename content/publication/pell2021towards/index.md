@@ -12,7 +12,7 @@ abstract: "This article discusses how the gap between early 5G network threat as
 tags: [5G security, Risk management]
 categories: []
 featured: false
-url_pdf="papers/pell2021towards"
+url_pdf="papers/pell2021towards,pdf"
 image:
   caption: ""
   focal_point: ""
