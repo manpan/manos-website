@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer (Data Scientist, Enteromics)
+role: Junior Researcher (Data Scientist, Enteromics)
 
 # Organizations/Affiliations
 organizations:

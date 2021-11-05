@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer (Software Developer, Hawk-Eye Innovations)
+role: Junior Researcher (Software Developer, Hawk-Eye Innovations)
 
 # Organizations/Affiliations
 organizations:
