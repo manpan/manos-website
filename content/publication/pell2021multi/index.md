@@ -2,7 +2,7 @@
 title: "Multi-Stage Threat Modelling and Security Monitoring in 5GCN"
 authors: [Robert Pell, Sotiris Moschoyiannis, Emmanouil Panaousis]
 date: 2021-02-09
-publishDate: 2021-02-09
+publishDate: 2021-10-15
 publication_types: ["1"]
 publication: "_Cyber Security Issues for Emerging Technologies (CRC Press, Taylor and Francis Group)_"
 publication_short: "_Cyber Security Issues for Emerging Technologies_"

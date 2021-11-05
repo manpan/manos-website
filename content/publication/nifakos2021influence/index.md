@@ -1,8 +1,8 @@
 ---
 title: "Influence of Human Factors on Cyber Security within Healthcare Organisations: A Systematic Review"
 authors: [Sokratis Nifakos, Krishna Chandramouli, Charoula Konstantina Nikolaou, Panagiotis Papachristou, Sabine Koch, Emmanouil Panaousis, Stefano Bonacina]
-date: 2021-07-20
-publishDate: 2021-07-20
+date: 2021-07-28
+publishDate: 2021-07-28
 publication_types: ["2"]
 publication: "_Sensors_"
 publication_short: "_Sensors_"

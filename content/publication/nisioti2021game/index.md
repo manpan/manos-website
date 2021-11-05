@@ -1,8 +1,8 @@
 ---
 title: "Game-Theoretic Decision Support for Cyber Forensic Investigations"
 authors: [Antonia Nisioti, George Loukas, Stefan Rass, Emmanouil Panaousis]
-date: 2021-07-30
-publishDate: 2021-07-30
+date: 2021-08-15
+publishDate: 2021-08-15
 publication_types: ["2"]
 publication: "_Sensors_"
 publication_short: "_Sensors_"
