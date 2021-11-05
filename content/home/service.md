@@ -20,7 +20,7 @@ title = "Academic Service"
 ## Expert/Memberships
   * **Senior Member**, IEEE.
   * **Advisory Committee Member**, Conference on Decision and Game Theory for Security.
-  * External Evaluator for the **Romanian Agency for Quality Assurance** in Higher Education.
+  * **External Evaluator for the**, Romanian Agency for Quality Assurance** in Higher Education.
   * **Advisory Board Member**, H2020 SPIDER project.
   * **Member**, College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN), Bristol Cyber Security Research Group, University of Bristol.
   * **Member**, Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council (EPSRC).
