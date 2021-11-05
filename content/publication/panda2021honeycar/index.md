@@ -3,7 +3,7 @@ title: "HoneyCar: A Framework to Configure Honeypot Vulnerabilities on the Inter
 authors: [Sakshyam Panda, Stefan Rass, Sotiris Moschoyiannis, Kaitai Liang, George Loukas, Emmanouil Panaousis]
 date: 2021-11-04
 publishDate: 2021-11-04
-publication_types: ["1"]
+publication_types: ["2"]
 publication: "_arXiv preprint arXiv:2111.02364_"
 publication_short: "_arXiv:2111.02364_"
 doi: ""
