@@ -21,7 +21,6 @@ organizations:
 
 interests:
 - Cyber-physical system and IoT security
-- Human-as-a-sensor
 - Data-driven cyber security
 
 #education:
