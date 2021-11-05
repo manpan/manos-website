@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rob Pell
+title: Sotiris Moschoyiannis
 
 # Username (this should match the folder name)
 authors:
-- pell
+- moschoyiannis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Researcher
+role: Senior Lecturer in Complex Systems
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 5G Security
-- Threat Modelling
-- Decision support for risk management
+- Complex Networks
+- Control Theory
 
 #education:
 #  courses:
@@ -66,7 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Co-investigators
 ---
-
-After graduating with an MEng in Electronic and Communications Engineering from the University of Kent in 2013, Rob joined Babcock International on a 2 year graduate programme. On completion of the graduate scheme he joined the Communications, Intelligence, Surveillance and Reconnaissance (CISR) division working as a Systems Engineer predominantly working on High Frequency (HF) communications systems for maritime platforms. In 2016, he transitioned into a R\&D role as a development engineer developing hardware and software systems for the pharmaceutical and defence companies. It was during this role that he became more aware of cyber security particularly in the context of Industrial Control Systems. He began to research the cyber challenges faced in the industry he worked and was particularly interested in the well documented Stuxnet attack uncovered in 2010. This research sparked a personal interest which led him to begin a PhD at the University of Surrey titled "A dynamic protection framework against APTs in 5G networks" combining his knowledge of communication networks with the interest in emerging cyber security challenges.
+Sotiris's biography can be found [here](https://www.surrey.ac.uk/people/sotiris-moschoyiannis).
