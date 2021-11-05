@@ -18,21 +18,20 @@ title = "Academic Service"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
 ## Expert/Memberships
-  * **IEEE**, Senior Member
-  * **GameSec**, Advisory Committee Member for the Conference on Decision and Game Theory for Security
-  * External Evaluator for the **Romanian Agency for Quality Assurance** in Higher Education
-  * **H2020 SPIDER project**, Advisory Board Member
-  * **REPHRAIN**, Member of the College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online, Bristol Cyber Security Research Group, University of Bristol
-  * **EPSRC**, Member of the Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council
-  * **RISCS**, Member and Fellow of the Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021)
-  * **SPRITE Expect Fellow**, Academic Expert Fellow, "The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB"
-
+  * **Senior Member**, IEEE.
+  * **Advisory Committee Member**, Conference on Decision and Game Theory for Security.
+  * External Evaluator for the **Romanian Agency for Quality Assurance** in Higher Education.
+  * **Advisory Board Member**, H2020 SPIDER project.
+  * **Member**, College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN), Bristol Cyber Security Research Group, University of Bristol.
+  * **Member**, Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council (EPSRC).
+  * **Member and Fellow**, Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021).
+  * **Academic Expert Fellow**, The Security, Privacy, Identity and Trust Engagement NetworkPlus SPRITE+ HUB.
 
 ## General Chair
-  * **Gamesec 2015** (6th Conference on Decision and Game Theory for Security, London, UK, November 2015)
+  * **Gamesec 2015** (6th Conference on Decision and Game Theory for Security, London, UK, November 2015).
 
 ## Program Chair
-  * **Gamesec 2016** (7th Conference on Decision and Game Theory for Security, New York, NY, USA, November 2-4, 2016)
+  * **Gamesec 2016** (7th Conference on Decision and Game Theory for Security, New York, NY, USA, November 2-4, 2016).
 
 ## Reviewer for High Impact Factor Journals
   * ACM Transactions on Internet of Things
