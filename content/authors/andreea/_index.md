@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Business Model Analyst
+role: Junior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Business and Market Analysis
+- Security Economics
+- Business Modelling
 
 #education:
 #  courses:
@@ -64,5 +65,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
