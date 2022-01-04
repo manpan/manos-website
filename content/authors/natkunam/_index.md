@@ -24,15 +24,6 @@ interests:
 - Game theory
 - Optimisation
 
-<!-- education:
-courses:
-- course: PhD in
-  institution: University of Greenwich
-  year: 2021 (expected)
-- course: BSc in
-  institution:
-  year: 2006 -->
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
