@@ -3,7 +3,7 @@ title: "ASTo: A Tool for Security Analysis of IoT Systems"
 authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis]
 date: 2017-06-07
 publishDate: 2017-06-07
-publication_types: ["2"]
+publication_types: ["1"]
 publication: "_2017 IEEE 15th International Conference on Software Engineering Research, Management and Applications_"
 publication_short: "_SERA 2017_"
 doi: "10.1109/SERA.2017.7965757"

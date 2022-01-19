@@ -3,7 +3,7 @@ title: "Apparatus: Reasoning About Security Requirements in the Internet of Thin
 authors: [Orestis Mavropoulos, Haralambos MouratidisAndrew Fish, Emmanouil Panaousis, Christos Kalloniatis]
 date: 2017-06-07
 publishDate: 2017-06-07
-publication_types: ["2"]
+publication_types: ["1"]
 publication: "_2016 International Conference on Advanced Information Systems Engineering_"
 doi: "10.1007/978-3-319-39564-7_21"
 abstract: "Internet of Things (IoT) can be seen as the main driver towards an era of ubiquitous computing. Taking into account the scale of

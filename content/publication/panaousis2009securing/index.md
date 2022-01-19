@@ -3,7 +3,7 @@ title: "Securing AODV Against Wormhole Attacks in Emergency MANET Multimedia Com
 authors: [Emmanouil Panaousis, Levon Nazaryan, Christos Politis]
 date: 2009-09-01
 publishDate: 2009-09-01
-publication_types: ["2"]
+publication_types: ["1"]
 publication: "_5th International Mobile Multimedia Communications Conference (Mobimedia 2009)_"
 publication_short: "_Mobimedia 2009_"
 doi: "10.4108/ICST.MOBIMEDIA2009.7292"

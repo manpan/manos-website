@@ -3,7 +3,7 @@ title: "A Conceptual Model to Support Security Analysis in the Internet of Thing
 authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis, Christos Kalloniatis]
 date: 2017-06-01
 publishDate: 2017-06-01
-publication_types: ["2"]
+publication_types: ["1"]
 publication: "_Computer Science and Information Systems_"
 publication_short: "_Computer Science and Information Systems_"
 doi: "10.2298/CSIS160110016M"
