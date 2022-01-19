@@ -3,7 +3,7 @@ title: "Secure Message Delivery Games for Device-to-Device Communications"
 authors: [Emmanouil Panaousis, Tansu Alpcan, Hossein Fereidooni, Mauro Conti]
 date: 2014-11-06
 publishDate: 2014-11-06
-publication_types: ["2"]
+publication_types: ["1"]
 publication: "_5th International Conference on Decision and Game Theory for Security_"
 publication_short: "_GameSec 2014_"
 doi: "https://doi.org/10.1007/978-3-319-12601-2_11"
