@@ -24,7 +24,7 @@ video transmission over WiMAX networks under different cryptographic algorithms 
 simulator. The outcome of the results show negligible overhead introduced by the security extensions
 giving credence to their application in security sensitive scenarios."
 # summary: ""
-# tags: [Cybersecurity, Cyber-Physical Systems]
+tags: [WiMax security]
 categories: []
 featured: false
 url_pdf: "papers/ehtisham2011performance.pdf"

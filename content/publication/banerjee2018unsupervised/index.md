@@ -9,7 +9,7 @@ publication_short: "_2018 FUZZ-IEEE_"
 doi: "10.1109/FUZZ-IEEE.2018.8491672"
 abstract: ""
 summary: ""
-tags: [IoT Security, Machine Learning]
+tags: [IoT security, machine learning]
 categories: []
 featured: false
 url_pdf: "papers/banerjee2018unsupervised.pdf"

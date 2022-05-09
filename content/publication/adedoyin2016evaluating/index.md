@@ -28,7 +28,7 @@ can reach a conclusion that part of the possible reasons why
 there are few research in applying CBR to the context of detecting financial
 fraud patterns may be due to incomplete information, fuzziness
 and uncertainty in the available data sets used for experimentation."
-tags: [Case-based Reasoning, Fraud detection]
+tags: [case-based reasoning, fraud detection]
 categories: [Conference]
 featured: false
 url_pdf: "papers/adedoyin2016evaluating.pdf"
