@@ -11,7 +11,7 @@ abstract: "Addressing cyber and privacy risks has never been more critical for o
 In this paper, we propose a cyber and privacy risk management toolkit, called AMBIENT (AutoMated cyBer and prIvacy risk managEmeNt Toolkit) that addresses the above challenges by implementing and integrating three distinct software tools.
 AMBIENT not only assesses cyber and privacy risks in a thorough and automated manner but it also offers decision-support capabilities, to recommend optimal safeguards using the well-known repository of the Center for Internet Security (CIS) Controls. To the best of our knowledge, AMBIENT is the first toolkit, in the academic literature, that brings together the aforementioned capabilities. To demonstrate its use, we have created a case scenario based on information about cyber attacks we have received from a healthcare organisation, as a reference sector that faces critical cyber and privacy threats."
 # summary: ""
-tags: [healthcare, cyber risk, assessment, management]
+tags: [healthcare, cyber-risk assessment, cyber-risk management]
 categories: [Journal]
 featured: false
 url_pdf: "papers/granadillo2021automated.pdf"

@@ -5,7 +5,7 @@ title: "TANGO: Digital Technologies ActiNg as a Gatekeeper to information and da
 subtitle: "Funded by the **European Commission Horizon Europe Programme** under **Grant agreement ID: <to be updated soon>** (Sep 2022 - August 2025)"
 summary: #""
 authors: [manos, panda]
-tags: [Privacy, Threat Modelling, Risk Assessment]
+tags: [privacy, threat assessment]
 categories: []
 date: 2022-05-09
 

@@ -13,7 +13,7 @@ publication_short: "_TrustBus 2020: Trust, Privacy and Security in Digital Busin
 doi: "https://doi.org/10.1007/978-3-030-58986-8_5"
 abstract: "This paper represents the SECONDO framework to assist organizations with decisions related to cybersecurity investments and cyber-insurance. The platform supports cybersecurity and cyber-insurance decisions by implementing and integrating a number of software components. SECONDO operates in three distinct phases: (i) cyber-physical risk assessment and continuous monitoring; (ii) investment-driven optimized cyber-physical risk control; and (iii) blockchain-enabled cyber-insurance contract preparation and maintenance. Insurers can leverage SECONDO functionalities to actively participate in the management of cyber-physical risks of a shipping company to reduce their insured risk."
 # summary: ""
-tags: [Security Economics]
+tags: [security economics]
 categories: []
 featured: false
 url_pdf: "papers/farao2020secondo.pdf"
