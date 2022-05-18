@@ -17,13 +17,6 @@ organizations:
 - name: University of Greenwich
   url: "https://www.gre.ac.uk/"
 
-
-service:
-I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small but highly specialised conference in the intersection of cybersecurity and decision support. It attracts high quality contributions and has been instrumental in building and maintaining the community around this topic. It is ranked 20th among all computer science conferences for computer security and cryptography, one position below the prestigious IEEE Computer Security Foundations Symposium [(source)](https://research.com/conference-rankings/computer-science/2021/computer-security-cryptography).
-
-I am an Associate Editor of the IET Information Security journal, reviewer of numerous high impact factor journals including IEEE TIFS and TDSC, Senior member of the IEEE, Advisory Board member of the H2020 SPIDER project, member of the [(EPSRC)](https://epsrc.ukri.org) Associate Peer Review College, Member of the College of Peer Reviewers of the [(REPHRAIN)](https://www.rephrain.ac.uk/) (National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online), External Evaluator for the Romanian Agency for Quality Assurance in Higher Education.
-
-
 interests:
   - Cybersecurity
   - AI
