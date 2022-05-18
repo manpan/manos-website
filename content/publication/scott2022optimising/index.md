@@ -2,7 +2,7 @@
 title: "Optimising User Security Recommendations for AI-Powered Smart-Homes"
 authors: [Emma Scott, Sakshyam Panda, George Loukas, Emmanouil Panaousis]
 date: 2022-03-05
-date: 2022-04-2
+date: 2022-03-05
 publication_types: ["1"]
 publication: "_2022 5th IEEE Conference on Dependable and Secure Computing_"
 publication_short: "_IEEE DSC 2022_"
