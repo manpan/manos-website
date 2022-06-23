@@ -22,7 +22,7 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "custom"
+font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "e.panaousis@gre.ac.uk"
+email = "e.panaousis@greenwich.ac.uk"
 phone = "" # "888 888 88 88"
 
 # Address
@@ -211,7 +211,7 @@ contact_links = [
     #   3: Card
     #   4: Citation (publications only)
     post_view = 2
-    publication_view = 4
+    publication_view = 2
     talk_view = 2
 
   ############################
