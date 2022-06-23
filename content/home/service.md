@@ -18,6 +18,7 @@ title = "Academic Service"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
 ## Expert/Memberships
+  * **Advisory Board Member**, H2020 SECANT project.
   * **Senior Member**, IEEE.
   * **Advisory Committee Member**, Conference on Decision and Game Theory for Security.
   * **External Evaluator for the**, Romanian Agency for Quality Assurance** in Higher Education.
