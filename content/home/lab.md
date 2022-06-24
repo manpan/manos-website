@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Cyber Risk Lab"
-subtitle = ""
+subtitle = "Internet of Things and Security Centre"
 
 [content]
   # Choose which groups/teams of users to display.
