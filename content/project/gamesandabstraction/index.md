@@ -40,8 +40,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Role**: Postdoctor researcher (Queen Mary); visiting researcher (Imperial College).\
-**Principal Investigators**: Chris Hankin, Pasquale Malacaria.\
+**Role**: Postdoctor researcher (Queen Mary); visiting researcher (Imperial College).
+**Principal Investigators**: Chris Hankin, Pasquale Malacaria.
 
 This proposal addresses the challenge "How do we make better security decisions?". Specifically we propose to develop new approaches to decision support based on mathematical game theory. Our work will support professionals who are designing secure systems and also those charged with determining if systems have an appropriate level of security -- in particular, systems administrators. We will develop techniques to support human decision making and techniques which enable well-founded security design decisions to be made.
 
