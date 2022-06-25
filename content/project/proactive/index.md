@@ -4,7 +4,7 @@
 title: "PROACTIVE: PRedictive reasOning and multi-source fusion empowering AntiCipation of attacks and Terrorist actions In Urban EnVironmEnts"
 subtitle: "Funded by the **European Commission FP7 Programme** under **Grant agreement ID: 285320** (1 May 2012 to 30 April 2015)"
 summary: #""
-authors: [Christos Politis, Paolo Remagnino]
+# authors: [Christos Politis, Paolo Remagnino]
 tags: [Cyber Security]
 categories: []
 date: 2012-05-01

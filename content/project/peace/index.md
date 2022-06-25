@@ -4,7 +4,7 @@
 title: "PEACE: IP-Based Emergency Applications and ServiCes for NExt Generation Networks"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 225654** (1 September 2008 to 31 January 2011)"
 summary: #""
-authors: [Christos Politis, Arvind Ramrekha, manos, Grant Millar]
+# authors: [Christos Politis, Arvind Ramrekha, manos, Grant Millar]
 tags: [Cyber Security]
 categories: []
 date: 2008-09-01

@@ -4,7 +4,7 @@
 title: "SPEAR: Secure and PrivatE smArt gRid"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 787011** (1 May 2018 to 30 April 2021)"
 summary: #""
-authors: [manos, liang]
+# authors: [manos, liang]
 tags: [Cyber Security, Artificial Intelligence]
 categories: []
 date: 2018-05-01

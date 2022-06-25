@@ -4,7 +4,7 @@
 title: "Dynamic Protection Framework Against Advanced Persistent Threats in 5G Networks"
 subtitle: "Funded by the **National Cyber Security Centre** (NCSC), PhD studentship, 2019-2022."
 summary: #""
-authors: [manos, pell, moschoyiannis, schneider]
+# authors: [manos, pell, moschoyiannis, schneider]
 tags: [Cyber Security, Artificial Intelligence]
 categories: []
 date: 2019-10-01

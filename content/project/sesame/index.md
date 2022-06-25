@@ -4,7 +4,7 @@
 title: "SESAME: Small cEllS coordinAtion for Multi-tenancy and Edge services"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 671596** (1 July 2015 to 31 December 2017)"
 summary: #""
-authors: [mouratidis, manos]
+# authors: [mouratidis, manos]
 tags: [Cyber Security]
 categories: []
 date: 2015-07-01

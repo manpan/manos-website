@@ -4,7 +4,7 @@
 title: "SecurityBudget: Cyber Security Budget Spending Companion for SMEs"
 subtitle: "Funded by the Greenwich Research and Enterprise for Prototype development (Dec 2020 - Jul 21)"
 summary: ""
-authors: [manos, loukas]
+# authors: [manos, loukas]
 tags: [Security Economics, Cyber Security]
 categories: []
 date: 2020-12-07

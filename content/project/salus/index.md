@@ -4,7 +4,7 @@
 title: "SALUS: Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS"
 subtitle: "Funded by the **European Commission FP7 Programme** under **Grant agreement ID: 313296** (1 September 2013 to 31 August 2016)"
 summary: #""
-authors: [Christos Politis]
+# authors: [Christos Politis]
 tags: [Cyber Security]
 categories: []
 date: 2013-09-01

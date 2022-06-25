@@ -4,7 +4,7 @@
 title: "VISION: Visual Privacy Management in User Centric Open Environments"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 653642** (1 July 2015 to 30 June 2017)"
 summary: #""
-authors: [mouratidis, manos]
+# authors: [mouratidis, manos]
 tags: []
 categories: []
 date: 2015-07-01
