@@ -4,7 +4,7 @@
 title: "CHAI: Cyber Hygiene in AI enabled domestic life"
 subtitle: "Funded by the **Engineering and Physical Sciences Research Council** (EPSRC) under **EPSRC References: EP/T026812/1, EP/T026596/1, EP/T026707/1, EP/T026820/1** (01 December 2020 - 30 November 2023)"
 summary: #""
-authors: [loukas, manos, malacaria, liu, vasalou, roesch, scott]
+# authors: [loukas, manos, malacaria, liu, vasalou, roesch, scott]
 tags: [Cyber Security, Artificial Intelligence, Optimisation]
 categories: []
 date: "2020-09-28"

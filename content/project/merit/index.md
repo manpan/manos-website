@@ -5,7 +5,7 @@ title: "MERIT: A fraMEwoRk to Model and IncenTivise Cyber Security Investment De
 subtitle: "Funded by the **National Cyber Security Centre** in collaboration with the
 **Research Institute in Sociotechnical Cyber Security** (RISCS) under the call: Economics and Incentives (Apr 2020 - March 21)"
 summary: ""
-authors: [manos, chronopoulos]
+# authors: [manos, chronopoulos]
 tags: [Security Economics, Cyber Security, Optimisation]
 categories: []
 date: 2020-04-01
