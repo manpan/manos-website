@@ -18,11 +18,10 @@ title = "Academic Service"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
 ## Expert/Memberships
-  * **Advisory Board Member**, H2020 SECANT project.
   * **Senior Member**, IEEE.
   * **Advisory Committee Member**, Conference on Decision and Game Theory for Security.
   * **External Evaluator for the**, Romanian Agency for Quality Assurance** in Higher Education.
-  * **Advisory Board Member**, H2020 SPIDER project.
+  * **Advisory Board Member**, H2020 SPIDER project, H2020 SECANT project.
   * **Member**, College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN), Bristol Cyber Security Research Group, University of Bristol.
   * **Member**, Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council (EPSRC).
   * **Member and Fellow**, Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021).
