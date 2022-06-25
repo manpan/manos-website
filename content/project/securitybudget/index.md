@@ -40,7 +40,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-SecurityBudget will be a cyber security dashboard to support SMEs on how to protect their systems subject to a limited available budget.
+**Budget**: £12.5k.
 
-**Budget**: £12.5k.\
 **Principal Investigator**: Manos Panaousis, **co-Investigator**: George Loukas.
+
+SecurityBudget is a cyber security dashboard to support SMEs on how to protect their systems subject to a limited available budget.

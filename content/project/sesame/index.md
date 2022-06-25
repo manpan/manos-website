@@ -40,10 +40,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Over the last decade, cyber-attacks have become increasingly sophisticated, stealthy, targeted and multi-faceted which may leverage zero-day exploits and highly creative interdisciplinary attack methods. As our society is becoming increasingly dependent on Critical INfrastructures (CIN), new technologies are needed to increase our detection and response capabilities. Detecting and responding to such attacks by a highly motivated, skilled and well-funded attacker has however been proven highly challenging. One of the most vulnerable and high-impact CIN is the Smart Grid. Smart Grid is considered as the next-generation power system, which promises self-healing, resilience, sustainability and efficiency to the energy Critical Infrastructures (CIN). However, securing smart grids against cyber-attacks is of vital importance for National Security and Public Safety, since the collapse of an energy production utility may cause human lives, millions of euros, denial of a very important and common good such as energy and days or even months of recovering. To this end, the SPEAR proposal aims at a) detecting and responding to cyber-attacks using new technologies and capabilities, b) detecting threat and anomalies timely, c) developing all-in-one security detection solutions, d) leveraging advanced forensics subject to privacy-preserving, e) confronting Advanced Persistent Threat (APT) and targeted attacks in smart grids, f) increasing the resilience of the smart grid innovation, g) alleviating the lack of trust in smart grid operators and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.
-
 **Budget**: €8,266,932.76 (University of Brighton share €331,639).\
-**Principal Investigator**: Haris Mouratidis, **Co-Investigator**: Manos Panaousis.\
-**Partners**: Can be found [here](https://cordis.europa.eu/project/id/671596).\
-**Acceptance Rate**: 14/70.\
-**Role**: Leading research on threat modelling for 5G networks.
+**Role**: Co-investigator.\
+**Principal Investigator**: Haris Mouratidis.\
+# **Acceptance Rate**: 14/70.\
+# **Role**: Leading research on threat modelling for 5G networks.
+
+SESAME targets innovations around three central elements in 5G: the placement of network intelligence and applications in the network edge through Network Functions Virtualisation (NFV) and Edge Cloud Computing; the substantial evolution of the Small Cell concept, already mainstream in 4G but expected to deliver its full potential in the challenging high dense 5G scenarios; and the consolidation of multi-tenancy in communications infrastructures, allowing several operators/service providers to engage in new sharing models of both access capacity and edge computing capabilities.

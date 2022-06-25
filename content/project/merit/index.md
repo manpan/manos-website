@@ -41,11 +41,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The MERIT addresses the challenge of **how to take better cyber security investment decisions**. It aims at minimising cyber security risks by optimally investing its budget for cyber controls. In a multi-disciplinary approach, it utilises both **economics and cybersecurity engineering** insights to significantly extend the state-of-the-art in decision support for cybersecurity spending. It combines econometrics, game theory, mathematical optimisation and cyber security engineering concepts.
+**Budget**: £110k (University of Greenwich share £98k).\
+**Role**: Principal investigator.\
+**co-Investigator**: Michail Chronopoulos (City University London, Cass Business School).\
+**Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.\
+**Website**: [here](https://www.riscs.org.uk/project/merit-a-framework-to-model-and-incentivise-cyber-security-investment-decisions/).\
+# **Role**: Leading research and development on optimisation cyber security investments.
+# The MERIT addresses the challenge of **how to take better cyber security investment decisions**. It aims at minimising cyber security risks by optimally investing its budget for cyber controls. In a multi-disciplinary approach, it utilises both **economics and cybersecurity engineering** insights to significantly extend the state-of-the-art in decision support for cybersecurity spending. It combines econometrics, game theory, mathematical optimisation and cyber security engineering concepts.
 
 MERIT is addressing the complete cyber security management lifecycle, including asset pricing, threat-based risk assessment and optimal risk control constrained by a financial budget. The value of MERIT to practitioners is to **increase the effectiveness of cyber security budget spending** as decided by Chief Information Security Officers (CISOs) and boards of directors. This effectiveness refers to both time to make a decision as well as financial savings.
-
-**Budget**: £60k (University of Greenwich share £48k).\
-**Principal Investigator**: Manos Panaousis, **co-Investigator**: Michail Chronopoulos (City University London, Cass Business School).\
-**Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.\
-**Role**: Leading research and development on optimisation cyber security investments.
