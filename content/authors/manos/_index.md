@@ -18,9 +18,9 @@ organizations:
   url: "https://www.gre.ac.uk/"
 
 interests:
-  - Cybersecurity
-  - AI
-  - IoT
+  #- Cybersecurity
+  #- IoT
+  #- Applied Maths
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
