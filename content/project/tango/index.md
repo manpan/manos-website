@@ -7,7 +7,7 @@ summary: #""
 authors: [manos, panda]
 tags: [Threat modelling, Privacy]
 categories: []
-date: 2022-09-01
+date: 2022-07-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
