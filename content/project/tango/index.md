@@ -4,7 +4,7 @@
 title: "Digital Technologies ActiNg as a Gatekeeper to information and data flOws"
 subtitle: "Funded by the **European Commission Horizon Europe Programme**"
 summary: #""
-authors: [manos, panda]
+authors: 
 tags: [Threat modelling, Privacy]
 categories: []
 date: 2022-07-01
