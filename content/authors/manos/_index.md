@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of the Cyber Risk Lab, Associate Professor (Reader) of Computer Science
+role: Professor of Cyber Security, Head of Cyber Risk Lab
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am the Founder of the Cyber Risk Lab [(CRL)](https://www.cyberrisklab.co.uk/), which is part of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). CRL is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. Our team consists of PhD students, postdoctoral researchers, visiting researchers, and industrial experts. Our research and development outcomes are in the field of cyber risk management.
+I am a professor of cyber security and founder of the Cyber Risk Lab [(CRL)](https://www.cyberrisklab.co.uk/), which is part of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). We are located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. Our team consists of PhD students, postdoctoral researchers, visiting researchers, and industrial experts. Our research and development outcomes are in the field of cyber risk management.
 
 Our members possess expertise in security and privacy engineering, multi-agents systems and mathematical optimisation. Our goal is to invent, develop, and evaluate new models and methods. CRL's impact strategy is to contribute to a more secure UK society against cyber threats. Besides heading CRL, I direct the Cyber Risk Research strategy of the Internet of Things and Security Centre acting also as its liaison with industrial partners.
 
