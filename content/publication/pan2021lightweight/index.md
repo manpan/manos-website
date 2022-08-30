@@ -16,7 +16,7 @@ tags: [identity authentication, key exchange, internet
 of things, provable security, bilinear pairing]
 categories: [Conference]
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/pan20221lightweight.pdf"
+url_pdf: "https://www.manospanaousis.com/papers/pan2021lightweight.pdf"
 image:
   caption: ""
   focal_point: ""
