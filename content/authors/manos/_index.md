@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Cyber Security, Head of Cyber Risk @ Internet of Things and Security Centre
+role: Professor of Cyber Security, Head of Cyber Risk at Internet of Things and Security Centre
 
 # Organizations/Affiliations
 organizations:
