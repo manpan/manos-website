@@ -1,5 +1,5 @@
 ---
-title: "Virtually secure: a taxonomic assessment of cybersecurity challenges in virtual reality environments"
+title: "Virtually Secure: A taxonomic assessment of cybersecurity challenges in virtual reality environments"
 authors: [Blessing Odeleye, George Loukas, Ryan Heartfield, Georgia Sakellari, Emmanouil Panaousis, Fotios Spyridonis]
 date: 2022-10-12
 publishDate: 2022-10-12

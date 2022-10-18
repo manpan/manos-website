@@ -12,7 +12,7 @@ abstract: "IEEE 802.11 k is an extension of the IEEE 802.11 specification for ra
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/panaousis2008optimizing.pdf"
+url_pdf: "papers/panaousis2008optimizing.pdf"
 image:
   caption: ""
   focal_point: ""
