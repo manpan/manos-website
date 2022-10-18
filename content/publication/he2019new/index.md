@@ -1,5 +1,5 @@
 ---
-title: "A New Encrypted Data Switching Protocol: Bridging IBE and ABE Without Loss of Data Confidentiality"
+title: "A new encrypted data switching protocol: bridging IBE and ABE without loss of data confidentiality"
 authors: [Kai He, Yijun Mao, Jianting Ning,Kaitai Liang, Xinyi Huang, Emmanouil Panaousis, George Loukas]
 date: 2019-04-01
 publishDate: 2019-04-01

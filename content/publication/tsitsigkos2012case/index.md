@@ -1,5 +1,5 @@
 ---
-title: "A Case Study of Internet of Things Based on Wireless Sensor Networks and Smart Phones"
+title: "A case study of internet of things based on wireless sensor networks and smart phones"
 authors: [Alkiviadis Tsitsigkos, Fariborz Entezami, Arvind Ramrekha, Christos Politis, Emmanouil Panaousis]
 date: 2012-05-01
 publishDate: 2012-05-01

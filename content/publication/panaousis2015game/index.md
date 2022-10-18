@@ -1,5 +1,5 @@
 ---
-title: "Game-Theoretic Model of Incentivizing Privacy-Aware Users to Consent to Location Tracking"
+title: "Game-theoretic model of incentivizing privacy-aware users to consent to location tracking"
 authors: [Emmanouil Panaousis, Aron Laszka, Johannes Pohl, Andreas Noack, Tansu Alpcan]
 date: 2015-08-01
 publishDate: 2015-08-01

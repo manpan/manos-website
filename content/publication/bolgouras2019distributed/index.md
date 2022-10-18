@@ -1,5 +1,5 @@
 ---
-title: "Distributed Key Management in Microgrids"
+title: "Distributed key management in microgrids"
 authors: [Vaios Bolgouras, Christoforos Ntantogian, Emmanouil Panaousis, Christos Xenakis]
 date: 2019-09-16
 publishDate: 2019-09-16

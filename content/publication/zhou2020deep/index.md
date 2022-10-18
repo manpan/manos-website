@@ -1,5 +1,5 @@
 ---
-title: "Deep Binarized Convolutional Neural Network Inferences over Encrypted Data"
+title: "Deep binarized convolutional neural network inferences over encrypted data"
 authors: [Junwei Zhou, Junjiong Li, Emmanouil Panaousis, Kaitai Liang]
 date: 2020-08-01
 date: 2020-08-01

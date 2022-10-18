@@ -1,5 +1,5 @@
 ---
-title: "Optimising User Security Recommendations for AI-Powered Smart-Homes"
+title: "Optimising user security recommendations for AI-powered smart-homes"
 authors: [Emma Scott, Sakshyam Panda, George Loukas, Emmanouil Panaousis]
 date: 2022-06-22
 date: 2022-06-22

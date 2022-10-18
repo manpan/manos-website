@@ -1,5 +1,5 @@
 ---
-title: "A Game Theoretic Approach for Securing AODV in Emergency Mobile Ad Hoc Networks"
+title: "A game theoretic approach for securing AODV in emergency mobile ad hoc networks"
 authors: [Emmanouil Panaousis, Christos Politis]
 date: 2009-10-01
 publishDate: 2009-10-01

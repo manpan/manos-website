@@ -1,5 +1,5 @@
 ---
-title: "Security Challenges of Small Cell as a Service in Virtualized Mobile Edge Computing Environments"
+title: "Security challenges of small cell as a service in virtualized mobile edge computing environments"
 authors: [Vassilios G. Vassilakis, Emmanouil Panaousis, Haralambos Mouratidis]
 date: 2016-09-17
 publishDate: 2016-09-17

@@ -1,5 +1,5 @@
 ---
-title: "Multi-Stage Threat Modelling and Security Monitoring in 5GCN"
+title: "Multi-stage threat modelling and security monitoring in 5GCN"
 authors: [Robert Pell, Sotiris Moschoyiannis, Emmanouil Panaousis]
 date: 2021-10-15
 publishDate: 2021-10-15

@@ -1,5 +1,5 @@
 ---
-title: "SECONDO: A Platform for Cybersecurity Investments and Cyber Insurance Decisions"
+title: "SECONDO: A platform for cybersecurity investments and cyber insurance decisions"
 authors: [Aristeidis Farao, Sakshyam Panda, Sofia Anna Menesidou, Entso Veliou,
 Nikolaos Episkopos, George Kalatzantonakis, Farnaz Mohammadi,
 Nikolaos Georgopoulos, Michael Sirivianos, Nikos Salamanos, Spyros Loizou,

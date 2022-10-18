@@ -1,5 +1,5 @@
 ---
-title: "ChaMeLeon (CML): A hybrid and adaptive routing protocol for Emergency Situations"
+title: "ChaMeLeon (CML): A hybrid and adaptive routing protocol for emergency situations"
 authors: [Tipu Arvind Ramrekha, Emmanouil Panaousis, Christos Politis]
 date: 2010-08-25
 publishDate: 2009-08-28

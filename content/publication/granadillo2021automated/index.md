@@ -1,5 +1,5 @@
 ---
-title: "Automated Cyber and Privacy Risk Management Toolkit"
+title: "Automated cyber and privacy risk management toolkit"
 authors: [Gustavo González-Granadillo, Sofia Anna Menesidou, Dimitrios Papamartzivanos, Ramon Romeu, Diana Navarro-Llobet, Caxton Okoh, Sokratis Nifakos, Christos Xenakis, Emmanouil Panaousis]
 date: 2021-08-15
 publishDate: 2021-08-15

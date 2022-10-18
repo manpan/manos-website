@@ -1,5 +1,5 @@
 ---
-title: "Post-Incident Audits on Cyber Insurance Discounts"
+title: "Post-incident audits on cyber insurance discounts"
 authors: [Sakshyam Panda, Daniel W. Woods, Aron Laszka, Andrew Fielder, Emmanouil Panaousis]
 date: 2019-11-01
 publishDate: 2019-11-01

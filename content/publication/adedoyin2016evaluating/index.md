@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Case-based Reasoning Knowledge Discovery in Fraud Detection"
+title: "Evaluating case-based reasoning knowledge discovery in fraud detection"
 authors: [Adeyinka Adedoyin, Stelios Kapetanakis, Miltos Petridis, Emmanouil Panaousis]
 date: 2016-10-03
 publishDate: 2016-10-03

@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Decision Support for Resource Offloading in Heterogeneous Internet of Things environments"
+title: "Dynamic decision support for resource offloading in heterogeneous internet of things environments"
 authors: [Ali Jaddoa, Georgia Sakellari, Emmanouil Panaousis, George Loukas, Panagiotis G. Sarigiannidis]
 date: 2020-05-20
 publishDate: 2020-05-20

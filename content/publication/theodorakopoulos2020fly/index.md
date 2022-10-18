@@ -1,5 +1,5 @@
 ---
-title: "On-the-fly Privacy for Location Histograms"
+title: "On-the-fly privacy for location histograms"
 authors: [George Theodorakopoulos, Emmanouil Panaousis, Kaitai Liang, George Loukas.]
 date: 2020-03-13
 publishDate: 2020-03-13

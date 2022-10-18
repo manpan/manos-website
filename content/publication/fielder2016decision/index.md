@@ -1,5 +1,5 @@
 ---
-title: "Decision Support Approaches for Cyber Security Investment"
+title: "Decision support approaches for cyber security investment"
 authors: [Andrew Fielder, Emmanouil Panaousis, Pasquale Malacaria, Chris Hankin, Fabrizio Smeraldi]
 date: 2016-06-01
 publishDate: 2016-06-01

@@ -1,5 +1,5 @@
 ---
-title: "COALA: A Protocol for the Avoidance and Alleviation of Congestion in Wireless Sensor Networks"
+title: "COALA: A protocol for the avoidance and alleviation of congestion in wireless sensor networks"
 authors: [Dionisis Kandris, George Tselikis, Eleftherios Anastasiadis, Emmanouil Panaousis, Tasos Dagiuklas]
 date: 2017-10-31
 publishDate: 2017-10-31

@@ -1,5 +1,5 @@
 ---
-title: "ARIES: A Novel Multivariate Intrusion Detection System for Smart Grid"
+title: "ARIES: A novel multivariate intrusion detection system for smart grid"
 authors: [Panagiotis Radoglou Grammatikis, Panagiotis Sarigiannidis, Georgios Efstathopoulos, Emmanouil Panaousis]
 date: 2020-09-16
 publishDate: 2020-09-16

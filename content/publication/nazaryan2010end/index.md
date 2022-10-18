@@ -1,5 +1,5 @@
 ---
-title: "End-to-End Security Protection"
+title: "End-to-end security protection"
 authors: [Levon Nazaryan, Emmanouil Panaousis, Christos Politis]
 date: 2010-03-15
 publishDate: 2010-03-15

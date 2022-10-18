@@ -1,5 +1,5 @@
 ---
-title: "Optimizing the Channel Load Reporting Process in IEEE 802.11 k-enabled WLANs"
+title: "Optimizing the channel load reporting process in IEEE 802.11 k-enabled WLANs"
 authors: [Emmanouil Panaousis, Pantelis Frangoudis, Christopher Ververidis, George Polyzos]
 date: 2008-09-03
 publishDate: 2008-09-03

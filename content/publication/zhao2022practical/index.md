@@ -1,5 +1,5 @@
 ---
-title: "Practical Algorithm Substitution Attack on Extractable Signatures"
+title: "Practical algorithm substitution attack on extractable signatures"
 authors: [Yi Zhao, Kaitai Liang, Yanqi Zhao, Bo Yang, Yang Ming, Emmanouil Panaousis]
 date: 2022-03-05
 date: 2022-03-05

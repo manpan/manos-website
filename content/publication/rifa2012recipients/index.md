@@ -1,5 +1,5 @@
 ---
-title: "Recipients' Anonymity in Multihop Ad-Hoc Networks"
+title: "Recipients' anonymity in multihop ad-hoc networks"
 authors: [Helena Rifa-Pous, Emmanouil Panaousis, Christos Politis]
 date: 2012-01-01
 publishDate: 2012-01-01

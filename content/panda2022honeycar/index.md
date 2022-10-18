@@ -1,5 +1,5 @@
 ---
-title: "HoneyCar: A Framework to Configure Honeypot Vulnerabilities on the Internet of Vehicles"
+title: "HoneyCar: A framework to configure honeypot vulnerabilities on the internet of vehicles"
 authors: [Sakshyam Panda, Stefan Rass, Sotiris Moschoyiannis, Kaitai Liang, George Loukas, Emmanouil Panaousis]
 date: 2022-09-26
 publishDate: 2022-09-26

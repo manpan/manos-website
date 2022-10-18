@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Decision Support for Optimizing Cyber Forensic Investigations"
+title: "Data-driven decision support for optimizing cyber forensic investigations"
 authors: [Antonia Nisioti, George Loukas, Aron Laszka, Emmanouil Panaousis]
 date: 2021-01-16
 publishDate: 2021-01-16

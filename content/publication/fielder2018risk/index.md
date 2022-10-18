@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment Uncertainties in Cybersecurity Investments"
+title: "Risk assessment uncertainties in cybersecurity investments"
 authors: [Andrew Fielder, Sandra König, Emmanouil Panaousis, Stefan Schauer, Stefan Rass]
 date: 2018-06-09
 publishDate: 2018-06-09

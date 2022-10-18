@@ -1,5 +1,5 @@
 ---
-title: "A Taxonomy and Survey of Cyber-Physical Intrusion Detection Approaches for Vehicles"
+title: "A taxonomy and survey of cyber-physical intrusion detection approaches for vehicles"
 authors: [George Loukas, Eirini Karapistoli, Emmanouil Panaousis, Panagiotis Sarigiannidis, Anatolij Bezemskij, Tuan Vuong]
 date: 2019-03-01
 publishDate: 2019-03-01

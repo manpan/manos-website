@@ -1,5 +1,5 @@
 ---
-title: "ASTo: A Tool for Security Analysis of IoT Systems"
+title: "ASTo: A tool for security analysis of IoT systems"
 authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis]
 date: 2017-06-07
 publishDate: 2017-06-07

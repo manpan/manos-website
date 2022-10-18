@@ -1,5 +1,5 @@
 ---
-title: "Cyber-Insurance: Past, Present and Future"
+title: "Cyber-insurance: Past, present and future"
 authors: [Sakshyam Panda, Aristeidis Farao, Emmanouil Panaousis, Christos Xenakis]
 date: 2021-02-09
 publishDate: 2021-02-09

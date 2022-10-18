@@ -1,5 +1,5 @@
 ---
-title: "Using Sparse Representation to Detect Anomalies in Complex WSNs"
+title: "Using sparse representation to detect anomalies in complex WSNs"
 authors: [Xiao Ming Li, Guangquan Xu, Xi Zheng, Kaitai Liang, Emmanouil Panaousis, Tao Li, Wei Wang, Chao Shen]
 date: 2019-10-01
 publishDate: 2019-10-01

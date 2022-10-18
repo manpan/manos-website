@@ -1,5 +1,5 @@
 ---
-title: "MITRE ATT&CK-driven Cyber Risk Assessment"
+title: "MITRE ATT&CK-driven cyber risk assessment"
 authors: [Mohamed G Ahmed, Sakshyam Panda, Emmanouil Panaousis, Christos Xenakis]
 date: 2022-07-06
 date: 2022-07-06

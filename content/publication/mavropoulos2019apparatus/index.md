@@ -1,5 +1,5 @@
 ---
-title: "Apparatus: A Framework for Security Analysis in Internet of Things Systems"
+title: "Apparatus: A framework for security analysis in internet of things systems"
 authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis, Christos Kalloniatis]
 date: 2019-09-01
 publishDate: 2019-09-01

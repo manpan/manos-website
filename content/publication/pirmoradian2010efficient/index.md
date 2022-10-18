@@ -1,5 +1,5 @@
 ---
-title: "An Efficient Power Control Algorithm for Supporting Cognitive Communications in Shared Spectrum Areas"
+title: "An efficient power control algorithm for supporting cognitive communications in shared spectrum areas"
 authors: [Mahdi Pirmoradian, Christos Politis, Emmanouil A. Panaousis]
 date: 2009-08-28
 publishDate: 2009-08-28

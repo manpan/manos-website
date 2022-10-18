@@ -1,5 +1,5 @@
 ---
-title: "Standardisation Advancements in the Area of Routing for Mobile Ad-Hoc Networks"
+title: "Standardisation advancements in the area of routing for mobile ad-hoc networks"
 authors: [Tipu A Ramrekha, Emmanouil Panaousis, Christos Politis]
 date: 2013-05-01
 publishDate: 2013-05-01

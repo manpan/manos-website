@@ -1,5 +1,5 @@
 ---
-title: "Apparatus: Reasoning About Security Requirements in the Internet of Things"
+title: "Apparatus: Reasoning about security requirements in the internet of things"
 authors: [Orestis Mavropoulos, Haralambos MouratidisAndrew Fish, Emmanouil Panaousis, Christos Kalloniatis]
 date: 2017-06-07
 publishDate: 2017-06-07

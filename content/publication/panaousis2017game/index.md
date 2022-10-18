@@ -1,5 +1,5 @@
 ---
-title: "Game Theoretic Path Selection to Support Security in Device-to-Device Communications"
+title: "Game theoretic path selection to support security in device-to-device communications"
 authors: [Emmanouil Panaousis, Eirini Karapistoli, Hadeer Elsemary, Tansu Alpcan, MHR Khuzani, Anastasios A. Economides]
 date: 2017-03-01
 publishDate: 2017-03-01

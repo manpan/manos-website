@@ -1,5 +1,5 @@
 ---
-title: "Honeypot Type Selection Games for Smart Grid Networks"
+title: "Honeypot type selection games for smart grid networks"
 authors: [Nadia Boumkheld, Sakshyam Panda, Stefan Rass, Emmanouil Panaousis]
 date: 2019-10-23
 publishDate: 2019-10-23

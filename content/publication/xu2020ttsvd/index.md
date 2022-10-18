@@ -1,5 +1,5 @@
 ---
-title: "TT-SVD: an Efficient Sparse Decision Making Model with Two-way Trust Recommendation in the AI Enabled IoT Systems"
+title: "TT-SVD: An efficient sparse decision making model with two-way trust recommendation in the AI enabled IoT systems"
 authors: [Guangquan Xu, Yuyang Zhao, Litao Jiao, Meiqi Feng, Zhong Ji, Emmanouil Panaousis, Si Chen, Xi Zheng]
 date: 2020-06-30
 publishDate: 2020-06-30

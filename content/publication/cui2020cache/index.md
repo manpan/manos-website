@@ -1,5 +1,5 @@
 ---
-title: "Cache-Based Privacy Preserving Solution for Location and Content Protection in Location-Based Services"
+title: "Cache-based privacy preserving solution for location and content protection in location-based services"
 authors: [Yuanbo Cui, Fei Gao, Wenmin Li, Yijie Shi, Hua Zhang, Qiaoyan Wen, Emmanouil Panaousis]
 date: 2020-08-01
 publishDate: 2020-08-01

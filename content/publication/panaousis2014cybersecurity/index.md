@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity Games and Investments: A Decision Support Approach"
+title: "Cybersecurity games and investments: A decision support approach"
 authors: [Emmanouil Panaousis, Andrew Fielder, Pasquale Malacaria, Chris Hankin, and Fabrizio Smeraldi]
 date: 2014-11-01
 publishDate: 2014-11-01

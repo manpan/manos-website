@@ -1,5 +1,5 @@
 ---
-title: "Distributed Hash Tables for Peer-to-Peer Mobile Ad-hoc Networks with Security Extensions"
+title: "Distributed hash tables for peer-to-peer mobile ad-hoc networks with security extensions"
 authors: [Grant Millar, Emmanouil Panaousis, Christos Politis]
 date: 2012-02-01
 publishDate: 2012-02-01
