@@ -13,7 +13,7 @@ abstract: "Assessing the risk posed by Advanced Cyber Threats (APTs) is challeng
 tags: [Cybersecurity, risk assessment, mitre att&ck]
 categories: [Conference]
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/ahmed2022mitre.pdf"
+url_pdf: "papers/ahmed2022mitre.pdf"
 image:
   caption: ""
   focal_point: ""
