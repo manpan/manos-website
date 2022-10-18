@@ -12,7 +12,7 @@ abstract: "Although Virtual Reality (VR) is certainly not a new technology, its 
 tags: [Location privacy]
 categories: [Journal]
 featured: false
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0167404822003431?via%3Dihub"
+url_pdf: "papers/odeleye2022virtually.pdf"
 # url_code: ""
 image:
   caption: ""
