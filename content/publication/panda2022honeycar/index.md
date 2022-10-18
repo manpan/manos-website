@@ -1,17 +1,17 @@
 ---
 title: "HoneyCar: A Framework to Configure Honeypot Vulnerabilities on the Internet of Vehicles"
 authors: [Sakshyam Panda, Stefan Rass, Sotiris Moschoyiannis, Kaitai Liang, George Loukas, Emmanouil Panaousis]
-date: 2021-11-04
-publishDate: 2021-11-04
+date: 2022-09-26
+publishDate: 2022-09-26
 publication_types: ["2"]
-publication: "_arXiv preprint arXiv:2111.02364_"
-publication_short: "_arXiv:2111.02364_"
-doi: ""
-abstract: "The Internet of Vehicles (IoV), whereby interconnected vehicles communicate with each other and with road infrastructure on a common network, has promising socio-economic benefits but also poses new cyber-physical threats. Data on vehicular attackers can be realistically gathered through cyber threat intelligence using systems like honeypots. Admittedly, configuring honeypots introduces a trade-off between the level of honeypot-attacker interactions and any incurred overheads and costs for implementing and monitoring these honeypots. We argue that effective deception can be achieved through strategically configuring the honeypots to represent components of the IoV and engage attackers to collect cyber threat intelligence. In this paper, we present HoneyCar, a novel decision support framework for honeypot deception in IoV. HoneyCar builds upon a repository of known vulnerabilities of the autonomous and connected vehicles found in the Common Vulnerabilities and Exposure (CVE) data within the National Vulnerability Database (NVD) to compute optimal honeypot configuration strategies. By taking a game-theoretic approach, we model the adversarial interaction as a repeated imperfect-information zero-sum game in which the IoV network administrator chooses a set of vulnerabilities to offer in a honeypot and a strategic attacker chooses a vulnerability of the IoV to exploit under uncertainty. Our investigation is substantiated by examining two different versions of the game, with and without the re-configuration cost to empower the network administrator to determine optimal honeypot configurations. We evaluate HoneyCar in a realistic use case to support decision makers with determining optimal honeypot configuration strategies for strategic deployment in IoV."
+publication: "_IEEE Access_"
+publication_short: "_IEEE Access_"
+doi: "https://doi.org/10.1109/ACCESS.2022.3210117"
+abstract: "The Internet of Vehicles (IoV), whereby interconnected vehicles that communicate with each other and with road infrastructure on a common network, has promising socio-economic benefits but also poses new cyber-physical threats. To protect these entities and learn about adversaries, data on attackers can be realistically gathered using decoy systems like honeypots. Admittedly, honeypots introduces a trade-off between the level of honeypot-attacker interactions and incurred overheads and costs for implementing and monitoring these systems. Deception through honeypots can be achieved by strategically configuring the honeypots to represent components of the IoV to engage attackers and collect cyber threat intelligence. Here, we present HoneyCar, a novel decision support framework for honeypot deception in IoV. HoneyCar benefits from the repository of known vulnerabilities of the autonomous and connected vehicles found in the Common Vulnerabilities and Exposure (CVE) database to compute optimal honeypot configuration strategies. The adversarial interaction is modelled as a repeated imperfect-information zero-sum game where the IoV network administrator strategically chooses a set of vulnerabilities to offer in a honeypot and a strategic attacker chooses a vulnerability to exploit under uncertainty. Our investigation examines two different versions of the game, with and without the re-configuration cost, to empower the network administrator to determine optimal honeypot investment strategies given a budget. We show the feasibility of this approach in a case study that consists of the vulnerabilities in autonomous and connected vehicles gathered from the CVE database and data extracted from the Common Vulnerability Scoring System (CVSS)."
 tags: [Honeypots, Cyber Deception, Internet of Vehicles, Cybersecurity investment, Game theory, Optimisation]
 categories: [Journal]
 featured: false
-url_pdf: "papers/panda2021honeycar.pdf"
+url_pdf: "papers/panda2022honeycar.pdf"
 image:
   caption: ""
   focal_point: ""
