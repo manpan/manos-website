@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Lab"
-  url = "#lab"
+  name = "ISEC"
+  url = "#isec"
   weight = 15
 
 [[main]]

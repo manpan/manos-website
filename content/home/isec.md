@@ -20,7 +20,7 @@ subtitle = "Internet of Things and Security Centre"
                 ]
 
   # Page type to display. E.g. project.
-  page_type = "ISEC"
+  page_type = "isec"
 
 [design]
   # Show user's social networking links? (true/false)
