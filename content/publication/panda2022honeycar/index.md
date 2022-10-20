@@ -12,13 +12,13 @@ summary: ""
 tags: [Honeypots, cyber deception, internet of vehicles, cybersecurity investment, game theory, optimisation]
 categories: [Journal]
 featured: false
-url_pdf: "papers/panda2022honeycar.pdf"
+#url_pdf: "papers/panda2022honeycar.pdf"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
-slides: ""
+#projects: []
+#slides: ""
 #note: "(JCR 2019: 3.579)"
 
 ---
