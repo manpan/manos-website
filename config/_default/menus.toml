@@ -16,24 +16,24 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 20
+  weight = 25
 
 [[main]]
   name = "Publications"
   url = "publication/"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Service"
   url = "#service"
-  weight = 45
+  weight = 30
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 50
+  weight = 35
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 55
+  weight = 40
