@@ -56,3 +56,5 @@ subtitle = "Internet of Things and Security Centre"
  # CSS class.
  css_class = ""
 +++
+
+ISEC aims at equipping the Internet of Things with the ability to adapt to the needs of human beings and self-protect against cyber security, safety and privacy threats. With 28 members of staff and PhD students and an annual budget over £2M, it specialises in security and privacy technologies for distributed digital environments where a security breach in cyber space can affect people and systems in physical space, from smart homes and smart buildings to robotics, e-commerce and corporate environments. Our members specialise in embedded system security, mathematical modelling, formal methods, optimisation and machine learning together with practitioner skills in penetration testing and digital forensics. The centre’s research strategy prioritises multidisciplinary research and the validation of theoretical grounding with laboratory and in-the-wild experimentation with end-users.
