@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 ---
 **Budget**: £2.4M (University of Greenwich share £453k).
-**Role**: Co-investigator.
+**Role**: Co-I
 **Principal Investigators**: George Loukas (Greenwich), Vasalou (UCL), Liu (Bristol), Roesch (Reading), Malacaria (Queen Mary).
 
 Artificial Intelligence (AI) is rapidly becoming part of people's lives at home. Smart speakers, smart thermostats, security cameras with face recognition, and in the near future, brain-computer interfaces and elderly care companion robots can have considerable benefits to energy efficiency, comfort, and even health. However, **AI also introduces new cyber security risks**, which users are not prepared for. When a user faces a security threat such as receiving a phishing email or visiting a watering hole website, there are often visual and behavioural cues that can raise their suspicion, and there are known cyber hygiene measures they can follow. In contrast, for AI enabled devices, such as those found in a smart home, this is rarely the case, because they are designed to be minimalist and seamless. Also, there are no equivalent cyber hygiene measures for AI security risks to advise users given the emerging nature of this technology.

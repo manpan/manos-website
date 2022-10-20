@@ -44,7 +44,7 @@ url_video: ""
 slides: ""
 ---
 **Budget**: £110k (University of Greenwich share £98k).
-**Role**: Principal investigator.
+**Role**: PI.
 **co-Investigator**: Michail Chronopoulos (City University London, Cass Business School).
 **Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.
 
