@@ -201,7 +201,7 @@ contact_links = [
     date_format = "January 2006"
 
     # Citation style ("apa" or "mla")
-    citation_style = "apa"
+    citation_style = "mla"
 
   # Configuration of project pages.
   [projects]
@@ -210,9 +210,9 @@ contact_links = [
     #   2: Compact
     #   3: Card
     #   4: Citation (publications only)
-    post_view = 2
+    post_view = 4
     publication_view = 4
-    talk_view = 2
+    talk_view = 4
 
   ############################
   ## Comments
