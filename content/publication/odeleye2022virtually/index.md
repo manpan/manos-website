@@ -20,6 +20,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-# note: "(JCR 2019: 6.864)"
+note: "(Scimago 2021: Q1, Impact factor 2022: 5.105)"
 
 ---
