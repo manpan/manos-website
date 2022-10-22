@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "ISEC"
-  url = "#isec"
-  weight = 15
-
-[[main]]
   name = "Projects"
   url = "#projects"
   weight = 25
