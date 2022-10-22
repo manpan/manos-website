@@ -16,7 +16,7 @@
 theme = "custom"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -26,7 +26,7 @@ font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Website of Professor Emmanouil (Manos) Panaousis"
 
 ############################
 ## Site Features
@@ -201,7 +201,7 @@ contact_links = [
     date_format = "January 2006"
 
     # Citation style ("apa" or "mla")
-    citation_style = "mla"
+    citation_style = "apa"
 
   # Configuration of project pages.
   [projects]
@@ -211,7 +211,7 @@ contact_links = [
     #   3: Card
     #   4: Citation (publications only)
     post_view = 4
-    publication_view = 4
+    publication_view = 1
     talk_view = 4
 
   ############################
