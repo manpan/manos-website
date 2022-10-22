@@ -5,7 +5,7 @@ title: "Digital Technologies ActiNg as a Gatekeeper to information and data flOw
 subtitle: "Funded by the **European Commission Horizon Europe Programme**"
 summary: #""
 authors:
-tags: [Threat modelling, Privacy]
+tags: [privacy risk management]
 categories: []
 date: 2022-07-01
 

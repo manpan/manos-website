@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 41  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -180,8 +180,6 @@ date_start = "2013-09-01"
 date_end = "2013-12-15"
 description = "Teaching Assistant"
 semester = "2013 Fall (BSc, level 6)"
-
-
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
@@ -190,6 +188,4 @@ semester = "2013 Fall (BSc, level 6)"
 #  date_start = "2018-03-01"
 #  date_end = ""
 #  description = "Formulated informed blockchain models, hypotheses, and use cases."
-
-
 +++

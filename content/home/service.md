@@ -3,7 +3,7 @@
 widget = "accomplishments"
 headless = true
 active = true
-weight = 45
+weight = 30
 
 title = "Academic Service"
 

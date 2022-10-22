@@ -5,7 +5,7 @@ title: "SECONDO: a Security ECONomics service platform for smart security invest
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 823997** (Jan 2019 - Dec 2022)"
 summary: #""
 # authors: [manos, parsons, panda, liang]
-tags: [Security Economics, Optimisation]
+tags: [security economics]
 categories: []
 date: 2019-01-01
 
@@ -24,9 +24,9 @@ image:
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+  # url: https://twitter.com
+  # icon_pack: fab
+  # icon: twitter
 
 url_code: ""
 url_pdf: ""

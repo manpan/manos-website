@@ -4,8 +4,8 @@
 title: "CUREX: seCUre and pRivate hEalth data eXchange"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 826404** (Dec 2018 - Nov 2021)"
 summary: #""
-authors: [manos, okoh, natkunam, panda, stretch, liang]
-tags: [Cyber Security, Optimisation]
+# authors: [manos, okoh, natkunam, panda, stretch, liang] -->
+tags: [cyber risk management, security economics]
 categories: []
 date: 2018-12-01
 

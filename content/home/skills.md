@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 12  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
-title = "Research Areas" # "Skills"
+title = "" # "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "shield-alt"
   icon_pack = "fas"
-  name = "Cyber Security"
-  description = "Cyber Risk Management, IoT Security, Security Economics"
+  name = "Use Cases"
+  description = "Cyber and Privacy Risk Optimisation, Threat Modelling, Security Controls, Security Investments"
 
 [[feature]]
   icon = "business-time"
   icon_pack = "fas"
-  name = "Applications Domains"
-  description = "Healthcare, SMEs, Domestic Life, 5G"
+  name = "Application Domains"
+  description = "Small Businesses, Healthcare, Domestic Life"
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Artificial Intelligence"
-  description = "Optimisation, Game Theory, Machine Learning"
+  name = "Tools"
+  description = "Optimisation, Game Theory, AI"
 
 # Uncomment to use emoji icons.
 # [[feature]]

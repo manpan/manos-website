@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emmanouil (Manos) Panaousis
+title: Manos Panaousis
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Cyber Security, Head of Cyber Risk at Internet of Things and Security Centre
+role: Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,15 @@ organizations:
   url: "https://www.gre.ac.uk/"
 
 interests:
-  #- Cybersecurity
-  #- IoT
-  #- Applied Maths
+ - Cyber risk management
+ - IoT security
+ - Security economics
+ - Privacy risk management
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-<!-- education:
+education:
   courses:
   - course: PhD in Computer Science (Security for Mobile Ad Hoc Networks)
     institution: Kingston University
@@ -35,7 +36,7 @@ bio: ""
     year: 2008
   - course: BSc in Informatics and Telecommunications
     institution: National and Kapodistrian University of Athens
-    year: 2006 -->
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

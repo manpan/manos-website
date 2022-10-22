@@ -5,7 +5,7 @@ title: "Games and Abstraction: The Science of Cyber Security"
 subtitle: "Funded by the **Engineering and Physical Sciences Research Council** (EPSRC), the **Government Communications Headquarters** (GCHQ) and the Department for Business, Innovation and Skills (BIS) under the UK's First Academic Research Institute: ``Science of Cyber Security'' (01 January 2013 to 30 June 2016)"
 summary: #""
 # authors: [Chris Hankin, malacaria]
-tags: [Cyber Security, Security Economics, Optimisation]
+tags: [cyber risk management]
 categories: []
 date: 2015-07-01
 
@@ -41,7 +41,6 @@ url_video: ""
 slides: ""
 ---
 **Role**: Postdoctoral researcher (Queen Mary); visiting researcher (Imperial College).
-**Principal Investigators**: Chris Hankin, Pasquale Malacaria.
 
 This proposal addresses the challenge "How do we make better security decisions?". Specifically we propose to develop new approaches to decision support based on mathematical game theory. Our work will support professionals who are designing secure systems and also those charged with determining if systems have an appropriate level of security -- in particular, systems administrators. We will develop techniques to support human decision making and techniques which enable well-founded security design decisions to be made.
 

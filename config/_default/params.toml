@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "University of Greenwich"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Website of Professor Emmanouil (Manos) Panaousis"
+description = "Professor Manos Panaousis"
 
 ############################
 ## Site Features
@@ -117,7 +117,6 @@ contact_links = [
   {icon = "researchgate", icon_pack = "ai", name = "ResearchGate", link = "https://www.researchgate.net/profile/Emmanouil_Panaousis"},
   {icon = "linkedin-in", icon_pack = "ai", name = "LinkedIn", link = "https://www.linkedin.com/in/manospanaousis/"},
   ]
-
 
   ############################
   ## Social
@@ -210,9 +209,9 @@ contact_links = [
     #   2: Compact
     #   3: Card
     #   4: Citation (publications only)
-    post_view = 4
-    publication_view = 1
-    talk_view = 4
+    post_view = 2
+    publication_view = 4
+    talk_view = 2
 
   ############################
   ## Comments

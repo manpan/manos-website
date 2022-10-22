@@ -5,7 +5,7 @@ title: "SecurityBudget: Cyber Security Budget Spending Companion for SMEs"
 subtitle: "Funded by the Greenwich Research and Enterprise for Prototype development (Dec 2020 - Jul 21)"
 summary: ""
 # authors: [manos, loukas]
-tags: [Security Economics, Cyber Security]
+tags: [cyber risk management, security economics]
 categories: []
 date: 2020-12-07
 
@@ -41,6 +41,7 @@ url_video: ""
 slides: ""
 ---
 **Budget**: £12.5k.
-**Principal Investigator**: Manos Panaousis, **co-Investigator**: George Loukas.
+**Role**: PI.
+<!-- **co-Investigator**: George Loukas. -->
 
 SecurityBudget is a cyber security dashboard to support SMEs on how to protect their systems subject to a limited available budget.
