@@ -1,6 +1,6 @@
 ---
 title: "A trusted platform module-based, pre-emptive and dynamic asset discovery tool"
-authors: [Antonio Jesus Diaz-Honrubia, Alberto Blázquez Herranz, Lucía Prieto Santamaría, Ernestina Menasalvas Ruiz, Alejandro Rodríguez-González, Gustavo Gonzalez-Granadillo, Rodrigo Diaz, Emmanouil Panaousis, Christos Xenakis.]
+authors: [Antonio Jesus Diaz-Honrubia, Alberto Blázquez Herranz, Lucía Prieto Santamaría, Ernestina Menasalvas Ruiz, Alejandro Rodríguez-González, Gustavo Gonzalez-Granadillo, Rodrigo Diaz, Emmanouil Panaousis, Christos Xenakis]
 date: 2022-10-20
 publishDate: 2022-10-20
 publication_types: ["2"]
