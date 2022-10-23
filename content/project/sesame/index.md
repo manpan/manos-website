@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SESAME: Small cEllS coordinAtion for Multi-tenancy and Edge services"
+title: "SESAME - Small cEllS coordinAtion for Multi-tenancy and Edge services"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 671596** (1 July 2015 to 31 December 2017)"
 summary: #""
 # authors: [mouratidis, manos]
@@ -42,7 +42,7 @@ url_video: ""
 # **Role**: Leading research on threat modelling for 5G networks.
 slides: ""
 ---
-**Budget**: €8,266,932.76 (University of Brighton share €331,639).
+<!-- **Budget**: €8,266,932.76 (University of Brighton share €331,639). -->
 **Role**: Co-I.
 <!--  **Principal Investigator**: Haris Mouratidis. -->
 

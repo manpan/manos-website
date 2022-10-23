@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SecurityBudget: Cyber Security Budget Spending Companion for SMEs"
+title: "SecurityBudget - Cyber Security Budget Spending Companion for SMEs"
 subtitle: "Funded by the Greenwich Research and Enterprise for Prototype development (Dec 2020 - Jul 21)"
 summary: ""
 # authors: [manos, loukas]
@@ -40,7 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Budget**: £12.5k.
+<!-- **Budget**: £12.5k. -->
 **Role**: PI.
 <!-- **co-Investigator**: George Loukas. -->
 

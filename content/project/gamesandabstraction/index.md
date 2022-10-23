@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Games and Abstraction: The Science of Cyber Security"
+title: "Games and Abstraction - The Science of Cyber Security"
 subtitle: "Funded by the **Engineering and Physical Sciences Research Council** (EPSRC), the **Government Communications Headquarters** (GCHQ) and the Department for Business, Innovation and Skills (BIS) under the UK's First Academic Research Institute: ``Science of Cyber Security'' (01 January 2013 to 30 June 2016)"
 summary: #""
 # authors: [Chris Hankin, malacaria]

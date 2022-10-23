@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CHAI: Cyber Hygiene in AI enabled domestic life"
+title: "CHAI - Cyber Hygiene in AI enabled domestic life"
 subtitle: "Funded by the **Engineering and Physical Sciences Research Council** (EPSRC) under **EPSRC References: EP/T026812/1, EP/T026596/1, EP/T026707/1, EP/T026820/1** (01 December 2020 - 30 November 2023)"
 summary: #""
 # authors: [loukas, manos, malacaria, liu, vasalou, roesch, scott]
@@ -40,7 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Budget**: £2.4M (University of Greenwich share £453k).
+<!-- **Budget**: £2.4M (University of Greenwich share £453k). -->
 **Role**: Co-I.
 <!-- **Principal Investigators**: George Loukas (Greenwich), Vasalou (UCL), Liu (Bristol), Roesch (Reading), Malacaria (Queen Mary). -->
 

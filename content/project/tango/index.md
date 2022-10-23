@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Digital Technologies ActiNg as a Gatekeeper to information and data flOws"
+title: "TANGO - Digital Technologies ActiNg as a Gatekeeper to information and data flOws"
 subtitle: "Funded by the **European Commission Horizon Europe Programme**"
 summary: #""
 authors:
