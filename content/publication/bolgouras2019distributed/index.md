@@ -20,5 +20,5 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(Impact Score: 12.03, h-Index: 151, SJR: Q1)"
+note: "(JCR IF 2019: 10.854, SJR 2019: Q1)"
 ---

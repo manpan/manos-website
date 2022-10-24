@@ -20,6 +20,6 @@ image:
 projects: []
 slides: ""
 doi: "https://doi.org/10.3390/s21165300"
-note: "(JCR IF 2021: 3.847, SJR: Q1)"
+note: "(JCR IF 2021: 3.847, SJR 2021: Q2)"
 
 ---

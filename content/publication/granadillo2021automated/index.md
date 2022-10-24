@@ -22,5 +22,5 @@ image:
 projects: [curex]
 slides: ""
 doi: "https://doi.org/10.3390/s21165493"
-note: "(Impact Score: 11.44, h-Index: 205, SJR: Q1)"
+note: "(JCR IF 2021: 3.847, SJR 2021: Q2)"
 ---

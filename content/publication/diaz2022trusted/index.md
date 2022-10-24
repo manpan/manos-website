@@ -19,5 +19,5 @@ image:
   preview_only: false
 projects: [curex]
 #slides: ""
-note: "(JCR IF 2021: 4.96, SJR: Q1)"
+note: "(JCR IF 2021: 4.96, SJR 2021: Q1)"
 ---

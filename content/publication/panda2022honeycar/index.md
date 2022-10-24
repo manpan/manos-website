@@ -19,6 +19,6 @@ image:
   preview_only: false
 #projects: []
 #slides: ""
-note: "(JCR IF 2021: 3.476, SJR: Q1)"
+note: "(JCR IF 2021: 3.476, SJR 2021: Q1)"
 
 ---

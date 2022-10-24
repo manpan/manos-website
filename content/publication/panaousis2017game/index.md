@@ -21,6 +21,5 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR 2017: 3.151)"
-
+note: "(JCR IF 2017: 3.151, SJR 2017: Q1)"
 ---
