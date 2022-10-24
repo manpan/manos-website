@@ -9,8 +9,8 @@
   </span>
   ({{- .Date.Format "2006" -}}).
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
-  {{ if .Params.publication_short }}
-  {{- .Params.publication_short | markdownify -}}.
+  {{ if .Params.publication }}
+  {{- .Params.publication | markdownify -}}.
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}.
   {{ end }}
@@ -26,8 +26,8 @@
     {{ partial "page_metadata_authors" . }}.
   </span>
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
-  {{ if .Params.publication_short }}
-  {{- .Params.publication_short | markdownify -}},
+  {{ if .Params.publication }}
+  {{- .Params.publication | markdownify -}},
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}},
   {{ end }}

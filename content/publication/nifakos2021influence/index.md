@@ -17,9 +17,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [curex]
 slides: ""
 doi: "https://doi.org/10.3390/s21155119"
-note: "(IF 2020: 3.576)"
+note: "(JCR IF 2021: 3.847, SJR: Q1)"
 
 ---

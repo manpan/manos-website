@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [sesame]
 slides: ""
 note: ""
 

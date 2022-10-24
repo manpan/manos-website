@@ -16,13 +16,19 @@
 theme = "custom"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
 font = "Minimal"
+
+# Minimal (modern)
+# Classic (original Academic v1 style)
+# Rose (traditional serif)
+# Mr Robot (futuristic)
+
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -126,7 +132,7 @@ contact_links = [
   sharing_image = ""
 
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = ""
+  twitter = "panaousis"
 
   ############################
   ## Regional Settings
@@ -201,6 +207,7 @@ contact_links = [
 
     # Citation style ("apa" or "mla")
     citation_style = "apa"
+    view = 4
 
   # Configuration of project pages.
   [projects]
@@ -209,9 +216,9 @@ contact_links = [
     #   2: Compact
     #   3: Card
     #   4: Citation (publications only)
-    post_view = 2
-    publication_view = 4
-    talk_view = 2
+    # post_view = 2
+    view = 4
+    # talk_view = 2
 
   ############################
   ## Comments
@@ -272,7 +279,7 @@ contact_links = [
     #   1: Google Maps
     #   2: OpenStreetMap (Mapnik)
     #   3: OpenStreetMap (Mapbox)
-    engine = 2
+    engine = 1
     api_key = ""
     zoom = 15
 

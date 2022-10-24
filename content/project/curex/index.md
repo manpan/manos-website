@@ -1,9 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "CUREX - seCUre and pRivate hEalth data eXchange"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 826404** (Dec 2018 - Nov 2021)"
-summary: #""
+summary: role - principal investigator
 # authors: [manos, okoh, natkunam, panda, stretch, liang] -->
 tags: [cyber risk management, security economics]
 categories: []

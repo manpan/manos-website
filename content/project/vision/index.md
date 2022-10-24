@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "VISION: Visual Privacy Management in User Centric Open Environments"
+title: "VISION - Visual Privacy Management in User Centric Open Environments"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 653642** (1 July 2015 to 30 June 2017)"
 summary: #""
 # authors: [mouratidis, manos]
@@ -41,7 +41,7 @@ url_video: ""
 # **Acceptance Rate**: 6/50.
 slides: ""
 ---
-**Budget**: €3,161,000 (University of Brighton share €392,000).
+<!-- **Budget**: €3,161,000 (University of Brighton share €392,000). -->
 **Role**: Co-I.
 <!-- **Principal Investigator**: Haris Mouratidis. -->
 

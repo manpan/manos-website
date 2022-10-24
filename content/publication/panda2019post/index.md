@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [secondo]
 slides: ""
 note: "(JCR 2019: 3.579)"
 
