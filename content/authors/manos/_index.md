@@ -19,8 +19,8 @@ organizations:
 
 interests:
  - Cyber risk management
- - IoT security
  - Security economics
+  - IoT security
  - Privacy risk management
 
 # Short bio (displayed in user profile at end of posts)
