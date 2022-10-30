@@ -18,10 +18,9 @@ organizations:
   url: "https://www.gre.ac.uk/"
 
 interests:
- - Cyber risk management
+ - Cyber and privacy risk management
  - Security economics
-  - IoT security
- - Privacy risk management
+ - IoT security
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""

@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [phdncsc]
 slides: ""
 note: ""
 
