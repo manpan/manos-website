@@ -82,6 +82,14 @@ experience:
     date_end: '2014-08-30'
     description: Researched security economics.
 
+  - title: Head of Cyber Security Research
+    company: Ubitech Limited
+    company_url: ''
+    company_logo: org-x
+    location: Surrey Research Park, Guildford, United Kingdom
+    date_start: '2011-06-01'
+    date_end: '2013-01-31'
+    description: Researched cybersecurity for mobile communications.
 
 design:
   columns: '2'
