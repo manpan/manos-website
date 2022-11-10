@@ -23,7 +23,7 @@ interests:
  - IoT security
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Cyber Risk research strategy of ISEC acting also as its liaison with industrial partners."
 
 education:
   courses:
@@ -75,7 +75,7 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Cyber Risk research strategy of ISEC acting also as its liaison with industrial partners.
+
 
 <!-- ISEC aims at equipping the Internet of Things with the ability to adapt to the needs of human beings and self-protect against cyber security, safety and privacy threats. With 28 members of staff and PhD students and an annual budget over £2M, it specialises in security and privacy technologies for distributed digital environments where a security breach in cyber space can affect people and systems in physical space, from smart homes and smart buildings to robotics, e-commerce and corporate environments. Our members specialise in embedded system security, mathematical modelling, formal methods, optimisation and machine learning together with practitioner skills in penetration testing and digital forensics. The centre’s research strategy prioritises multidisciplinary research and the validation of theoretical grounding with laboratory and in-the-wild experimentation with end-users. -->
 
