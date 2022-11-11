@@ -19,6 +19,6 @@ image:
   preview_only: false
 projects: [spear]
 slides: ""
-note: "(JCR IF 2019: 3.275, SJR 2021: Q2)"
+note: "(JCR 2019: 3.275, CiteScore 2019: 5.0)"
 
 ---

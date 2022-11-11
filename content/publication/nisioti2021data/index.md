@@ -18,6 +18,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR IF 2021: 7.231, SJR 2021: Q1)"
+note: "(JCR 2021: 7.231, CiteScore 2021: 14.9)"
 
 ---

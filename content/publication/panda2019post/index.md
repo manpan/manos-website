@@ -21,6 +21,6 @@ image:
   preview_only: false
 projects: [secondo]
 slides: ""
-note: "(JCR IF 2019: 3.579, SJR 2019: Q1)"
+note: "(JCR 2019: 3.579, CiteScore 2019: 7.5)"
 
 ---

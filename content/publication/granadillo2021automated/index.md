@@ -22,5 +22,5 @@ image:
 projects: [curex]
 slides: ""
 doi: "https://doi.org/10.3390/s21165493"
-note: "(JCR IF 2021: 3.847, SJR 2021: Q2)"
+note: "(JCR 2021: 3.847, CiteScore 2021: 6.4)"
 ---
