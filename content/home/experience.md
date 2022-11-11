@@ -32,8 +32,8 @@ experience:
     description: |2-
         Current responsibilities include:
         * Head of Cyber Risk, Internet of Things and Security Centre
-        * PI, Horizon Europe TANGO project, Marie Curie SECONDO project
-        * Co-I, EPSRC CHAI project, Horizon Europe SUN project
+        * PI: Horizon Europe TANGO project, Marie Curie SECONDO project
+        * Co-I: EPSRC CHAI project, Horizon Europe SUN project
         * Teaching Information Security (year 2)
         * Founder of SecuriMind (software to support cybersecurity and privacy for small businesses and charities)
 
@@ -92,5 +92,5 @@ experience:
     description: Researched cybersecurity for mobile communications.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
