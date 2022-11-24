@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised Learning for Trustworthy IoT"
+title: "Unsupervised learning for trustworthy IoT"
 authors: [Nikhil Banerjee, Thanassis Giannetsos, Emmanouil Panaousis, Clive Cheong Took]
 date: 2018-07-08
 publishDate: 2018-07-08

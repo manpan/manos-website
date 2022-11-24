@@ -1,5 +1,5 @@
 ---
-title: "Secure Routing for Supporting Ad-hoc Extreme Emergency Infrastructures"
+title: "Secure routing for supporting ad-hoc extreme emergency infrastructures"
 authors: [Emmanouil Panaousis, Tipu Arvind Ramrekha, Christos Politis]
 date: 2010-06-16
 publishDate: 2010-06-18
@@ -15,7 +15,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 note: ""
 

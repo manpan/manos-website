@@ -1,5 +1,5 @@
 ---
-title: "Secure Decentralised Ubiquitous Networking for Emergency Communications"
+title: "Secure decentralised ubiquitous networking for emergency communications"
 authors: [Emmanouil Panaousis, Tipu Arvind Ramrekha, Christos Politis, Grant Millar]
 date: 2012-11-01
 publishDate: 2012-11-01
@@ -16,7 +16,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 
 ---

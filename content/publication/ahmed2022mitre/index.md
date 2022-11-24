@@ -1,5 +1,5 @@
 ---
-title: "MITRE ATT&CK-driven Cyber Risk Assessment"
+title: "MITRE ATT&CK-driven cyber risk assessment"
 authors: [Mohamed G Ahmed, Sakshyam Panda, Emmanouil Panaousis, Christos Xenakis]
 date: 2022-07-06
 date: 2022-07-06
@@ -13,11 +13,11 @@ abstract: "Assessing the risk posed by Advanced Cyber Threats (APTs) is challeng
 tags: [Cybersecurity, risk assessment, mitre att&ck]
 categories: [Conference]
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/ahmed2022mitre.pdf"
+url_pdf: "papers/ahmed2022mitre.pdf"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [secondo]
 slides: ""
 ---

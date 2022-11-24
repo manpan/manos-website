@@ -5,7 +5,7 @@ title: "Dynamic Protection Framework Against Advanced Persistent Threats in 5G N
 subtitle: "Funded by the **National Cyber Security Centre** (NCSC), PhD studentship, 2019-2022."
 summary: #""
 # authors: [manos, pell, moschoyiannis, schneider]
-tags: [Cyber Security, Artificial Intelligence]
+tags: [cyber risk management]
 categories: []
 date: 2019-10-01
 
@@ -40,7 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Budget**: £114,402 (University of Surrey, P.I. at application, currently external advisor).\
-**Role**: Principal Investigator.
+<!-- **Budget**: £114,402 (University of Surrey) -->
+**Role**: PI.
 
 The goal of this PhD is to contribute to situational awareness and alert security manager to suspicious behaviour by monitoring the virtualised and cross-correlating traffic events across different parts of the network, different network slices and different points in time on an individual user/function basis. Here, the multiple steps followed by Roaming Wildcat over the several weeks of attempts to breach their target’s security, will be leaving different traces and in different parts of the network. First, a Threat Detection Engine (TDE) will collect information from the vast range of sources involved in a 5G infrastructure and being exploitable by an APT, data collected near the edge will be processed there making use of the power of the MEC paradigm and flagging suspicious events. Then, a Dynamic Response Recommendation Engine (DRRE) will in the process be suggesting defence strategies that are commensurate to the risk perceived at each point in time and to the degree of trust in the threat data collected.

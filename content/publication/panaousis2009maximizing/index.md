@@ -1,5 +1,5 @@
 ---
-title: "Maximizing Network Throughput"
+title: "Maximizing network throughput"
 authors: [Emmanouil Panaousis, Christos Politis, George C. Polyzos]
 date: 2009-08-28
 publishDate: 2009-08-28

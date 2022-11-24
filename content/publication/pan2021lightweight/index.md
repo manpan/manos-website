@@ -1,6 +1,5 @@
 ---
-title: "A Lightweight Certificateless Non-interactive
-Authentication and Key Exchange Protocol for IoT
+title: "A lightweight certificateless non-interactive authentication and key exchange protocol for IoT
 Environments"
 authors: [Menghan Pan, Daojing He, Xuru Li, Sammy Chan, Emmanouil Panaousis, Yun Gao]
 date: 2021-09-05

@@ -1,5 +1,5 @@
 ---
-title: "DT-CP: a Double-TTPs Based Contract-Signing Protocol With Lower Computational Cost"
+title: "DT-CP: A double-TTPs based contract-signing protocol with lower computational cost"
 authors: [Guangquan Xu, Yao Zhang, Litao Jiao, Emmanouil Panaousis, Kaitai Liang, Hao Wang, Xiaotong Li]
 date: 2019-11-07
 publishDate: 2019-11-07
@@ -20,6 +20,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR 2019: 3.745)"
+note: "(JCR 2019: 3.745, CiteScore 2019: 3.9)"
 
 ---

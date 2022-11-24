@@ -1,5 +1,5 @@
 ---
-title: "How Secure is Home: Assessing Human Susceptibility to IoT Threats"
+title: "How secure is home: Assessing human susceptibility to IoT threats"
 authors: [Emily Kate Parsons, George Loukas, Emmanouil Panaousis]
 date: 2020-11-01
 publishDate: 2020-11-01

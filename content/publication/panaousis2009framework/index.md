@@ -1,5 +1,5 @@
 ---
-title: "A Framework Supporting Extreme Emergency Services"
+title: "A framework supporting extreme emergency services"
 authors: [Emmanouil Panaousis, Arvind Ramrekha, Konstantinos Birkos, Christos Papageorgiou, Vahid Talooki, George Matthew, Cong Thien Nguyen and Corrine Sieux and Christos Politis and Tasos Dagiuklas]
 date: 2009-10-01
 publishDate: 2009-10-01
@@ -15,7 +15,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 
 ---

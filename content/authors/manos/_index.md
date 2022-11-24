@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emmanouil (Manos) Panaousis
+title: Manos Panaousis
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Cyber Security, Head of Cyber Risk at Internet of Things and Security Centre
+role: Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
   url: "https://www.gre.ac.uk/"
 
 interests:
-  #- Cybersecurity
-  #- IoT
-  #- Applied Maths
+ - Cyber and privacy risk management
+ - Security economics
+ - IoT security
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Cyber Risk research strategy of ISEC acting also as its liaison with industrial partners."
 
-<!-- education:
+education:
   courses:
   - course: PhD in Computer Science (Security for Mobile Ad Hoc Networks)
     institution: Kingston University
@@ -35,7 +35,7 @@ bio: ""
     year: 2008
   - course: BSc in Informatics and Telecommunications
     institution: National and Kapodistrian University of Athens
-    year: 2006 -->
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/panaousis
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/panaousis
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Emmanouil_Panaousis
+#- icon: researchgate
+#  icon_pack: ai
+  #link: https://www.researchgate.net/profile/Emmanouil_Panaousis
 #- icon: linkedin
   #icon_pack: ai
   #link: https://www.linkedin.com/in/manospanaousis/

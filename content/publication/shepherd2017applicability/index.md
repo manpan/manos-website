@@ -1,5 +1,5 @@
 ---
-title: "The Applicability of Ambient Sensors as Proximity Evidence for NFC Transactions"
+title: "The applicability of ambient sensors as proximity evidence for NFC transactions"
 authors: [Carlton Shepherd, Iakovos Gurulian, Eibe Frank, Konstantinos Markantonakis, Raja Naeem Akram, Emmanouil Panaousis, Keith Mayes]
 date: 2017-05-25
 publishDate: 2017-05-25

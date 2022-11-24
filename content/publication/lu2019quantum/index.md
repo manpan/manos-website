@@ -1,5 +1,5 @@
 ---
-title: "Quantum-Resistant Identity-Based Signature with Message Recovery and Proxy Delegation"
+title: "Quantum-resistant identity-based signature with message recovery and proxy delegation"
 authors: [Xiuhua Lu, Qiaoyan Wen, Wei Yin, Kaitai Liang, Zhengping Jin, Emmanouil Panaousis, Jiageng Chen]
 date: 2019-02-20
 publishDate: 2019-02-20

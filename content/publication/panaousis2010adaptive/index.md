@@ -1,5 +1,5 @@
 ---
-title: "Adaptive and Secure Routing Protocol for Emergency Mobile Ad Hoc Networks"
+title: "Adaptive and secure routing protocol for emergency mobile ad hoc networks"
 authors: [Emmanouil Panaousis, Tipu A Ramrekha, Grant Millar, Christos Politis]
 date: 2010-05-01
 publishDate: 2010-05-01
@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 
 ---

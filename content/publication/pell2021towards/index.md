@@ -1,5 +1,5 @@
 ---
-title: "Towards Dynamic Threat Modelling in 5G Core Networks Based on MITRE ATT&CK"
+title: "Towards dynamic threat modelling in 5G core networks based on MITRE ATT&CK"
 authors: [Robert Pell, Sotiris Moschoyiannis, Emmanouil Panaousis, Ryan Heartfield]
 date: 2021-10-15
 publishDate: 2021-10-15
@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [phdncsc]
 slides: ""
 note: ""
 

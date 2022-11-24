@@ -1,5 +1,5 @@
 ---
-title: "Selecting Security Mechanisms in Secure Tropos"
+title: "Selecting security mechanisms in secure tropos"
 authors: [Michalis Pavlidis, Haralambos Mouratidis, Emmanouil Panaousis, Nikolaos Argyropoulos]
 date: 2017-07-27
 publishDate: 2017-07-27

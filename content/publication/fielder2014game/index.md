@@ -1,5 +1,5 @@
 ---
-title: "Game Theory Meets Information Security Management"
+title: "Game theory meets information security management"
 authors: [Andrew Fielder, Emmanouil Panaousis, Pasquale Malacaria, Chris Hankin, and Fabrizio Smeraldi]
 date: 2014-01-01
 publishDate: 2014-01-01

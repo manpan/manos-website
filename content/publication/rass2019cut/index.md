@@ -1,5 +1,5 @@
 ---
-title: "Cut-The-Rope: A Game of Stealthy Intrusion"
+title: "Cut-The-Rope: A Game of stealthy intrusion"
 authors: [Stefan Rass, Sandra Konig, Emmanouil Panaousis]
 date: 2019-10-23
 publishDate: 2019-10-23

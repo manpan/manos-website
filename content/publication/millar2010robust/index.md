@@ -1,5 +1,5 @@
 ---
-title: "ROBUST: Reliable Overlay Based Utilisation of Services and Topology for emergency MANETs"
+title: "ROBUST: Reliable overlay based utilisation of services and topology for emergency MANETs"
 authors: [Grant Millar, Emmanouil Panaousis, Christos Politis]
 date: 2010-06-16
 publishDate: 2010-06-18
@@ -15,7 +15,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 note: ""
 

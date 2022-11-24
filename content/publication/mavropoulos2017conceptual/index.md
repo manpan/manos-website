@@ -1,5 +1,5 @@
 ---
-title: "A Conceptual Model to Support Security Analysis in the Internet of Things"
+title: "A conceptual model to support security analysis in the internet of things"
 authors: [Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis, Christos Kalloniatis]
 date: 2017-06-01
 publishDate: 2017-06-01

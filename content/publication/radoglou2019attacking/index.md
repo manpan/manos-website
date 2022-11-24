@@ -1,5 +1,5 @@
 ---
-title: "Attacking IEC-60870-5-104 SCADA Systems"
+title: "Attacking IEC-60870-5-104 SCADA systems"
 authors: [Panagiotis Radoglou-Grammatikis, Panagiotis Sarigiannidis, Ioannis Giannoulakis, Emmanouil Kafetzakis, Emmanouil Panaousis]
 date: 2019-07-08
 publishDate: 2019-07-08
@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [spear]
 slides: ""
 note: ""
 

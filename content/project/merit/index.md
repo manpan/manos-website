@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "MERIT: A fraMEwoRk to Model and IncenTivise Cyber Security Investment Decisions"
+title: "MERIT - A fraMEwoRk to Model and IncenTivise Cyber Security Investment Decisions"
 subtitle: "Funded by the **National Cyber Security Centre** in collaboration with the
 **Research Institute in Sociotechnical Cyber Security** (RISCS) under the call: Economics and Incentives (Apr 2020 - March 21)"
 summary: ""
 # authors: [manos, chronopoulos]
-tags: [Security Economics, Cyber Security, Optimisation]
+tags: [cyber risk management, security economics]
 categories: []
 date: 2020-04-01
 
@@ -43,9 +43,9 @@ url_video: ""
 # The MERIT addresses the challenge of **how to take better cyber security investment decisions**. It aims at minimising cyber security risks by optimally investing its budget for cyber controls. In a multi-disciplinary approach, it utilises both **economics and cybersecurity engineering** insights to significantly extend the state-of-the-art in decision support for cybersecurity spending. It combines econometrics, game theory, mathematical optimisation and cyber security engineering concepts.
 slides: ""
 ---
-**Budget**: £110k (University of Greenwich share £98k).
-**Role**: Principal investigator.
-**co-Investigator**: Michail Chronopoulos (City University London, Cass Business School).
-**Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.
+<!-- **Budget**: £110k (University of Greenwich share £98k). -->
+**Role**: PI.
+<!-- **co-Investigator**: Michail Chronopoulos (City University London, Cass Business School).
+**Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP. -->
 
 MERIT is addressing the complete cyber security management lifecycle, including asset pricing, threat-based risk assessment and optimal risk control constrained by a financial budget. The value of MERIT to practitioners is to **increase the effectiveness of cyber security budget spending** as decided by Chief Information Security Officers (CISOs) and boards of directors. This effectiveness refers to both time to make a decision as well as financial savings.
