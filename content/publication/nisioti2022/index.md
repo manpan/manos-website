@@ -12,6 +12,7 @@ abstract: "The increase in the complexity and sophistication of multi-stage cybe
 This paper presents a comprehensive survey of 49 works that aim to sup- port cyber forensic investigations of modern multi-stage cyber incidents and highlights the need for decision support systems on the field.
 The works reviewed are compared using 11 criteria, such as their evaluation method, how they optimise the forensic process, or what stage of investigation they study. We also classify the surveyed papers using 8 categories that represent the overall aim of the proposed cyber investigation method or tool.
 We identify and discuss open issues, arising from this extensive survey, such as the need for realistic evaluation, as well as realistic and representative modelling to increase applicability and performance. Finally, we provide directions for future research on improving the state-of-the-art of cyber forensics."
+
 tags: [cyber forensics, digital forensics, multi-stage attacks, anti-forensics, advanced persistent threats, survey, review]
 categories: [Journal]
 featured: false
