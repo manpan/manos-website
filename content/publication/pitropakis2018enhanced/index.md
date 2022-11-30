@@ -20,6 +20,5 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: ""
-
+note: "(CORE2018 Ranking: B)"
 ---

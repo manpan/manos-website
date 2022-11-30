@@ -4,8 +4,8 @@ authors: [Adeyinka Adedoyin, Stelios Kapetanakis, Miltos Petridis, Emmanouil Pan
 date: 2016-10-03
 publishDate: 2016-10-03
 publication_types: ["1"]
-publication: "International Conference on Case-Based Reasoning (ICCBR) Workshops_"
-publication_short: "_ICCBR Workshops"
+publication: "_International Conference on Case-Based Reasoning (ICCBR) Workshops_"
+publication_short: "_ICCBR Workshops_"
 #doi: "10.1109/ICT.2017.7998269"
 abstract: "The volume of banking transaction has increased considerably in the recent years with advancement in financial transactions payment methods. Consequently, the number of fraud cases has also increased, causing billion of
 dollar losses each year worldwide, although from Literature, there has been substantial work in the domain of fraud
@@ -24,5 +24,5 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: ""
+note: "(CORE2017 Ranking: B)"
 ---

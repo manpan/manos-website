@@ -20,4 +20,5 @@ image:
   preview_only: false
 projects: [secondo]
 slides: ""
+note: "(CORE2021 Ranking: B)"
 ---
