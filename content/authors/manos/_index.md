@@ -23,7 +23,7 @@ interests:
  - IoT security
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Cyber Risk research strategy of ISEC acting also as its liaison with industrial partners."
+bio: "I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Cyber Risk Research Strategy of ISEC and I am acting as its liaison with industrial partners."
 
 education:
   courses:
