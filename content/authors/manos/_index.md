@@ -23,7 +23,7 @@ interests:
  - IoT security
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Cyber Risk Research Strategy of ISEC and I am acting as its liaison with industrial partners."
+bio: "I am a Professor of Cyber Security at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. I direct the Impact and Commercialisation Strategy of ISEC."
 
 education:
   courses:
@@ -75,9 +75,7 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am a Professor of Cyber Security and Head of Cyber Risk at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec) directing the Cyber Risk research strategy of the centre and acting also as its liaison with the industry.
-
-ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. With 28 members of staff and PhD students and an annual budget over £2M, ISEC specialises in security and privacy technologies for distributed digital environments where a security breach in cyber space can affect people and systems in physical space, from smart homes and smart buildings to robotics, e-commerce and corporate environments.
+I am a Professor of Cyber Security at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. With 28 members of staff and PhD students and an annual budget over £2M, ISEC specialises in security and privacy technologies for distributed digital environments where a security breach in cyber space can affect people and systems in physical space, from smart homes and smart buildings to robotics, e-commerce and corporate environments. I direct the Impact and Commercialisation Strategy of ISEC.
 <!-- Our members specialise in embedded system security, mathematical modelling, formal methods, optimisation and machine learning together with practitioner skills in penetration testing and digital forensics. The centre’s research strategy prioritises multidisciplinary research and the validation of theoretical grounding with laboratory and in-the-wild experimentation with end-users. -->
 
 **Research interests**: My research interests lie within the field of decision-making for cyber security including cyber risk modelling and optimisation. One of my main goals is to invent, develop, and evaluate new models and methods that can be adopted by organisations and individuals. This is aligned with ISEC's impact strategy to contribute to a secure UK society against cyber-physical threats.
