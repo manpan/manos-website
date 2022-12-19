@@ -35,7 +35,6 @@ experience:
         * PI: Horizon Europe TANGO project, Marie Curie SECONDO project
         * Co-I: EPSRC CHAI project, Horizon Europe SUN project
         * Teaching Information Security (year 2)
-        * Founder of SecuriMind (software to support cybersecurity and privacy for small businesses and charities)
 
   - title: Associate Professor of Computer Science
     company: University of Greenwich
