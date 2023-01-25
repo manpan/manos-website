@@ -15,6 +15,6 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-slides: ""
+slides: "slides/atefi2022principled-slides.pdf"
 note: "(CORE2021 Ranking: A*)"
 ---
