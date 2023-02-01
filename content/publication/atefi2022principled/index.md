@@ -10,11 +10,11 @@ abstract: "In the wake of a cybersecurity incident, it is crucial to promptly di
 categories: [Conference]
 featured: false
 url_pdf: "papers/atefi2022principled.pdf"
+url_slides: "slides/atefi2022principled-slides.pdf"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-slides: "slides/atefi2022principled-slides.pdf"
 note: "(CORE2021 Ranking: A*)"
 ---
