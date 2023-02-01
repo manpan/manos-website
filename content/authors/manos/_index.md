@@ -19,8 +19,8 @@ organizations:
 
 interests:
  - Cyber risk management
- - Security economics
  - Data privacy
+ - AI trustworthiness
 
 # Short bio (displayed in user profile at end of posts)
 bio: "I am a Professor of Cyber Security in the Faculty of Engineering and Science at the University of Greenwich, London, UK."
