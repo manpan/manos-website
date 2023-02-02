@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
       > * Head of Cyber Risk, Internet of Things and Security Centre (ISEC)
-      > * Researched cyber security
-      > * Taught Information Security
-      > * Supervised BSc & PhD
+      > * Researching cyber security and privacy
+      > * Teaching Information Security
+      > * Supervising BSc & PhD
       > * P.I. Horizon Europe TANGO, Co-I EPSRC CHAI, Co-I Horizon Europe SUN
 
   - title: Associate Professor of Computer Science
