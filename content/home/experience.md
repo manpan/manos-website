@@ -74,7 +74,7 @@ experience:
       > * Researched cybersecurity and privacy
       > * Taught cybersecurity & mathematics
       > * Supervised BSc/MSc & PhD
-      > * Co-I H2020 SESAME, H2020 VISION
+      > * Co-I H2020 SESAME, Co-I H2020 VISION
 
   - title: Visiting Researcher
     company: Imperial College London, UK
