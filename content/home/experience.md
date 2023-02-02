@@ -31,10 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Current responsibilities include:
-        * Head of Cyber Risk, Internet of Things and Security Centre
-        * PI: Horizon Europe TANGO project, Marie Curie SECONDO project
-        * Co-I: EPSRC CHAI project, Horizon Europe SUN project
-        * Teaching Information Security (year 2)
+        * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
+        * PI: H2020 CUREX and SECONDO projects
+        * Co-I: EPSRC CHAI project
+        * Taught information security (year 2) and researched cybersecurity
 
   - title: Associate Professor of Computer Science
     company: University of Greenwich
