@@ -29,9 +29,10 @@ experience:
     location: Royal Naval College, London, UK
     date_start: '2022-09-01'
     date_end: ''
-    description: |
-        * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
-        * PI: Horizon Europe TANGO project
+    description: |2-
+        Current responsibilities include:
+        * Head of Cyber Risk, Internet of Things and Security Centre
+        * PI: Horizon Europe TANGO project, Marie Curie SECONDO project
         * Co-I: EPSRC CHAI project, Horizon Europe SUN project
         * Teaching Information Security (year 2)
 
@@ -42,11 +43,7 @@ experience:
     location: Royal Naval College, London, UK
     date_start: '2019-09-01'
     date_end: '2022-08-30'
-    description:
-    * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
-    * PI: H2020 CUREX and SECONDO projects
-    * Co-I: EPSRC CHAI project
-    * Taught information security (year 2) and researched cybersecurity
+    description: Taught information security and researched cybersecurity.
 
   - title: Lecturer/Senior Lecturer
     company: University of Surrey
@@ -55,9 +52,7 @@ experience:
     location: Guildford, UK
     date_start: '2017-09-01'
     date_end: '2019-08-30'
-    description: 
-    * PI: H2020 SPEAR project
-    * Taught information security (MSc) and researched cybersecurity
+    description: Taught information security and researched cybersecurity.
 
   - title: Lecturer/Senior Lecturer
     company: University of Brighton
