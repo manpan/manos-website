@@ -29,7 +29,7 @@ experience:
     location: Royal Naval College, London, UK
     date_start: '2022-09-01'
     date_end: ''
-    description: |2-
+    description: |
         * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
         * PI: Horizon Europe TANGO project
         * Co-I: EPSRC CHAI project, Horizon Europe SUN project
@@ -42,7 +42,7 @@ experience:
     location: Royal Naval College, London, UK
     date_start: '2019-09-01'
     date_end: '2022-08-30'
-    description: |2-
+    description:
     * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
     * PI: H2020 CUREX and SECONDO projects
     * Co-I: EPSRC CHAI project
@@ -55,7 +55,7 @@ experience:
     location: Guildford, UK
     date_start: '2017-09-01'
     date_end: '2019-08-30'
-    description: |2-
+    description: 
     * PI: H2020 SPEAR project
     * Taught information security (MSc) and researched cybersecurity
 
