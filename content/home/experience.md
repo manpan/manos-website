@@ -30,6 +30,7 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
+    
       * Head of Cyber Risk, Internet of Things and Security Centre (ISEC)
       * Researched cyber security, taught Information Security, supervised BSc & PhD
       * P.I. Horizon Europe TANGO, Co-I EPSRC CHAI, Co-I Horizon Europe SUN
@@ -98,6 +99,7 @@ experience:
     date_start: '2011-06-01'
     date_end: '2013-01-31'
     description: |2-
+
       * Research and development in cybersecurity – mobile communications security
       * FP7 research bid preparation
 
