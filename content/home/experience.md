@@ -30,10 +30,11 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-    
-      * Head of Cyber Risk, Internet of Things and Security Centre (ISEC)
-      * Researched cyber security, taught Information Security, supervised BSc & PhD
-      * P.I. Horizon Europe TANGO, Co-I EPSRC CHAI, Co-I Horizon Europe SUN
+      > * Head of Cyber Risk, Internet of Things and Security Centre (ISEC)
+      > * Researched cyber security
+      > * Taught Information Security
+      > * Supervised BSc & PhD
+      > * P.I. Horizon Europe TANGO, Co-I EPSRC CHAI, Co-I Horizon Europe SUN
 
   - title: Associate Professor of Computer Science
     company: University of Greenwich, London, UK
@@ -43,10 +44,11 @@ experience:
     date_start: '2019-09-01'
     date_end: '2022-08-30'
     description: |2-
-      * Head of the Cyber Risk Lab
-      * Researched cyber security, taught Information Security, supervised BSc & PhD
-      * P.I. NCSC MERIT, P.I. H2020 CUREX, P.I. H2020 SECONDO, Co-I EPSRC CHAI project
-
+      > * Head of the Cyber Risk Lab
+      > * Researched cyber security
+      > * Taught Information Security
+      > * Supervised BSc & PhD
+      > * P.I. NCSC MERIT, P.I. H2020 CUREX, P.I. H2020 SECONDO, Co-I EPSRC CHAI project
 
   - title: Lecturer/Senior Lecturer
     company: University of Surrey, Guildford, UK
@@ -56,9 +58,10 @@ experience:
     date_start: '2017-09-01'
     date_end: '2019-08-30'
     description: |2-
-      * Researched cyber security, taught Information Security, supervised BSc/MSc & PhD
-      * P.I. H2020 SPEAR project, P.I. NCSC DETER
-
+      > * Researched cyber security
+      > * Taught Information Security
+      > * Supervised BSc/MSc & PhD
+      > * P.I. H2020 SPEAR project, P.I. NCSC DETER
 
   - title: Lecturer/Senior Lecturer
     company: University of Brighton, Sussex, UK
@@ -68,8 +71,10 @@ experience:
     date_start: '2014-09-01'
     date_end: '2017-08-30'
     description: |2-
-      * Researched cybersecurity and privacy, taught cybersecurity & mathematics, supervised BSc/MSc & PhD
-      * Co-I H2020 SESAME, H2020 VISION
+      > * Researched cybersecurity and privacy
+      > * Taught cybersecurity & mathematics
+      > * Supervised BSc/MSc & PhD
+      > * Co-I H2020 SESAME, H2020 VISION
 
   - title: Visiting Researcher
     company: Imperial College London, UK
@@ -88,8 +93,8 @@ experience:
     date_start: '2013-02-01'
     date_end: '2014-08-30'
     description: |2-
-      * Researched cybersecurity – cyber risk optimisation, security economics
-      * Funded by EPSRC Games & Abstraction
+      > * Researched cybersecurity – cyber risk optimisation, security economics
+      > * Funded by EPSRC Games & Abstraction
 
   - title: Head of Cyber Security Research
     company: UbiTech Technologies Ltd, Guildford, UK
@@ -99,9 +104,8 @@ experience:
     date_start: '2011-06-01'
     date_end: '2013-01-31'
     description: |2-
-
-      * Research and development in cybersecurity – mobile communications security
-      * FP7 research bid preparation
+      > * Research and development in cybersecurity – mobile communications security
+      > * FP7 research bid preparation
 
   - title: Doctoral Researcher
     company: Kingston University, London, UK
@@ -111,8 +115,8 @@ experience:
     date_start: '2011-06-01'
     date_end: '2013-01-31'
     description: |2-
-      * Research in cybersecurity – mobile communications security
-      * Funded by FP7 PEACE
+      > * Research in cybersecurity – mobile communications security
+      > * Funded by FP7 PEACE
 
 design:
   columns: '3'
