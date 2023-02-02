@@ -32,9 +32,9 @@ experience:
     description: |2-
         Current responsibilities include:
         * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
-        * PI: H2020 CUREX and SECONDO projects
-        * Co-I: EPSRC CHAI project
-        * Taught information security (year 2) and researched cybersecurity
+        * PI: Horizon Europe TANGO project
+        * Co-I: EPSRC CHAI project, Horizon Europe SUN project
+        * Teaching Information Security (year 2)
 
   - title: Associate Professor of Computer Science
     company: University of Greenwich
@@ -43,7 +43,11 @@ experience:
     location: Royal Naval College, London, UK
     date_start: '2019-09-01'
     date_end: '2022-08-30'
-    description: Taught information security and researched cybersecurity.
+    description: |2-
+      * Head of Cyber Risk at the Internet of Things and Security Centre (ISEC)
+      * PI: H2020 CUREX and SECONDO projects
+      * Co-I: EPSRC CHAI project
+      * Taught information security (year 2) and researched cybersecurity
 
   - title: Lecturer/Senior Lecturer
     company: University of Surrey
