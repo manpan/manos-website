@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Manos Panaousis
+title: Prof. Manos Panaousis
 
 # Username (this should match the folder name)
 authors:
