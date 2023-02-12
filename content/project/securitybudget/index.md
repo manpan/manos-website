@@ -10,7 +10,7 @@ categories: []
 date: 2020-12-07
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://www.riscs.org.uk/project/merit-a-framework-to-model-and-incentivise-cyber-security-investment-decisions/"
+#external_link: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -52,4 +52,7 @@ CHAI focuses on the social housing sector, which is introducing several AI initi
 
 With a view to deeply integrating CHAI in real-life settings, we approached leading industrial partners: (i) Gas Tag, AI developers for gas supply smart appliances in social housing, will support the examination of realistic AI applications that are currently in place or expected to be introduced in the near future in the home; (ii) Security awareness training providers, Bob's Business, whose current clients include over 70,000 employees in the UK Government, will co-design cyber hygiene training programmes and webinars; and (iii) Housing technology sector representative, Housing Technology, will help recruit participant households and social housing associations for experiments and offer its dissemination channels in the housing sector.
 
-<br> <br> Project website: https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1
+<br> <br> Project website is [(here)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1).
+
+
+ 

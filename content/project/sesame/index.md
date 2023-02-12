@@ -10,7 +10,7 @@ categories: []
 date: 2015-07-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://cordis.europa.eu/project/id/671596"
+# external_link: "https://cordis.europa.eu/project/id/671596"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,3 +47,5 @@ slides: ""
 <!--  **Principal Investigator**: Haris Mouratidis. -->
 
 SESAME targets innovations around three central elements in 5G: the placement of network intelligence and applications in the network edge through Network Functions Virtualisation (NFV) and Edge Cloud Computing; the substantial evolution of the Small Cell concept, already mainstream in 4G but expected to deliver its full potential in the challenging high dense 5G scenarios; and the consolidation of multi-tenancy in communications infrastructures, allowing several operators/service providers to engage in new sharing models of both access capacity and edge computing capabilities.
+
+<br> <br> Project website is [(here)](https://cordis.europa.eu/project/id/671596).
