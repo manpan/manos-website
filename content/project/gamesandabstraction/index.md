@@ -10,7 +10,7 @@ categories: []
 date: 2015-07-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/K005790/1"
+# external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/K005790/1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -52,3 +52,5 @@ firewall rather than from outside. Our team will include researchers from the Im
 Whilst others have used game theoretic approaches to answer these questions, much of the previous work has been more or less ad hoc. As such the resulting
 
 security decisions may be based on unsound principles. In particular, it is common to use abstractions without giving much consideration to the relationship between properties of the abstract model and the real system. We will develop a new game theoretic framework which enables a precise analysis of these relationships and hence provides a more robust decision support tool.rs and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.
+
+<br> <br> Project website is [(here)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/K005790/1).
