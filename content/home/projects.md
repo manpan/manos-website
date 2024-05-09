@@ -21,30 +21,25 @@ title = "Projects"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
   [[content.filter_button]]
-       name = "Cyber Security"
-       tag = "Cyber Security"
-
-   [[content.filter_button]]
-     name = "Security Economics"
-     tag = "Security Economics"
-
-   [[content.filter_button]]
-     name = "Privacy"
-     tag = "Privacy"
-
-   [[content.filter_button]]
-     name = "Optimisation"
-     tag = "Optimisation"
+    name = "Cyber risk management"
+    tag = "cyber risk management"
 
   [[content.filter_button]]
-    name = "Artificial Intelligence"
-    tag = "Artificial Intelligence"
+    name = "IoT security"
+    tag = "iot security"
 
+  [[content.filter_button]]
+    name = "Security economics"
+    tag = "security economics"
+
+  [[content.filter_button]]
+    name = "Privacy risk management"
+    tag = "privacy risk management"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -55,7 +50,7 @@ title = "Projects"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

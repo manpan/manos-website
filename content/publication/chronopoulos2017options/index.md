@@ -1,5 +1,5 @@
 ---
-title: "An Options Approach to Cybersecurity Investment"
+title: "An options approach to cybersecurity investment"
 authors: [Michail Chronopoulos, Emmanouil Panaousis, Jens Grossklags]
 date: 2017-11-15
 publishDate: 2017-11-15
@@ -20,6 +20,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR 2017: 3.557)"
+note: "(JCR 2017: 3.557, CiteScore: 2.4)"
 
 ---

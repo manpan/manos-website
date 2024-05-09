@@ -1,5 +1,5 @@
 ---
-title: "An Efficient Attribute-based Multi-Keyword Search Scheme in Encrypted Keyword Generation"
+title: "An efficient attribute-based multi-keyword search scheme in encrypted keyword generation"
 authors: [Yuanbo Cui, Fei Gao, Yijie Shi, Wei Yin, Emmanouil Panaousis, Kaitai Liang]
 date: 2020-05-25
 publishDate: 2020-05-25
@@ -19,6 +19,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR 2019: 3.745)"
+note: "(JCR 2020: 4.1, CiteScore 2020: 4.8)"
 
 ---

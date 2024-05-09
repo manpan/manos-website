@@ -46,15 +46,15 @@
           </select>
         </div>
       </div>
-      
+
       <div id="container-publications">
         {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
         {{ range $year := sort $years_sorted "" "desc" }}
           <h3 class="grid-sizer col-lg-12 isotope-item year-{{ $year }} pubtype-1 pubtype-2">{{ $year }}</h3>
           {{ range $.Pages.ByDate.Reverse }}
-          
+
             {{ $publication_year := print (.Date.Format "2006") }}
-            
+
             {{ if eq $publication_year $year }}
 
             {{ if .Params.publication_types }}
@@ -74,14 +74,10 @@
                 {{ partial "li_compact" . }}
               {{ end }}
             </div>
-            
             {{ end }}
-
           {{ end }}
         {{ end }}
       </div>
-
-
     </div>
   </div>
 </div>

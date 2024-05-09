@@ -1,16 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "CUREX: seCUre and pRivate hEalth data eXchange"
+title: "CUREX - seCUre and pRivate hEalth data eXchange"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 826404** (Dec 2018 - Nov 2021)"
 summary: #""
-authors: [manos, okoh, natkunam, panda, stretch, liang]
-tags: [Cyber Security, Optimisation]
+# authors: [manos, okoh, natkunam, panda, stretch, liang] -->
+tags: [cyber risk management, security economics]
 categories: []
 date: 2018-12-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://cordis.europa.eu/project/id/826404"
+# external_link: "https://cordis.europa.eu/project/id/826404"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

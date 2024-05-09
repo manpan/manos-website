@@ -1,5 +1,5 @@
 ---
-title: "Security Requirements Modelling for Virtualized 5G Small Cell Networks"
+title: "Security requirements modelling for virtualized 5G small cell networks"
 authors: [Vassilios G. Vassilakis, Haralambos Mouratidis, Emmanouil Panaousis, Ioannis D. Moscholios, Michael D. Logothetis]
 date: 2017-05-03
 publishDate: 2017-05-03
@@ -16,7 +16,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [sesame]
 slides: ""
 note: ""
 

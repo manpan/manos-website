@@ -3,7 +3,7 @@
 widget = "accomplishments"
 headless = true
 active = true
-weight = 45
+weight = 35
 
 title = "Academic Service"
 
@@ -17,11 +17,12 @@ title = "Academic Service"
   * **Wireless Communications and Mobile Computing**, Guest Editor (2019) for Special Issue "Multi-Objective Optimization Algorithms for Wireless Sensor Networks"
   * **Games, ISSN2073-4336, MDPI**, Guest Editor (2017) for Special Issue "Game Theory for Security"
 
-## Expert/Memberships
+## Professional Service
   * **Senior Member**, IEEE.
-  * **Advisory Committee Member**, Conference on Decision and Game Theory for Security.
-  * **External Evaluator for the**, Romanian Agency for Quality Assurance** in Higher Education.
   * **Advisory Board Member**, H2020 SPIDER project, H2020 SECANT project.
+  * **Advisory Board Member**, Exalens.
+  * **Advisory Committee Member**, Conference on Decision and Game Theory for Security.
+  * **External Evaluator**, for the Romanian Agency for Quality Assurance** in Higher Education.
   * **Member**, College of Peer Reviewers of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN), Bristol Cyber Security Research Group, University of Bristol.
   * **Member**, Peer Review College and Grants evaluator for the Engineering and Physical Sciences Research Council (EPSRC).
   * **Member and Fellow**, Research Institute in Science of Cyber Security and funded Fellow (April 2020 - March 2021).

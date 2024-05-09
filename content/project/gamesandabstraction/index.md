@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Games and Abstraction: The Science of Cyber Security"
+title: "Games and Abstraction - The Science of Cyber Security"
 subtitle: "Funded by the **Engineering and Physical Sciences Research Council** (EPSRC), the **Government Communications Headquarters** (GCHQ) and the Department for Business, Innovation and Skills (BIS) under the UK's First Academic Research Institute: ``Science of Cyber Security'' (01 January 2013 to 30 June 2016)"
 summary: #""
 # authors: [Chris Hankin, malacaria]
-tags: [Cyber Security, Security Economics, Optimisation]
+tags: [cyber risk management]
 categories: []
 date: 2015-07-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/K005790/1"
+# external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/K005790/1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,6 +30,7 @@ image:
 
 url_code: ""
 url_pdf: ""
+#"games_and_abstraction.pdf"
 url_slides: ""
 url_video: ""
 
@@ -40,8 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Role**: Postdoctor researcher (Queen Mary); visiting researcher (Imperial College).
-**Principal Investigators**: Chris Hankin, Pasquale Malacaria.
+**Role**: Postdoctoral researcher (Queen Mary); visiting researcher (Imperial College).
 
 This proposal addresses the challenge "How do we make better security decisions?". Specifically we propose to develop new approaches to decision support based on mathematical game theory. Our work will support professionals who are designing secure systems and also those charged with determining if systems have an appropriate level of security -- in particular, systems administrators. We will develop techniques to support human decision making and techniques which enable well-founded security design decisions to be made.
 
@@ -52,3 +52,5 @@ firewall rather than from outside. Our team will include researchers from the Im
 Whilst others have used game theoretic approaches to answer these questions, much of the previous work has been more or less ad hoc. As such the resulting
 
 security decisions may be based on unsound principles. In particular, it is common to use abstractions without giving much consideration to the relationship between properties of the abstract model and the real system. We will develop a new game theoretic framework which enables a precise analysis of these relationships and hence provides a more robust decision support tool.rs and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.
+
+<br> <br> Project website is [(here)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/K005790/1).

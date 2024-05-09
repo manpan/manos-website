@@ -1,5 +1,5 @@
 ---
-title: "An Enhanced Cyber Attack Attribution Framework"
+title: "An enhanced cyber attack attribution framework"
 authors: [Nikolaos Pitropakis, Emmanouil Panaousis, Alkiviadis Giannakoulias, George Kalpakis, Rodrigo Diaz Rodriguez, Panayiotis Sarigiannidis]
 date: 2018-07-27
 publishDate: 2018-07-27
@@ -20,6 +20,5 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: ""
-
+note: "(CORE2018 Ranking: B)"
 ---

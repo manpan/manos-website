@@ -1,5 +1,5 @@
 ---
-title: "Towards the Definition of a Security Incident Response Modelling Language"
+title: "Towards the definition of a security incident response modelling language"
 authors: [Myrsini Athinaiou, Haralambos Mouratidis, Theo Fotis, Michalis Pavlidis, Emmanouil Panaousis]
 date: 2018-07-27
 publishDate: 2018-07-27

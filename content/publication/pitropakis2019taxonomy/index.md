@@ -1,5 +1,5 @@
 ---
-title: "A Taxonomy and Survey of Attacks Against Machine Learning"
+title: "A taxonomy and survey of attacks against machine learning"
 authors: [Nikolaos Pitropakis, Emmanouil Panaousis, Thanassis Giannetsos, Eleftherios Anastasiadis, George Loukas]
 date: 2019-11-01
 publishDate: 2019-11-01
@@ -20,6 +20,6 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR 2019: 7.707)"
+note: "(JCR 2019: 7.707, SJR 2019: 14.7)"
 
 ---

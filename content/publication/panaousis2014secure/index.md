@@ -1,5 +1,5 @@
 ---
-title: "Secure Message Delivery Games for Device-to-Device Communications"
+title: "Secure message delivery games for device-to-device communications"
 authors: [Emmanouil Panaousis, Tansu Alpcan, Hossein Fereidooni, Mauro Conti]
 date: 2014-11-06
 publishDate: 2014-11-06

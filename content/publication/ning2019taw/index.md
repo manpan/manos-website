@@ -1,5 +1,5 @@
 ---
-title: "TAW: Cost-Effective Threshold Authentication with Weights for Internet of Things"
+title: "TAW: Cost-effective threshold authentication with weights for internet of things"
 authors: [Zhenhu Ning, Guangquan Xu, Naixue Xiong, Yongli Yang, Changxiang Shen, Emmanouil Panaousis, Hao Wang, Kaitai Liang]
 date: 2019-03-06
 publishDate: 2019-03-06
@@ -20,5 +20,5 @@ image:
   preview_only: false
 projects: []
 slides: ""
-note: "(JCR 2019: 3.745)"
+note: "(JCR 2019: 3.745, CiteScore 2019: 3.9)"
 ---

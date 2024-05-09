@@ -1,5 +1,5 @@
 ---
-title: "Optimizing the Channel Load Reporting Process in IEEE 802.11 k-enabled WLANs"
+title: "Optimizing the channel load reporting process in IEEE 802.11 k-enabled WLANs"
 authors: [Emmanouil Panaousis, Pantelis Frangoudis, Christopher Ververidis, George Polyzos]
 date: 2008-09-03
 publishDate: 2008-09-03
@@ -12,7 +12,7 @@ abstract: "IEEE 802.11 k is an extension of the IEEE 802.11 specification for ra
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "https://www.manospanaousis.com/papers/panaousis2008optimizing.pdf"
+url_pdf: "papers/panaousis2008optimizing.pdf"
 image:
   caption: ""
   focal_point: ""

@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CHAI: Cyber Hygiene in AI enabled domestic life"
+title: "CHAI - Cyber Hygiene in AI enabled domestic life"
 subtitle: "Funded by the **Engineering and Physical Sciences Research Council** (EPSRC) under **EPSRC References: EP/T026812/1, EP/T026596/1, EP/T026707/1, EP/T026820/1** (01 December 2020 - 30 November 2023)"
-summary: #""
+summary: 
 # authors: [loukas, manos, malacaria, liu, vasalou, roesch, scott]
-tags: [Cyber Security, Artificial Intelligence, Optimisation]
+tags: [cyber risk management, iot security]
 categories: []
 date: "2020-09-28"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1"
+#external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -51,3 +51,8 @@ The aim of CHAI is to help the individual protect themselves against security ri
 CHAI focuses on the social housing sector, which is introducing several AI initiatives, such as housing management chatbots, building maintenance bots, and smart thermostats to tackle fuel poverty. While these initiatives can result in cost cuts and facilitate property management (e.g. temperature and humidity controllers), residents have no control over these changes and often do not have the digital literacy to respond to security risks and breaches. If an AI system's integrity or availability is breached this could affect the physical privacy of tenants (e.g. life patterns of behaviour), as well as their emotional and physical safety (e.g. temperature, electrical appliances' control). CHAI has chosen to focus on this population because of its heightened vulnerability with respect to security.
 
 With a view to deeply integrating CHAI in real-life settings, we approached leading industrial partners: (i) Gas Tag, AI developers for gas supply smart appliances in social housing, will support the examination of realistic AI applications that are currently in place or expected to be introduced in the near future in the home; (ii) Security awareness training providers, Bob's Business, whose current clients include over 70,000 employees in the UK Government, will co-design cyber hygiene training programmes and webinars; and (iii) Housing technology sector representative, Housing Technology, will help recruit participant households and social housing associations for experiments and offer its dissemination channels in the housing sector.
+
+<br> <br> Project website is [(here)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1).
+
+
+ 

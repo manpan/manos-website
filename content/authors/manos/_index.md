@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emmanouil (Manos) Panaousis
+title: Prof. Manos Panaousis
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of the Cyber Risk Lab, Associate Professor (Reader) of Computer Science
+role: Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
   url: "https://www.gre.ac.uk/"
 
 interests:
-  #- Cybersecurity
-  #- IoT
-  #- Applied Maths
+ - Cyber and privacy risk management
+ - Security economics
+ - AI trustworthiness
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
 
-<!-- education:
+education:
   courses:
   - course: PhD in Computer Science (Security for Mobile Ad Hoc Networks)
     institution: Kingston University
@@ -35,7 +35,7 @@ bio: ""
     year: 2008
   - course: BSc in Informatics and Telecommunications
     institution: National and Kapodistrian University of Athens
-    year: 2006 -->
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/panaousis
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/panaousis
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Emmanouil_Panaousis
+#- icon: researchgate
+#  icon_pack: ai
+  #link: https://www.researchgate.net/profile/Emmanouil_Panaousis
 #- icon: linkedin
   #icon_pack: ai
   #link: https://www.linkedin.com/in/manospanaousis/
@@ -75,15 +75,23 @@ email: "mailto:e.panaousis@greenwich.ac.uk"
 user_groups:
 - Faculty
 ---
-I am the Founder of the Cyber Risk Lab [(CRL)](https://www.cyberrisklab.co.uk/), which is part of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). CRL is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. Our team consists of PhD students, postdoctoral researchers, visiting researchers, and industrial experts. Our research and development outcomes are in the field of cyber risk management.
+Manos is a Professor of Cyber Security at the University of Greenwich, London, UK.
+He received his B.Sc. in Informatics and Telecommunications from the National and Kapodistrian University of Athens (Greece) in 2006, his M.Sc. in Computer Science from the Athens University of Economics and Business (Greece) in 2008 and his Ph.D. in Computer Science from Kingston University, London (UK) in 2012.
+He was also a postdoctoral researcher at Queen Mary University of London, UK (2013-2014), a visiting researcher at Imperial College London, UK (2013-2016), a Lecturer  and Senior Lecturer at the University of Brighton (2014-2017), a Lecturer and Senior Lecturer at the University of Surrey (2017-2019) and an Associate Professor at the University of Greenwich (2019-2022).
+His research and teaching activities focus on socio-technical challenges of cyber security.
+His research has been funded by the European Commission, the UK National Cyber Security Centre, and the Engineering and Physical Sciences Research Council.
+<!-- I am a Professor of Cyber Security at the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). ISEC is located at the University of Greenwich, Faculty of Engineering and Science, School of Computing and Mathematical Sciences. With 28 members of staff and PhD students and an annual budget over £2M, ISEC specialises in security and privacy technologies for distributed digital environments where a security breach in cyber space can affect people and systems in physical space, from smart homes and smart buildings to robotics, e-commerce and corporate environments. I direct the Impact and Commercialisation Strategy of ISEC. -->
+<!-- Our members specialise in embedded system security, mathematical modelling, formal methods, optimisation and machine learning together with practitioner skills in penetration testing and digital forensics. The centre’s research strategy prioritises multidisciplinary research and the validation of theoretical grounding with laboratory and in-the-wild experimentation with end-users. -->
 
-Our members possess expertise in security and privacy engineering, multi-agents systems and mathematical optimisation. Our goal is to invent, develop, and evaluate new models and methods. CRL's impact strategy is to contribute to a more secure UK society against cyber threats. Besides heading CRL, I direct the Cyber Risk Research strategy of the Internet of Things and Security Centre acting also as its liaison with industrial partners.
+<!-- **Research interests**: My research interests lie within the field of decision-making for cyber security including cyber risk modelling and optimisation. One of my main goals is to invent, develop, and evaluate new models and methods that can be adopted by organisations and individuals. This is aligned with ISEC's impact strategy to contribute to a secure UK society against cyber-physical threats. -->
 
-**Service** - I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small and highly specialised conference in the intersection of cybersecurity and decision support. It has been instrumental in building and maintaining the community around this topic while it is ranked 20th among all computer science conferences for computer security and cryptography, one position below the prestigious IEEE Computer Security Foundations Symposium [(source)](https://research.com/conference-rankings/computer-science/2021/computer-security-cryptography).
+<!-- **Funding**: My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en) and [(Horizon Europe )](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en), and the Greenwich Research & Enterprise (GRE). I have been involved, as Principal and co-Investigator, in grants in worth in excess of £20m, leading tasks, work packages, and the preparation of their bids. In total, I have attracted £1.15M as P.I. and £1.08M as co-I. -->
 
-I am an Associate Editor of the IET Information Security journal, reviewer of numerous high impact factor journals including IEEE TIFS and TDSC, Senior member of the IEEE, Advisory Board member of the H2020 SPIDER and H2020 SECANT projects, member of the [(EPSRC)](https://epsrc.ukri.org) Associate Peer Review College, Member of the College of Peer Reviewers of the [(REPHRAIN)](https://www.rephrain.ac.uk/) (National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online), and External Evaluator for the Romanian Agency for Quality Assurance in Higher Education.
+<!-- **Service** - I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small and highly specialised conference in the intersection of cybersecurity and decision support. It has been instrumental in building and maintaining the community around this topic while it is ranked 20th among all computer science conferences for computer security and cryptography, one position below the prestigious IEEE Computer Security Foundations Symposium [(source)](https://research.com/conference-rankings/computer-science/2021/computer-security-cryptography).
 
-**Research Funding** - My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE). I have been involved, as Principal and co-Investigator, in grants in worth in excess of £20m, leading tasks, work packages, and the preparation of their bids. In total, I have attracted £1.15M as P.I. and £1.08M as co-I.
+I am an Associate Editor of the IET Information Security journal, reviewer of numerous high impact factor journals including IEEE TIFS and TDSC, Senior member of the IEEE, Advisory Board member of the H2020 SPIDER and H2020 SECANT projects, member of the [(EPSRC)](https://epsrc.ukri.org) Associate Peer Review College, Member of the College of Peer Reviewers of the [(REPHRAIN)](https://www.rephrain.ac.uk/) (National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online), and External Evaluator for the Romanian Agency for Quality Assurance in Higher Education. -->
+
+<!-- **Research Funding*  -->
 
 <!-- My research involves:
 * Modelling cyber risk using threat modelling, vulnerability assessment, control-based risk assessment.

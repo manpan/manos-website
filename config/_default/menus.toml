@@ -9,31 +9,33 @@
   weight = 10
 
 [[main]]
-  name = "Lab"
-  url = "#lab"
+  name = "Projects"
+  url = "#projects"
   weight = 15
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  #url = "#publications"
+  url = "#publications"
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "publication/"
-  weight = 30
+  name = "Experience"
+  #url = "#publications"
+  url = "#experience"
+  weight = 23
 
 [[main]]
   name = "Service"
   url = "#service"
-  weight = 45
+  weight = 25
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 55
+  weight = 35

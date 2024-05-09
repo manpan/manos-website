@@ -1,11 +1,11 @@
 ---
-title: "A Game-Theoretic Approach for Minimizing Security Risks in the Internet-of-Things"
+title: "A Game-theoretic approach for minimizing security risks in the internet-of-things"
 authors: [George Rontidis, Emmanouil Panaousis, Aron Laszka, Tasos Dagiuklas, Pasquale Malacaria, Tansu Alpcan]
 date: 2015-06-01
 publishDate: 2015-06-01
 publication_types: ["1"]
-publication: "1st IEEE International Workshop on Security and Privacy for Internet of Things and Cyber-Physical Systems, in conjunction with IEEE ICC 2015"
-publication_short: "IoT/CPS-Security 2015"
+publication: "_1st IEEE International Workshop on Security and Privacy for Internet of Things and Cyber-Physical Systems_"
+publication_short: "_IoT/CPS-Security 2015_"
 doi: "10.1109/ICCW.2015.7247577"
 abstract: "In the Internet-of-Things (IoT), users might share part of their data with different IoT prosumers, which offer
 applications or services. Within this open environment, the existence of an adversary introduces security risks. These can

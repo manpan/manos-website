@@ -1,5 +1,5 @@
 ---
-title: "A Probabilistic Algorithm for Secret Matrix Share Size Reduction"
+title: "A probabilistic algorithm for secret matrix share size reduction"
 authors: [Eckhard Pfluegel, Emmanouil Panaousis, Christos Politis]
 date: 2013-04-16
 publishDate: 2013-04-16

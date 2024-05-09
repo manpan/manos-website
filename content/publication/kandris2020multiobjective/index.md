@@ -1,5 +1,5 @@
 ---
-title: "Multiobjective Optimization Algorithms for Wireless Sensor Networks"
+title: "Multiobjective optimization algorithms for wireless sensor networks"
 authors: [Dionisis Kandris, Alex Alexandridis, Tasos Dagiuklas, Emmanouil Panaousis, and Dimitrios D. Vergados]
 date: 2020-10-28
 publishDate: 2020-10-28

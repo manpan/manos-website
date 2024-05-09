@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SecurityBudget: Cyber Security Budget Spending Companion for SMEs"
+title: "SecurityBudget - Cyber Security Budget Spending Companion for SMEs"
 subtitle: "Funded by the Greenwich Research and Enterprise for Prototype development (Dec 2020 - Jul 21)"
 summary: ""
 # authors: [manos, loukas]
-tags: [Security Economics, Cyber Security]
+tags: [cyber risk management, security economics]
 categories: []
 date: 2020-12-07
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://www.riscs.org.uk/project/merit-a-framework-to-model-and-incentivise-cyber-security-investment-decisions/"
+#external_link: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

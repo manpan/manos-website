@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SPEAR: Secure and PrivatE smArt gRid"
+title: "SPEAR - Secure and PrivatE smArt gRid"
 subtitle: "Funded by the **European Commission H2020 Programme** under **Grant agreement ID: 787011** (1 May 2018 to 30 April 2021)"
 summary: #""
-# authors: [manos, liang]
-tags: [Cyber Security, Artificial Intelligence]
+#authors: [manos, liang, panda, fedorenko]
+tags: [iot security]
 categories: []
 date: 2018-05-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://cordis.europa.eu/project/id/787011"
+# external_link: "https://cordis.europa.eu/project/id/787011"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,3 +47,6 @@ slides: ""
 **Co-Investigator**: Kaitai Liang.
 
 Over the last decade, cyber-attacks have become increasingly sophisticated, stealthy, targeted and multi-faceted which may leverage zero-day exploits and highly creative interdisciplinary attack methods. As our society is becoming increasingly dependent on Critical INfrastructures (CIN), new technologies are needed to increase our detection and response capabilities. Detecting and responding to such attacks by a highly motivated, skilled and well-funded attacker has however been proven highly challenging. One of the most vulnerable and high-impact CIN is the Smart Grid. Smart Grid is considered as the next-generation power system, which promises self-healing, resilience, sustainability and efficiency to the energy Critical Infrastructures (CIN). However, securing smart grids against cyber-attacks is of vital importance for National Security and Public Safety, since the collapse of an energy production utility may cause human lives, millions of euros, denial of a very important and common good such as energy and days or even months of recovering. To this end, SPEAR aims at a) detecting and responding to cyber-attacks using new technologies and capabilities, b) detecting threat and anomalies timely, c) developing all-in-one security detection solutions, d) leveraging advanced forensics subject to privacy-preserving, e) confronting Advanced Persistent Threat (APT) and targeted attacks in smart grids, f) increasing the resilience of the smart grid innovation, g) alleviating the lack of trust in smart grid operators and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools.
+
+<br> <br> Project website is [(here)](https://cordis.europa.eu/project/id/787011).
+

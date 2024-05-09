@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "MERIT: A fraMEwoRk to Model and IncenTivise Cyber Security Investment Decisions"
+title: "MERIT - A fraMEwoRk to Model and IncenTivise Cyber Security Investment Decisions"
 subtitle: "Funded by the **National Cyber Security Centre** in collaboration with the
 **Research Institute in Sociotechnical Cyber Security** (RISCS) under the call: Economics and Incentives (Apr 2020 - March 21)"
 summary: ""
 # authors: [manos, chronopoulos]
-tags: [Security Economics, Cyber Security, Optimisation]
+tags: [cyber risk management, security economics]
 categories: []
 date: 2020-04-01
 
@@ -49,3 +49,5 @@ slides: ""
 **Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.
 
 MERIT is addressing the complete cyber security management lifecycle, including asset pricing, threat-based risk assessment and optimal risk control constrained by a financial budget. The value of MERIT to practitioners is to **increase the effectiveness of cyber security budget spending** as decided by Chief Information Security Officers (CISOs) and boards of directors. This effectiveness refers to both time to make a decision as well as financial savings.
+
+<br> <br> Project website is [(here)](https://www.riscs.org.uk/project/merit-a-framework-to-model-and-incentivise-cyber-security-investment-decisions/).

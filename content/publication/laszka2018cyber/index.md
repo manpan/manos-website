@@ -1,5 +1,5 @@
 ---
-title: "Cyber-Insurance as a Signaling Game: Self-Reporting and External Security Audits"
+title: "Cyber-insurance as a signaling game: self-reporting and external security audits"
 authors: [Aron Laszka, Emmanouil Panaousis, Jens Grossklags]
 date: 2018-10-01
 publishDate: 2018-10-01
@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [secondo]
 slides: ""
 
 ---

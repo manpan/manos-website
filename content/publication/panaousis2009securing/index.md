@@ -1,5 +1,5 @@
 ---
-title: "Securing AODV Against Wormhole Attacks in Emergency MANET Multimedia Communications"
+title: "Securing AODV against wormhole attacks in emergency MANET multimedia communications"
 authors: [Emmanouil Panaousis, Levon Nazaryan, Christos Politis]
 date: 2009-09-01
 publishDate: 2009-09-01
@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 
 ---

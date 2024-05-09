@@ -1,5 +1,5 @@
 ---
-title: "Security Model for Emergency Real-Time Communications in Autonomous Networks"
+title: "Security model for emergency real-time communications in autonomous networks"
 authors: [Emmanouil Panaousis, Christos Politis, Konstantinos Birkos, Christos P Papageorgiou, Tasos Dagiuklas]
 date: 2012-07-01
 publishDate: 2012-07-01
@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: []
+projects: [peace]
 slides: ""
 
 ---
