@@ -43,8 +43,8 @@ url_video: ""
 # The MERIT addresses the challenge of **how to take better cyber security investment decisions**. It aims at minimising cyber security risks by optimally investing its budget for cyber controls. In a multi-disciplinary approach, it utilises both **economics and cybersecurity engineering** insights to significantly extend the state-of-the-art in decision support for cybersecurity spending. It combines econometrics, game theory, mathematical optimisation and cyber security engineering concepts.
 slides: ""
 ---
-**Budget**: £110k (University of Greenwich share £98k).
-**Role**: Principal investigator.
+**Project Budget**: £110k. 
+**Role**: Principal investigator for Greenwich.
 **co-Investigator**: Michail Chronopoulos (City University London, Cass Business School).
 **Partners**: City University, IASME consortium, Imperial College, Giess Wallis Crisp LLP.
 

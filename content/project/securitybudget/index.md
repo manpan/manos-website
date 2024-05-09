@@ -41,6 +41,7 @@ url_video: ""
 slides: ""
 ---
 **Budget**: £12.5k.
-**Principal Investigator**: Manos Panaousis, **co-Investigator**: George Loukas.
+**Role**: Principal investigator.
+**Co-Investigator**: George Loukas.
 
 SecurityBudget is a cyber security dashboard to support SMEs on how to protect their systems subject to a limited available budget.

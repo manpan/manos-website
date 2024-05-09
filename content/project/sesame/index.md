@@ -42,8 +42,8 @@ url_video: ""
 # **Role**: Leading research on threat modelling for 5G networks.
 slides: ""
 ---
-**Budget**: €8,266,932.76 (University of Brighton share €331,639).
-**Role**: Co-investigator.
+**Project Budget**: €8,266,932.76.
+**Role**: Co-investigator for Brighton.
 **Principal Investigator**: Haris Mouratidis.
 
 SESAME targets innovations around three central elements in 5G: the placement of network intelligence and applications in the network edge through Network Functions Virtualisation (NFV) and Edge Cloud Computing; the substantial evolution of the Small Cell concept, already mainstream in 4G but expected to deliver its full potential in the challenging high dense 5G scenarios; and the consolidation of multi-tenancy in communications infrastructures, allowing several operators/service providers to engage in new sharing models of both access capacity and edge computing capabilities.
